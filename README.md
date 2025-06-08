@@ -25,5 +25,6 @@
   1. **Snappy Driver Installer**
      - 官网：https://sdi-tool.org/
      - SVN 仓库：https://svn.code.sf.net/p/snappy-driver-installer/code/trunk/
+     - 下载页面：https://sdi-tool.org/download/
      - SourceForge 首页：https://sourceforge.net/projects/snappy-driver-installer/
 
