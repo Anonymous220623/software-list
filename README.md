@@ -4,12 +4,17 @@
 
   1. [Lively Wallpaper](https://github.com/rocksdanister/lively)
 
-## 二. 远程控制软件
+## 二. 设备控制软件
 
-  1. RustDesk
+  1. RustDesk（远程控制）
      - 官网：https://rustdesk.com/
      - Git 仓库：https://github.com/rustdesk/rustdesk
      - GitHub 发行版：https://github.com/rustdesk/rustdesk/releases
+
+  2. Scrcpy（USB 或 TCP/IP 控制，只能控制 Android 设备）
+     - 官网：https://www.genymotion.com/
+     - Git 仓库：https://github.com/Genymobile/scrcpy
+     - GitHub 发行版：https://github.com/Genymobile/scrcpy/releases
 
 
 ## 三. 驱动程序管理
