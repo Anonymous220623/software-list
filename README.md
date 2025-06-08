@@ -2,7 +2,10 @@
 
 ## 一. 动态壁纸
 
-  1. [Lively Wallpaper](https://github.com/rocksdanister/lively)
+  1. Lively Wallpaper
+     - Git 仓库：https://github.com/rocksdanister/lively
+     - GitHub 发行版：https://github.com/rocksdanister/lively/releases
+     - Microsoft Store 链接：[https://apps.microsoft.com/detail/9ntm2qc6qws7](https://apps.microsoft.com/detail/9ntm2qc6qws7)，应用 ID：`9ntm2qc6qws7`
 
 ## 二. 设备控制软件
 
