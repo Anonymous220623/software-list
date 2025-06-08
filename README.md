@@ -45,7 +45,7 @@
 
 ## 五. 视频转码，格式转换和编辑
 
-  1. **HandBrake**
+  1. **HandBrake**：视频转码和格式转换工具
 
      - 官网：https://handbrake.fr/
      - GitHub 仓库：https://github.com/HandBrake/HandBrake
