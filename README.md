@@ -9,7 +9,7 @@
 
 ## 二. 设备控制软件
 
-  1. **RustDesk**（远程控制）
+  1. **RustDesk**（远程控制，支持全平台）
      - 官网：https://rustdesk.com/
      - Git 仓库：https://github.com/rustdesk/rustdesk
      - GitHub 发行版：https://github.com/rustdesk/rustdesk/releases
