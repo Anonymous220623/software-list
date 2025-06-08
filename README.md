@@ -1,0 +1,21 @@
+# 开源软件列表
+
+## 一. 动态壁纸
+
+  1. [Lively Wallpaper](https://github.com/rocksdanister/lively)
+
+## 二. 远程控制软件
+
+  1. RustDesk
+     - 官网：https://rustdesk.com/
+     - Git 仓库：https://github.com/rustdesk/rustdesk
+     - GitHub 发行版：https://github.com/rustdesk/rustdesk/releases
+
+
+## 三. 驱动程序管理
+
+  1. Snappy Driver Installer
+     - 官网：https://sdi-tool.org/
+     - SVN 仓库：https://svn.code.sf.net/p/snappy-driver-installer/code/trunk/
+     - SourceForge 首页：https://sourceforge.net/projects/snappy-driver-installer/
+
