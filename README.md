@@ -67,8 +67,8 @@
 
   1. **RisohEditor**：Windows PE（Portable Executable）文件资源反编译，编译，修改器
 
-     - GitHub 仓库：[https://github.com/Tichau/FileConverter](https://github.com/katahiromz/RisohEditor)
-     - GitHub 发行版：[https://github.com/Tichau/FileConverter/releases](https://github.com/katahiromz/RisohEditor/releases)
+     - GitHub 仓库：https://github.com/katahiromz/RisohEditor
+     - GitHub 发行版：https://github.com/katahiromz/RisohEditor/releases
 
   2. **Ghidra**：由美国国家安全局创建和维护的软件逆向工程（SRE）框架
 
