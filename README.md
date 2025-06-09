@@ -135,3 +135,13 @@
        
        - GitHub 仓库：https://github.com/ValveSoftware/Proton
 
+
+  2. **WSL**：Windows 上基于 Hyper-V 的 Linux 虚拟机平台，由微软官方提供，用户可在此平台上安装任意 Linux 发行版的 `*.wsl` 镜像并运行 Linux 应用程序。
+
+     - **GitHub 源码仓库**：
+       
+       - WSL 平台（部分驱动程序闭源）：https://github.com/microsoft/WSL
+       - 用于 WSL 的 Linux 内核：https://github.com/microsoft/WSL2-Linux-Kernel
+       - WSL 的 GUI 应用程序支持：https://github.com/microsoft/wslg
+       - WSL 文档：https://github.com/microsoftdocs/wsl
+
