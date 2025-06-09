@@ -102,7 +102,7 @@
 
 ## 七. 操作系统内核
 
-  1. **Linux**
+  1. **Linux**: 全世界影响力最大的开放源码操作系统内核
      
      - Linux 基金会官网：https://www.linux.org
      - Linux Kernel Archives 官网：https://www.kernel.org
@@ -118,4 +118,20 @@
      - GitHub 仓库：https://github.com/reactos/reactos
      - GitHub 发行版：https://github.com/reactos/reactos/releases
      - SourceForge 发行版：https://sourceforge.net/projects/reactos/files/ReactOS
+
+## 八. 应用跨平台运行辅助工具
+
+  1. **Wine**：能在类 Unix 系统上运行大多数 Windows 应用程序的容器，由 CodeWeavers 发起并维护，[CrossOver](https://www.codeweavers.com/crossover) 是其专业版本。
+
+     - 官网：https://www.winehq.org
+     - CodeWeavers 官网：https://www.codeweavers.com
+     - GitHub 源码镜像仓库：https://github.com/wine-mirror/wine
+     - GitLab 官方源码仓库：https://gitlab.winehq.org/wine/wine
+     - 由第三方维护的 wine-builds 项目 **（提供 Wine 已编译的可执行文件）**：
+       
+       - https://github.com/Kron4ek/Wine-Builds
+
+     - **Proton**：由 Value 维护的基于 Wine 等开源软件的 Windows 游戏运行平台，用于 SteamOS。
+       
+       - GitHub 仓库：https://github.com/ValveSoftware/Proton
 
