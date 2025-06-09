@@ -110,7 +110,7 @@
      - 项目官方源码镜像站（Git）：https://git.kernel.org
      - 谷歌提供的源码镜像站（Git）：https://kernel.googlesource.com
 
-  2. **ReactOS**：类 Windows NT 操作系统，内核层代码为该项目原创，应用层引用 Wine 项目源码，**该项目目前处于 Alpha 阶段**。
+  2. **ReactOS**：类 Windows NT 操作系统，内核层代码为该项目原创，应用层引用 [Wine 项目](https://github.com/Anonymous220623/opensource-software-list#%E5%85%AB-%E5%BA%94%E7%94%A8%E8%B7%A8%E5%B9%B3%E5%8F%B0%E8%BF%90%E8%A1%8C%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)源码，**该项目目前处于 Alpha 阶段**。
 
      - 官网：https://reactos.org
      - 官方开发文档首页：https://reactos.org/wiki/Welcome_to_the_ReactOS_Development_Wiki
