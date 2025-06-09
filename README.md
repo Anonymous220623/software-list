@@ -85,7 +85,7 @@
        - GitHub 仓库：https://github.com/radareorg/iaito
        - GitHub 发行版：https://github.com/radareorg/iaito/releases
 
-  4. **Cutter**：基于 [Rizin](https://github.com/rizinorg/rizin)（Radare2 的分支）项目、Ghidra C/C++ 反编译器等开源项目的逆向工程平台
+  4. **Cutter**：基于 [Rizin](https://github.com/rizinorg/rizin)（Radare2 的分支）项目、Ghidra C 语言反编译器等开源项目的逆向工程平台
 
      - 官网：https://cutter.re
      - GitHub 仓库：https://github.com/rizinorg/cutter
