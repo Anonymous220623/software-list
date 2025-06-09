@@ -63,7 +63,7 @@
      - GitHub 发行版：https://github.com/Tichau/FileConverter/releases
 
 
-## 六. 应用逆向工程相关软件
+## 六. 应用调试和逆向工程相关软件
 
   1. **RisohEditor**：Windows PE（Portable Executable）文件资源反编译，编译，修改器
 
@@ -74,3 +74,27 @@
 
      - GitHub 仓库：https://github.com/NationalSecurityAgency/ghidra
      - GitHub 发行版：https://github.com/NationalSecurityAgency/ghidra/releases
+       
+  3. **Radare2**：基于命令行的逆向工程平台
+
+     - GitHub 仓库：https://github.com/radareorg/radare2
+     - GitHub 发行版：https://github.com/radareorg/radare2/releases
+     - 官网：https://rada.re
+       
+     - **iaito**：Radare2 官方提供的图形用户页面
+       - GitHub 仓库：https://github.com/radareorg/iaito
+       - GitHub 发行版：https://github.com/radareorg/iaito/releases
+
+  4. **Cutter**：基于 [Rizin](https://github.com/rizinorg/rizin)（Radare2 的分支）项目、Ghidra C/C++ 反编译器等开源项目的逆向工程平台
+
+     - 官网：https://cutter.re/
+     - GitHub 仓库：https://github.com/rizinorg/cutter
+     - GitHub 发行版：https://github.com/rizinorg/cutter/releases
+
+  5. **x64dbg**：Windows 平台图形化程序跟踪调试软件
+
+     - 官网：https://x64dbg.com/
+     - GitHub 仓库：https://github.com/x64dbg/x64dbg
+     - SourceForge 项目主页：https://sourceforge.net/projects/x64dbg/
+     - GitHub 发行版（历史记录不完整）：https://github.com/x64dbg/x64dbg/releases
+     - SourceForge 上的发行版（完整的历史记录）：https://sourceforge.net/projects/x64dbg/files/snapshots/
