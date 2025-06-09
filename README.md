@@ -18,7 +18,7 @@
 
   2. **Scrcpy**（USB 或 TCP/IP 控制，只能控制 Android 设备）
      
-     - 官网：https://www.genymotion.com
+     - GenyMotion 官网：https://www.genymotion.com
      - GitHub 仓库：https://github.com/Genymobile/scrcpy
      - GitHub 发行版：https://github.com/Genymobile/scrcpy/releases
 
