@@ -28,10 +28,10 @@
   1. **Snappy Driver Installer**
      
      - 官网：https://sdi-tool.org/
-     - SourceForge SVN 仓库：https://svn.code.sf.net/p/snappy-driver-installer/code/trunk/
      - 下载页面：https://sdi-tool.org/download/
      - SourceForge 首页：https://sourceforge.net/projects/snappy-driver-installer/
-
+     - SourceForge SVN 仓库：https://svn.code.sf.net/p/snappy-driver-installer/code/trunk/
+       
 ## 四. 屏幕录制
 
   1. **OBS Studio**
@@ -65,7 +65,7 @@
 
 ## 六. 应用调试和逆向工程相关软件
 
-  1. **RisohEditor**：Windows PE（Portable Executable）文件资源反编译，编译，修改器
+  1. **RisohEditor**：Windows PE（Portable Executable）文件资源反编译、编译和修改工具
 
      - GitHub 仓库：https://github.com/katahiromz/RisohEditor
      - GitHub 发行版：https://github.com/katahiromz/RisohEditor/releases
