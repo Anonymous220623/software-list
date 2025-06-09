@@ -12,13 +12,13 @@
 
   1. **RustDesk**（远程控制，支持全平台）
      
-     - 官网：https://rustdesk.com/
+     - 官网：https://rustdesk.com
      - GitHub 仓库：https://github.com/rustdesk/rustdesk
      - GitHub 发行版：https://github.com/rustdesk/rustdesk/releases
 
   2. **Scrcpy**（USB 或 TCP/IP 控制，只能控制 Android 设备）
      
-     - 官网：https://www.genymotion.com/
+     - 官网：https://www.genymotion.com
      - GitHub 仓库：https://github.com/Genymobile/scrcpy
      - GitHub 发行版：https://github.com/Genymobile/scrcpy/releases
 
@@ -27,16 +27,16 @@
 
   1. **Snappy Driver Installer**
      
-     - 官网：https://sdi-tool.org/
-     - 下载页面：https://sdi-tool.org/download/
-     - SourceForge 首页：https://sourceforge.net/projects/snappy-driver-installer/
-     - SourceForge SVN 仓库：https://svn.code.sf.net/p/snappy-driver-installer/code/trunk/
+     - 官网：https://sdi-tool.org
+     - 下载页面：https://sdi-tool.org/download
+     - SourceForge 首页：https://sourceforge.net/projects/snappy-driver-installer
+     - SourceForge SVN 仓库：https://svn.code.sf.net/p/snappy-driver-installer/code/trunk
        
 ## 四. 屏幕录制
 
   1. **OBS Studio**
      
-     - 官网：https://obsproject.com/
+     - 官网：https://obsproject.com
      - GitHub 仓库：https://github.com/obsproject/obs-studio
      - GitHub 发行版：https://github.com/obsproject/obs-studio/releases
      - Microsoft Store 链接：[https://apps.microsoft.com/detail/xpffh613w8v6lv](https://apps.microsoft.com/detail/xpffh613w8v6lv)，应用 ID：`xpffh613w8v6lv`
@@ -47,15 +47,15 @@
 
   1. **HandBrake**：视频转码和格式转换工具
 
-     - 官网：https://handbrake.fr/
+     - 官网：https://handbrake.fr
      - GitHub 仓库：https://github.com/HandBrake/HandBrake
      - GitHub 发行版：https://github.com/HandBrake/HandBrake/releases
 
   3. **MKVToolNix**：将任何格式的视频文件、字幕文件和音频混流为 Matroska（MKV）媒体文件
 
-     - 官网：https://mkvtoolnix.download/
+     - 官网：https://mkvtoolnix.download
      - Git 仓库：https://codeberg.org/mbunkus/mkvtoolnix
-     - 打包的源码文件列表：https://mkvtoolnix.download/sources/
+     - 打包的源码文件列表：https://mkvtoolnix.download/sources
        
   4. **FileConverter**：部分格式的视频转换，以及图片和文档的格式转换工具，集成至 Windows 的右键菜单中
      
@@ -87,14 +87,25 @@
 
   4. **Cutter**：基于 [Rizin](https://github.com/rizinorg/rizin)（Radare2 的分支）项目、Ghidra C/C++ 反编译器等开源项目的逆向工程平台
 
-     - 官网：https://cutter.re/
+     - 官网：https://cutter.re
      - GitHub 仓库：https://github.com/rizinorg/cutter
      - GitHub 发行版：https://github.com/rizinorg/cutter/releases
 
   5. **x64dbg**：Windows 平台图形化程序跟踪调试软件
 
-     - 官网：https://x64dbg.com/
+     - 官网：https://x64dbg.com
      - GitHub 仓库：https://github.com/x64dbg/x64dbg
-     - SourceForge 项目主页：https://sourceforge.net/projects/x64dbg/
+     - SourceForge 项目主页：https://sourceforge.net/projects/x64dbg
      - GitHub 发行版（历史记录不完整）：https://github.com/x64dbg/x64dbg/releases
-     - SourceForge 上的发行版（完整的历史记录）：https://sourceforge.net/projects/x64dbg/files/snapshots/
+     - SourceForge 上的发行版（完整的历史记录）：https://sourceforge.net/projects/x64dbg/files/snapshots
+
+
+## 七. 操作系统内核
+
+  1. **Linux**
+     
+     - Linux 基金会官网：https://www.linux.org
+     - Linux Kernel Archives 官网：https://www.kernel.org
+     - GitHub 仓库：https://github.com/torvalds/linux
+     - 项目官方源码镜像站（Git）：[https://git.kernel.org](https://git.kernel.org)
+     - 谷歌提供的源码镜像站（Git）：[https://kernel.googlesource.com](https://kernel.googlesource.com)
