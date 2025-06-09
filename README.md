@@ -97,7 +97,7 @@
      - GitHub 仓库：https://github.com/x64dbg/x64dbg
      - SourceForge 项目主页：https://sourceforge.net/projects/x64dbg
      - GitHub 发行版（历史记录不完整）：https://github.com/x64dbg/x64dbg/releases
-     - SourceForge 上的发行版（完整的历史记录）：https://sourceforge.net/projects/x64dbg/files/snapshots
+     - SourceForge 发行版（完整的历史记录）：https://sourceforge.net/projects/x64dbg/files/snapshots
 
 
 ## 七. 操作系统内核
@@ -107,5 +107,15 @@
      - Linux 基金会官网：https://www.linux.org
      - Linux Kernel Archives 官网：https://www.kernel.org
      - GitHub 仓库：https://github.com/torvalds/linux
-     - 项目官方源码镜像站（Git）：[https://git.kernel.org](https://git.kernel.org)
-     - 谷歌提供的源码镜像站（Git）：[https://kernel.googlesource.com](https://kernel.googlesource.com)
+     - 项目官方源码镜像站（Git）：https://git.kernel.org
+     - 谷歌提供的源码镜像站（Git）：https://kernel.googlesource.com
+
+  2. **ReactOS**：类 Windows NT 操作系统，内核层代码为该项目原创，应用层引用 Wine 项目源码，**该项目目前处于 Alpha 阶段**。
+
+     - 官网：https://reactos.org
+     - 官方开发文档首页：https://reactos.org/wiki/Welcome_to_the_ReactOS_Development_Wiki
+     - SourceForge 首页：https://sourceforge.net/projects/reactos
+     - GitHub 仓库：https://github.com/reactos/reactos
+     - GitHub 发行版：https://github.com/reactos/reactos/releases
+     - SourceForge 发行版：https://sourceforge.net/projects/reactos/files/ReactOS
+
