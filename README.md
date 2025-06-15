@@ -196,7 +196,13 @@
 
 ### 8.2 虚拟机
 
-  1. **WSL**：Windows 上基于 Hyper-V 的 Linux 虚拟机平台，由微软官方提供，用户可在此平台上安装任意 Linux 发行版的 `*.wsl` 镜像并运行 Linux 应用程序。
+  1. **VirtualBox**：由 Oracle 维护的虚拟机管理工具
+
+     - 官网：https://www.virtualbox.org
+     - VirtualBox 官方发行版与源代码包镜像站：https://download.virtualbox.org/virtualbox
+     - VirtualBox SVN 仓库：https://www.virtualbox.org/svn/vbox/trunk
+       
+  2. **WSL2**：Windows 上基于 Hyper-V 的 Linux 虚拟机平台，由微软官方提供，用户可在此平台上安装任意 Linux 发行版的 `*.wsl` 镜像并运行 Linux 应用程序。
 
      - **GitHub 源码仓库**：
        
@@ -204,6 +210,8 @@
        - 用于 WSL 的 Linux 内核：https://github.com/microsoft/WSL2-Linux-Kernel
        - WSL 的 GUI 应用程序支持：https://github.com/microsoft/wslg
        - WSL 文档：https://github.com/microsoftdocs/wsl
+         
+     - WSL 官方文档：https://wsl.dev 
 
 ## 九. 应用安全性测试工具
 
