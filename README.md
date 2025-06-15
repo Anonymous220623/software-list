@@ -16,7 +16,7 @@
      - GitHub 仓库：https://github.com/rustdesk/rustdesk
      - GitHub 发行版：https://github.com/rustdesk/rustdesk/releases
 
-  2. **Scrcpy**（USB 或 TCP/IP 控制，只能控制 Android 设备）
+  2. **Scrcpy**（USB 或 TCP/IP 控制，可通过计算机控制 Android 设备）
      
      - GenyMotion 官网：https://www.genymotion.com
      - GitHub 仓库：https://github.com/Genymobile/scrcpy
