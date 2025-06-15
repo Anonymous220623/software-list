@@ -23,7 +23,7 @@
      - GitHub 发行版：https://github.com/Genymobile/scrcpy/releases
 
 
-## 三. 驱动程序管理
+## 三. 驱动程序下载和管理工具
 
   1. **Snappy Driver Installer**
      
