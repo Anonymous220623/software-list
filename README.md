@@ -178,6 +178,8 @@
 
 ## 八. 应用跨平台运行辅助工具
 
+### 8.1 应用兼容层
+
   1. **Wine**：能在类 Unix 系统上运行大多数 Windows 应用程序的容器，由 CodeWeavers 发起并维护，[CrossOver](https://www.codeweavers.com/crossover) 是其专业版本。
 
      - 官网：https://www.winehq.org
@@ -192,8 +194,9 @@
        
        - GitHub 仓库：https://github.com/ValveSoftware/Proton
 
+### 8.2 虚拟机
 
-  2. **WSL**：Windows 上基于 Hyper-V 的 Linux 虚拟机平台，由微软官方提供，用户可在此平台上安装任意 Linux 发行版的 `*.wsl` 镜像并运行 Linux 应用程序。
+  1. **WSL**：Windows 上基于 Hyper-V 的 Linux 虚拟机平台，由微软官方提供，用户可在此平台上安装任意 Linux 发行版的 `*.wsl` 镜像并运行 Linux 应用程序。
 
      - **GitHub 源码仓库**：
        
@@ -202,3 +205,17 @@
        - WSL 的 GUI 应用程序支持：https://github.com/microsoft/wslg
        - WSL 文档：https://github.com/microsoftdocs/wsl
 
+## 九. 应用安全性测试工具
+
+### 9.1 沙盒
+
+  1. **Sandboxie**：适用于 Windows 的沙盒隔离操作环境（分为社区和商业分支，社区分支开源，商业分支闭源收费）
+     
+     - GitHub 仓库：https://github.com/sandboxie-plus/Sandboxie
+     - GitHub 发行版：https://github.com/sandboxie-plus/Sandboxie/releases
+     - 官网：https://sandboxie-plus.com
+     - 开源版本与商业版本功能对比：
+       ![image](https://github.com/user-attachments/assets/28f885b4-1fae-4457-8c50-935bf058cdde)
+
+
+     
