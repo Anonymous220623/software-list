@@ -10,7 +10,7 @@
 
 ## 二. 设备控制软件
 
-  1. **RustDesk**（远程控制，支持全平台）
+  1. **RustDesk**（远程控制，支持全平台（iOS 设备不支持被控制）；支持自托管中继服务器，且官方提供一个免费中继服务器；支持内部/外部 IP 直连）
      
      - 官网：https://rustdesk.com
      - GitHub 仓库：https://github.com/rustdesk/rustdesk
