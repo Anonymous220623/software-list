@@ -10,6 +10,17 @@
      - GitHub 发行版：https://github.com/rocksdanister/lively/releases
      - Microsoft Store 链接：[https://apps.microsoft.com/detail/9ntm2qc6qws7](https://apps.microsoft.com/detail/9ntm2qc6qws7)，应用 ID：`9ntm2qc6qws7`
 
+### 1.2 用户页面修改工具
+
+  1. **Windhawk**：Windows 用户页面的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。
+
+     - 官网：https://windhawk.net
+     - Ramen Software 官网：https://ramensoftware.com
+     - 客户端应用源代码（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk
+     - Windhawk 官方提供的模组源码仓库（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk-mods
+     - Windhawk 插件市场：https://windhawk.net/mods
+
+
 ## 二. 设备控制软件
 
   1. **RustDesk**：远程控制软件，支持全平台（iOS 设备不支持被控制）；支持自托管中继服务器，且官方提供一个免费中继服务器；支持内部/外部 IP 直连。
