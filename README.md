@@ -47,7 +47,7 @@
        
 ## 四. 屏幕录制
 
-  1. **OBS Studio**
+  1. **OBS Studio**：强大的录屏和直播软件
      
      - 官网：https://obsproject.com
      - GitHub 仓库：https://github.com/obsproject/obs-studio
@@ -56,23 +56,23 @@
      - Steam 链接：[https://store.steampowered.com/app/1905180/OBS_Studio/](https://store.steampowered.com/app/1905180/OBS_Studio/)，应用 ID：`1905180`
 
 
-## 五. 视频转码，格式转换，编辑和播放
+## 五. 多媒体相关工具
 
-### 5.1 视频转码和格式转换
+### 5.1 视频转码和格式转换相关工具
 
-  1. **HandBrake**：视频转码和格式转换工具
+  1. **HandBrake**：视频转码和格式转换工具，支持几乎全部的视频格式和码率。
 
      - 官网：https://handbrake.fr
      - GitHub 仓库：https://github.com/HandBrake/HandBrake
      - GitHub 发行版：https://github.com/HandBrake/HandBrake/releases
 
-  2. **MKVToolNix**：将任何格式的视频文件、字幕文件和音频混流为 Matroska（MKV）媒体文件
+  2. **MKVToolNix**：将任何格式的视频文件、字幕文件和音频混流为 Matroska（MKV）媒体文件。
 
      - 官网：https://mkvtoolnix.download
      - Git 仓库：https://codeberg.org/mbunkus/mkvtoolnix
      - 打包的源码文件列表：https://mkvtoolnix.download/sources
        
-  3. **FileConverter**：部分格式的视频转换，以及图片和文档的格式转换工具，集成至 Windows 的右键菜单中
+  3. **FileConverter**：部分格式的视频转换，以及图片和文档的格式转换工具，集成至 Windows 的右键菜单中。
      
      - GitHub 仓库：https://github.com/Tichau/FileConverter
      - GitHub 发行版：https://github.com/Tichau/FileConverter/releases
