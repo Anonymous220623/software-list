@@ -53,13 +53,13 @@
      - GitHub 仓库：https://github.com/HandBrake/HandBrake
      - GitHub 发行版：https://github.com/HandBrake/HandBrake/releases
 
-  3. **MKVToolNix**：将任何格式的视频文件、字幕文件和音频混流为 Matroska（MKV）媒体文件
+  2. **MKVToolNix**：将任何格式的视频文件、字幕文件和音频混流为 Matroska（MKV）媒体文件
 
      - 官网：https://mkvtoolnix.download
      - Git 仓库：https://codeberg.org/mbunkus/mkvtoolnix
      - 打包的源码文件列表：https://mkvtoolnix.download/sources
        
-  4. **FileConverter**：部分格式的视频转换，以及图片和文档的格式转换工具，集成至 Windows 的右键菜单中
+  3. **FileConverter**：部分格式的视频转换，以及图片和文档的格式转换工具，集成至 Windows 的右键菜单中
      
      - GitHub 仓库：https://github.com/Tichau/FileConverter
      - GitHub 发行版：https://github.com/Tichau/FileConverter/releases
@@ -209,7 +209,7 @@
      - GitHub 镜像仓库：https://github.com/qemu/qemu
      - 官方源码包镜像站：https://download.qemu.org
        
-  4. **WSL2**：Windows 上基于 Hyper-V 的 Linux 虚拟机平台，由微软官方提供，用户可在此平台上安装任意 Linux 发行版的 `*.wsl` 镜像并运行 Linux 应用程序。
+  3. **WSL2**：Windows 上基于 Hyper-V 的 Linux 虚拟机平台，由微软官方提供，用户可在此平台上安装任意 Linux 发行版的 `*.wsl` 镜像并运行 Linux 应用程序。
 
      - **GitHub 源码仓库**：
        
@@ -229,8 +229,11 @@
      - GitHub 仓库：https://github.com/sandboxie-plus/Sandboxie
      - GitHub 发行版：https://github.com/sandboxie-plus/Sandboxie/releases
      - 官网：https://sandboxie-plus.com
-     - 开源版本与商业版本功能对比：
-       ![image](https://github.com/user-attachments/assets/28f885b4-1fae-4457-8c50-935bf058cdde)
+
+
+> 开源版本与商业版本功能对比：https://sandboxie-plus.com/feature-comparison
+> 
+> ![image](https://github.com/user-attachments/assets/28f885b4-1fae-4457-8c50-935bf058cdde)
 
 
      
