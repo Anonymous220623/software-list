@@ -196,13 +196,20 @@
 
 ### 8.2 虚拟机
 
-  1. **VirtualBox**：由 Oracle 维护的虚拟机管理工具
+  1. **VirtualBox**：由 Oracle 维护的虚拟机管理工具和计算机模拟器，用户页面基于 Qt。
 
      - 官网：https://www.virtualbox.org
      - VirtualBox 官方发行版与源代码包镜像站：https://download.virtualbox.org/virtualbox
      - VirtualBox SVN 仓库：https://www.virtualbox.org/svn/vbox/trunk
+
+  2. **QEMU**：计算机模拟器（可和 KVM 结合使用以达到和实体机几乎同样的运行效率）
+
+     - 官网：https://www.qemu.org
+     - GitLab 仓库：https://gitlab.com/qemu-project/qemu
+     - GitHub 镜像仓库：https://github.com/qemu/qemu
+     - 官方源码包镜像站：https://download.qemu.org
        
-  2. **WSL2**：Windows 上基于 Hyper-V 的 Linux 虚拟机平台，由微软官方提供，用户可在此平台上安装任意 Linux 发行版的 `*.wsl` 镜像并运行 Linux 应用程序。
+  4. **WSL2**：Windows 上基于 Hyper-V 的 Linux 虚拟机平台，由微软官方提供，用户可在此平台上安装任意 Linux 发行版的 `*.wsl` 镜像并运行 Linux 应用程序。
 
      - **GitHub 源码仓库**：
        
