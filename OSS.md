@@ -209,7 +209,7 @@
 
 ### 8.2 虚拟机
 
-  1. **VirtualBox**：由 Oracle 维护的虚拟机管理工具和计算机模拟器，用户页面基于 Qt。
+  1. **VirtualBox**：由 Oracle 维护的虚拟机管理工具和计算机模拟器，用户页面基于 Qt，部分组件封闭源码。
 
      - 官网：https://www.virtualbox.org
      - VirtualBox 官方发行版与源代码包镜像站：https://download.virtualbox.org/virtualbox
