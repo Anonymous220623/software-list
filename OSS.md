@@ -248,5 +248,41 @@
 > 
 > ![image](https://github.com/user-attachments/assets/28f885b4-1fae-4457-8c50-935bf058cdde)
 
+## 十. 办公辅助和自动化软件
 
-     
+### 10.1 办公套件
+
+  1. **LibreOffice**：优先支持 ODF(Open Document Format)，适用于 Windows, MacOS 和 Linux（优先支持 Linux 并主要通过 Linux 推广自己的产品）。
+  
+     - GitHub 组织：https://github.com/libreoffice
+     - 官方 Gerrit：https://git.libreoffice.org
+     - 已发布版本的源代码压缩包：https://download.documentfoundation.org/libreoffice/src
+     - 简体中文官网首页：https://zh-cn.libreoffice.org
+     - 英文官网首页：https://www.libreoffice.org
+
+  2. **ONLYOFFICE Desktop Editor/Document App**：专注于支持 OOXML、ODF 等成熟的文档格式，拥有和 Microsoft Office 相近的用户页面：
+
+     - 官网：https://www.onlyoffice.com
+     - GitHub 组织：https://github.com/ONLYOFFICE
+     - 下载页面：https://www.onlyoffice.com/download-desktop.aspx
+
+  3. **Apache OpenOffice**：由 Apache 基金会维护的办公套件：
+
+     - 官网：https://www.openoffice.org
+     - GitHub 仓库：https://github.com/apache/openoffice
+
+  > Apache OpenOffice 和 LibreOffice 的关系和发展历史：https://zh.wikipedia.org/zh-cn/LibreOffice#历史
+  >
+  > ![image](https://github.com/user-attachments/assets/4186e590-bdaa-4a3b-a2c9-0c365df1f106)
+
+  4. **Collabora Online**：基于 Web 的办公套件，是 LibreOffice Online 的活跃分支（LibreOffice Online 已不再积极维护）
+
+     - 官网：https://www.collaboraonline.com
+     - GitHub 组织：https://github.com/CollaboraOnline
+
+
+
+
+
+
+
