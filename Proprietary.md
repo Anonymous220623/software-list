@@ -9,10 +9,10 @@
 3. Foxit PDF Reader/Editor
 4. Adobe Acrobat Pro DC（可通过 Adobe GenP 破解）
 5. PDF X-Change Editor
-6. PDFescape
-7. Sejda
-8. PDFFiller
-9. PicoPDF Editor（提供免费计划）
+6. PDFescape Desktop
+7. Sejda Desktop
+8. PDFFiller Desktop
+9. PicoPDF Editor Pro/Home（提供免费计划）
 
 ### 1.2 Web 端（免费，无限制）
 
