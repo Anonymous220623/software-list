@@ -7,7 +7,7 @@
 1. PDFgear（截至版本 1.9.1/2.1.12【2025/6/24】完全免费）
 2. Xodo PDF Editor
 3. Foxit PDF Reader/Editor
-4. Adobe Acrobat（可通过 Adobe GenP 破解）
+4. Adobe Acrobat Pro DC（可通过 Adobe GenP 破解）
 5. PDF X-Change Editor
 6. PDFescape
 7. Sejda
