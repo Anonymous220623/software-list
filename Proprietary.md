@@ -4,7 +4,7 @@
 
 ### 1.1 桌面端/移动端
 
-1. PDFGear（截至版本 1.9.1/2.1.12【2025/6/24】完全免费）
+1. PDFgear（截至版本 1.9.1/2.1.12【2025/6/24】完全免费）
 2. Xodo PDF Editor
 3. Foxit PDF Reader/Editor
 4. Adobe Acrobat（可通过 Adobe GenP 破解）
