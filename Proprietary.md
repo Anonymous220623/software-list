@@ -10,7 +10,7 @@
 4. Adobe Acrobat Pro DC（可通过 Adobe GenP 破解）
 5. PDF X-Change Editor
 6. PDFescape Desktop
-7. Sejda Desktop
+7. Sejda Desktop（Electron 应用程序，Web 套壳）
 8. PDFFiller Desktop
 9. PicoPDF Editor Pro/Home（提供免费计划）
 
