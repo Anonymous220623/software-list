@@ -44,16 +44,7 @@
      - 下载页面：https://sdi-tool.org/download
      - SourceForge 首页：https://sourceforge.net/projects/snappy-driver-installer
      - SourceForge SVN 仓库：https://svn.code.sf.net/p/snappy-driver-installer/code/trunk
-       
-## 屏幕录制
 
-  1. **OBS Studio**：强大的录屏和直播软件
-     
-     - 官网：https://obsproject.com
-     - GitHub 仓库：https://github.com/obsproject/obs-studio
-     - GitHub 发行版：https://github.com/obsproject/obs-studio/releases
-     - Microsoft Store 链接：[https://apps.microsoft.com/detail/xpffh613w8v6lv](https://apps.microsoft.com/detail/xpffh613w8v6lv)，应用 ID：`xpffh613w8v6lv`
-     - Steam 链接：[https://store.steampowered.com/app/1905180/OBS_Studio/](https://store.steampowered.com/app/1905180/OBS_Studio/)，应用 ID：`1905180`
 
 
 ## 多媒体相关工具
@@ -112,7 +103,18 @@
 
        1. [https://git.videolan.org/?p=x262.git;a=summary](https://git.videolan.org/?p=x262.git;a=summary)（浏览器访问）
        2. [http://git.videolan.org/git/x262.git](http://git.videolan.org/git/x262.git)（Git 访问）
-  
+
+
+### 三. 屏幕录制工具/截图工具
+
+  1. **OBS Studio**：强大的录屏和直播软件
+     
+     - 官网：https://obsproject.com
+     - GitHub 仓库：https://github.com/obsproject/obs-studio
+     - GitHub 发行版：https://github.com/obsproject/obs-studio/releases
+     - Microsoft Store 链接：[https://apps.microsoft.com/detail/xpffh613w8v6lv](https://apps.microsoft.com/detail/xpffh613w8v6lv)，应用 ID：`xpffh613w8v6lv`
+     - Steam 链接：[https://store.steampowered.com/app/1905180/OBS_Studio/](https://store.steampowered.com/app/1905180/OBS_Studio/)，应用 ID：`1905180`
+
 
 ## 应用调试和逆向工程相关软件
 
