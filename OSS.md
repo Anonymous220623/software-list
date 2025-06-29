@@ -1,8 +1,8 @@
 # 开放源代码（OSS）软件列表
 
-## 一. 用户页面个性化相关工具
+## 用户页面个性化相关工具
 
-### 1.1 动态壁纸软件
+### 一. 动态壁纸软件
 
   1. **Lively Wallpaper**：适用于 Windows 10/11 的桌面动态壁纸软件，支持将本地视频设置为桌面动态壁纸。
      
@@ -10,7 +10,7 @@
      - GitHub 发行版：https://github.com/rocksdanister/lively/releases
      - Microsoft Store 链接：[https://apps.microsoft.com/detail/9ntm2qc6qws7](https://apps.microsoft.com/detail/9ntm2qc6qws7)，应用 ID：`9ntm2qc6qws7`
 
-### 1.2 用户页面修改工具
+### 二. 用户页面修改工具
 
   1. **Windhawk**：Windows 用户页面的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。
 
@@ -21,7 +21,7 @@
      - Windhawk 插件市场：https://windhawk.net/mods
 
 
-## 二. 设备控制软件
+## 设备控制软件
 
   1. **RustDesk**：远程控制软件，支持全平台（iOS 设备不支持被控制）；支持自托管中继服务器，且官方提供一个免费中继服务器；支持内部/外部 IP 直连。
      
@@ -36,7 +36,7 @@
      - GitHub 发行版：https://github.com/Genymobile/scrcpy/releases
 
 
-## 三. 驱动程序下载和管理工具
+## 驱动程序下载和管理工具
 
   1. **Snappy Driver Installer**
      
@@ -45,7 +45,7 @@
      - SourceForge 首页：https://sourceforge.net/projects/snappy-driver-installer
      - SourceForge SVN 仓库：https://svn.code.sf.net/p/snappy-driver-installer/code/trunk
        
-## 四. 屏幕录制
+## 屏幕录制
 
   1. **OBS Studio**：强大的录屏和直播软件
      
@@ -56,9 +56,9 @@
      - Steam 链接：[https://store.steampowered.com/app/1905180/OBS_Studio/](https://store.steampowered.com/app/1905180/OBS_Studio/)，应用 ID：`1905180`
 
 
-## 五. 多媒体相关工具
+## 多媒体相关工具
 
-### 5.1 视频转码和格式转换相关工具
+### 一. 视频转码和格式转换相关工具
 
   1. **HandBrake**：视频转码和格式转换工具，支持几乎全部的视频格式和码率。
 
@@ -77,7 +77,7 @@
      - GitHub 仓库：https://github.com/Tichau/FileConverter
      - GitHub 发行版：https://github.com/Tichau/FileConverter/releases
        
-### 5.2 视频播放器
+### 二. 视频播放器
 
   1. **MPC-HC**：Windows 平台基于 DirectShow 和 FFmpeg 的视频播放器
 
@@ -114,7 +114,7 @@
        2. [http://git.videolan.org/git/x262.git](http://git.videolan.org/git/x262.git)（Git 访问）
   
 
-## 六. 应用调试和逆向工程相关软件
+## 应用调试和逆向工程相关软件
 
   1. **RisohEditor**：Windows PE（Portable Executable）文件资源反编译、编译和修改工具
 
@@ -170,7 +170,7 @@
 
      
 
-## 七. 操作系统内核
+## 操作系统/操作系统内核
 
   1. **Linux**: 全世界影响力最大的开放源码操作系统内核
      
@@ -189,9 +189,9 @@
      - GitHub 发行版：https://github.com/reactos/reactos/releases
      - SourceForge 发行版：https://sourceforge.net/projects/reactos/files/ReactOS
 
-## 八. 应用跨平台运行辅助工具
+## 应用跨平台运行辅助工具
 
-### 8.1 应用兼容层
+### 一. 应用兼容层
 
   1. **Wine**：能在类 Unix 系统上运行大多数 Windows 应用程序的容器，由 CodeWeavers 发起并维护，[CrossOver](https://www.codeweavers.com/crossover) 是其专业版本。
 
@@ -207,7 +207,7 @@
        
        - GitHub 仓库：https://github.com/ValveSoftware/Proton
 
-### 8.2 虚拟机
+### 二. 虚拟机
 
   1. **VirtualBox**：由 Oracle 维护的虚拟机管理工具和计算机模拟器，用户页面基于 Qt，部分组件封闭源码。
 
@@ -233,9 +233,8 @@
          
      - WSL 官方文档：https://wsl.dev 
 
-## 九. 应用程序安全性测试工具
 
-### 9.1 沙盒
+### 三. 沙盒
 
   1. **Sandboxie**：适用于 Windows 的沙盒隔离操作环境（分为社区和商业分支，社区分支开源，商业分支闭源收费）
      
@@ -248,9 +247,9 @@
 > 
 > ![image](https://github.com/user-attachments/assets/28f885b4-1fae-4457-8c50-935bf058cdde)
 
-## 十. 办公辅助和自动化软件
+## 办公辅助和自动化软件
 
-### 10.1 办公套件
+### 一. 办公套件
 
   1. **LibreOffice**：优先支持 ODF(Open Document Format)，适用于 Windows, MacOS 和 Linux（优先支持 Linux 并主要通过 Linux 推广自己的产品）。
   
