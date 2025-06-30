@@ -187,7 +187,7 @@
 
 #### Windows PE 文件格式
 
-  1. **RisohEditor**：Windows PE（Portable Executable）文件资源反编译器、编译器和编辑器
+  1. **RisohEditor**：Windows PE 文件资源反编译器、编译器和编辑器
 
      - GitHub 仓库：https://github.com/katahiromz/RisohEditor
      - GitHub 发行版：https://github.com/katahiromz/RisohEditor/releases
