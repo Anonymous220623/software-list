@@ -192,6 +192,13 @@
      - GitHub 仓库：https://github.com/katahiromz/RisohEditor
      - GitHub 发行版：https://github.com/katahiromz/RisohEditor/releases
 
+#### .NET 程序集
+
+  1. **Zeta Resource Editor**：.NET 程序集资源反编译器、编译器和编辑器
+
+     - 官网：https://www.zeta-resource-editor.com
+     - GitHub 仓库：https://github.com/UweKeim/ZetaResourceEditor
+
 ### 三. 应用程序调试工具
 
   1. **x64dbg**：Windows 平台图形化程序跟踪调试软件
