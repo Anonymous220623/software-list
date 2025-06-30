@@ -1,5 +1,6 @@
 # 开放源代码（OSS）软件列表
 
+
 ## 用户页面个性化相关工具
 
 ### 一. 动态壁纸软件
@@ -42,9 +43,7 @@
      
      - 官网：https://sdi-tool.org
      - 下载页面：https://sdi-tool.org/download
-     - SourceForge 首页：https://sourceforge.net/projects/snappy-driver-installer
      - SourceForge SVN 仓库：https://svn.code.sf.net/p/snappy-driver-installer/code/trunk
-
 
 
 ## 多媒体相关工具
@@ -76,13 +75,11 @@
      - 原 GitHub 仓库（不再维护）：https://github.com/mpc-hc/mpc-hc
      - 由 clsid2 维护的 GitHub 仓库：https://github.com/clsid2/mpc-hc
      - GitHub 发行版：https://github.com/clsid2/mpc-hc/releases
-     - SourceForge 首页：https://sourceforge.net/projects/mpc-hc
 
   2. **MPC-BE**：由 Aleksoid1978 维护的 MPC-HC 的分支
 
       - GitHub 仓库：https://github.com/Aleksoid1978/MPC-BE
       - GitHub 发行版：https://github.com/Aleksoid1978/MPC-BE/releases
-      - SourceForge 首页：https://sourceforge.net/projects/mpcbe
      
   3. **VLC Media Player**：由 VideoLAN 非营利组织开发和维护的跨平台视频播放器项目
 
@@ -149,7 +146,6 @@
 
      - GitHub 仓库：https://github.com/skylot/jadx
      - GitHub 发行版：https://github.com/skylot/jadx/releases
-     - SourceForge 主页：https://sourceforge.net/projects/jadx.mirror
 
 #### .NET C#/VB 应用程序
   
@@ -165,7 +161,6 @@
 
      - GitHub 仓库：https://github.com/icsharpcode/ILSpy
      - GitHub 发行版：https://github.com/icsharpcode/ILSpy/releases
-     - SourceForge 主页：https://sourceforge.net/projects/ilspy.mirror
 
   
 ### 二. 应用程序内置资源提取工具
@@ -181,13 +176,9 @@
 
      - 官网：https://x64dbg.com
      - GitHub 仓库：https://github.com/x64dbg/x64dbg
-     - SourceForge 项目主页：https://sourceforge.net/projects/x64dbg
-     - GitHub 发行版（历史记录不完整）：https://github.com/x64dbg/x64dbg/releases
+     - GitHub 发行版（不完整的历史记录）：https://github.com/x64dbg/x64dbg/releases
      - SourceForge 发行版（完整的历史记录）：https://sourceforge.net/projects/x64dbg/files/snapshots
 
-
-
-     
 
 ## 操作系统/操作系统内核
 
@@ -207,6 +198,7 @@
      - GitHub 仓库：https://github.com/reactos/reactos
      - GitHub 发行版：https://github.com/reactos/reactos/releases
      - SourceForge 发行版：https://sourceforge.net/projects/reactos/files/ReactOS
+
 
 ## 应用跨平台运行辅助工具
 
@@ -252,7 +244,6 @@
          
      - WSL 官方文档：https://wsl.dev 
 
-
 ### 三. 沙盒
 
   1. **Sandboxie**：适用于 Windows 的沙盒隔离操作环境（分为社区和商业分支，社区分支开源，商业分支闭源收费）
@@ -265,6 +256,7 @@
         > 开源版本与商业版本功能对比：https://sandboxie-plus.com/feature-comparison
         > 
         > ![image](https://github.com/user-attachments/assets/28f885b4-1fae-4457-8c50-935bf058cdde)
+
 
 ## 办公辅助和自动化软件
 
@@ -297,6 +289,29 @@
 
      - 官网：https://www.collaboraonline.com
      - GitHub 组织：https://github.com/CollaboraOnline
+
+
+## 字体相关工具
+
+### 一. 字体编辑器
+
+  1. **FontForge**：跨平台字体编辑器，具有 Python 解释器绑定。
+
+     - 官网：https://fontforge.org
+     - GitHub 仓库：https://github.com/fontforge/fontforge
+     - 官方文档主页：
+
+       - https://fontforge.org/en-US/documentation
+       - https://fontforge.org/en-US/developers
+
+### 二. 字体渲染工具
+
+  1. **FreeType**：字体渲染引擎
+
+     - 官网：https://freetype.org
+     - GitLab 官方仓库：https://gitlab.freedesktop.org/freetype/freetype
+     - GitHub 镜像仓库：https://github.com/freetype/freetype
+
 
 
 
