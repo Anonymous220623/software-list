@@ -112,6 +112,14 @@
      - Microsoft Store 链接：[https://apps.microsoft.com/detail/xpffh613w8v6lv](https://apps.microsoft.com/detail/xpffh613w8v6lv)，应用 ID：`xpffh613w8v6lv`
      - Steam 链接：[https://store.steampowered.com/app/1905180/OBS_Studio/](https://store.steampowered.com/app/1905180/OBS_Studio/)，应用 ID：`1905180`
 
+### 四. 图片编辑器
+
+  1. **GIMP**：跨平台图片编辑器
+
+     - 官网：https://www.gimp.org
+     - 下载页面：https://www.gimp.org/downloads
+     - GitHub 镜像仓库：https://github.com/GNOME/gimp
+     - GitLab 官方仓库：https://gitlab.gnome.org/GNOME/gimp
 
 ## 应用调试和逆向工程相关软件
 
