@@ -194,7 +194,7 @@
 
 #### .NET 程序集
 
-  1. **Zeta Resource Editor**：.NET 程序集资源反编译器、编译器和编辑器
+  1. **Zeta Resource Editor**：.NET 程序集资源编辑器
 
      - 官网：https://www.zeta-resource-editor.com
      - GitHub 仓库：https://github.com/UweKeim/ZetaResourceEditor
