@@ -185,6 +185,8 @@
   
 ### 二. 应用程序内置资源提取工具
 
+#### Windows PE 文件格式
+
   1. **RisohEditor**：Windows PE（Portable Executable）文件资源反编译器、编译器和编辑器
 
      - GitHub 仓库：https://github.com/katahiromz/RisohEditor
@@ -199,6 +201,22 @@
      - GitHub 发行版（不完整的历史记录）：https://github.com/x64dbg/x64dbg/releases
      - SourceForge 发行版（完整的历史记录）：https://sourceforge.net/projects/x64dbg/files/snapshots
 
+### 四. 可执行文件分析工具
+
+  1. **Detect It Easy (DiE)**：可执行文件类型识别和信息分析工具
+
+     - Horsicq 作者主页：https://horsicq.github.io
+     - GitHub 仓库：https://github.com/horsicq/Detect-It-Easy
+
+### 五. 应用程序脱壳工具
+
+#### .NET 应用程序
+
+  1. **.NETReactorSlayer**：针对 [.NET Reactor 加壳工具](https://www.eziriz.com/dotnet_reactor.htm)的脱壳工具
+
+     - 开发者 SychicBoy 官网主页：https://www.codestrikers.org
+     - GitHub 仓库：https://github.com/SychicBoy/NETReactorSlayer
+     - GitHub 发行版：https://github.com/SychicBoy/NETReactorSlayer/releases
 
 ## 操作系统/操作系统内核
 
