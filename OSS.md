@@ -84,7 +84,6 @@
   3. **VLC Media Player**：由 VideoLAN 非营利组织开发和维护的跨平台视频播放器项目
 
      - VideoLAN 组织官网：https://www.videolan.org
-     - VideoLAN VLC 项目主页：https://www.videolan.org/vlc
      - VideoLAN GitHub 组织主页：https://github.com/videolan
      - VideoLAN GitLab 群组主页：https://code.videolan.org
      - VideoLAN 构建二进制发行版镜像站：https://get.videolan.org
@@ -117,9 +116,22 @@
   1. **GIMP**：跨平台图片编辑器
 
      - 官网：https://www.gimp.org
-     - 下载页面：https://www.gimp.org/downloads
      - GitHub 镜像仓库：https://github.com/GNOME/gimp
-     - GitLab 官方仓库：https://gitlab.gnome.org/GNOME/gimp
+     - GitLab 仓库：https://gitlab.gnome.org/GNOME/gimp
+
+### 五. 视频编辑器
+
+  1. **OpenShot**：由 Python 编写的跨平台视频编辑器
+
+     - 官网：https://www.openshot.org
+     - GitHub 组织：https://github.com/OpenShot
+
+  2. **Kdenlive**：非线性视频编辑器，由 KDE 基金会开发并维护
+
+     - 官网：https://kdenlive.org
+     - GitHub 镜像仓库：https://github.com/KDE/kdenlive
+     - GitLab 仓库：https://invent.kde.org/multimedia/kdenlive
+
 
 ## 应用调试和逆向工程相关软件
 
@@ -216,8 +228,8 @@
 
      - 官网：https://www.winehq.org
      - CodeWeavers 官网：https://www.codeweavers.com
-     - GitHub 源码镜像仓库：https://github.com/wine-mirror/wine
-     - GitLab 官方源码仓库：https://gitlab.winehq.org/wine/wine
+     - GitHub 镜像仓库：https://github.com/wine-mirror/wine
+     - GitLab 仓库：https://gitlab.winehq.org/wine/wine
      - 由第三方维护的 wine-builds 项目 **（提供 Wine 已编译的可执行文件）**：
        
        - https://github.com/Kron4ek/Wine-Builds
