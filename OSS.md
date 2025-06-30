@@ -118,17 +118,16 @@
 
 ## 应用调试和逆向工程相关软件
 
-  1. **RisohEditor**：Windows PE（Portable Executable）文件资源反编译、编译和修改工具
+### 一. 逆向工程平台/工具集
 
-     - GitHub 仓库：https://github.com/katahiromz/RisohEditor
-     - GitHub 发行版：https://github.com/katahiromz/RisohEditor/releases
+#### Windows/MacOS/Linux 平台可执行文件
 
-  2. **Ghidra**：由美国国家安全局创建和维护的软件逆向工程（SRE）框架，内置丰富的程序逆向插件。
+  1. **Ghidra**：由美国国家安全局创建和维护的软件逆向工程（SRE）框架，内置丰富的程序逆向插件。
 
      - GitHub 仓库：https://github.com/NationalSecurityAgency/ghidra
      - GitHub 发行版：https://github.com/NationalSecurityAgency/ghidra/releases
-       
-  3. **Radare2**：基于命令行的逆向工程平台
+
+  2. **Radare2**：基于命令行的逆向工程平台
 
      - GitHub 仓库：https://github.com/radareorg/radare2
      - GitHub 发行版：https://github.com/radareorg/radare2/releases
@@ -138,13 +137,47 @@
        - GitHub 仓库：https://github.com/radareorg/iaito
        - GitHub 发行版：https://github.com/radareorg/iaito/releases
 
-  4. **Cutter**：基于 [Rizin](https://github.com/rizinorg/rizin)（Radare2 的分支）项目、Ghidra C 语言反编译器等开源项目的逆向工程平台
+  3. **Cutter**：基于 [Rizin](https://github.com/rizinorg/rizin)（Radare2 的分支）项目、Ghidra C 语言反编译器等开源项目的逆向工程平台
 
      - 官网：https://cutter.re
      - GitHub 仓库：https://github.com/rizinorg/cutter
      - GitHub 发行版：https://github.com/rizinorg/cutter/releases
 
-  5. **x64dbg**：Windows 平台图形化程序跟踪调试软件
+#### Android 平台应用程序/Java 字节码和软件包
+
+  1. **jadx**：Android/Java 应用程序包分析和逆向工具套件
+
+     - GitHub 仓库：https://github.com/skylot/jadx
+     - GitHub 发行版：https://github.com/skylot/jadx/releases
+     - SourceForge 主页：https://sourceforge.net/projects/jadx.mirror
+
+#### .NET C#/VB 应用程序
+  
+  1. **dnSpy**：.NET 程序集逆向和调试工具集：
+
+     - 官网：https://dnspy.org
+     - GitHub 原仓库（已存档，不再维护）：https://github.com/dnSpy/dnSpy
+     - GitHub 原仓库发行版（已存档，不再维护）：https://github.com/dnSpy/dnSpy/releases
+     - 非官方维护 GitHub 仓库：https://github.com/dnSpyEx/dnSpy
+     - 非官方维护 GitHub 仓库发行版：https://github.com/dnSpyEx/dnSpy/releases
+
+  2. **ilSpy**：.NET 程序集浏览器和反编译器：
+
+     - GitHub 仓库：https://github.com/icsharpcode/ILSpy
+     - GitHub 发行版：https://github.com/icsharpcode/ILSpy/releases
+     - SourceForge 主页：https://sourceforge.net/projects/ilspy.mirror
+
+  
+### 二. 应用程序内置资源提取工具
+
+  1. **RisohEditor**：Windows PE（Portable Executable）文件资源反编译器、编译器和编辑器
+
+     - GitHub 仓库：https://github.com/katahiromz/RisohEditor
+     - GitHub 发行版：https://github.com/katahiromz/RisohEditor/releases
+
+### 三. 应用程序调试工具
+
+  1. **x64dbg**：Windows 平台图形化程序跟踪调试软件
 
      - 官网：https://x64dbg.com
      - GitHub 仓库：https://github.com/x64dbg/x64dbg
@@ -152,23 +185,7 @@
      - GitHub 发行版（历史记录不完整）：https://github.com/x64dbg/x64dbg/releases
      - SourceForge 发行版（完整的历史记录）：https://sourceforge.net/projects/x64dbg/files/snapshots
 
-  6. **jadx**：Android 应用程序包分析和逆向工具套件
 
-     - GitHub 仓库：https://github.com/skylot/jadx
-     - GitHub 发行版：https://github.com/skylot/jadx/releases
-     - SourceForge 主页：https://sourceforge.net/projects/jadx.mirror
-
-  7. **dnSpy**：.NET 程序集逆向和调试工具：
-
-     - 官网：https://dnspy.org
-     - GitHub 仓库（已存档）：https://github.com/dnSpy/dnSpy
-     - GitHub 发行版：https://github.com/dnSpy/dnSpy/releases
-
-  8. **ilSpy**：.NET 程序集浏览器和反编译器：
-
-     - GitHub 仓库：https://github.com/icsharpcode/ILSpy
-     - GitHub 发行版：https://github.com/icsharpcode/ILSpy/releases
-     - SourceForge 主页：https://sourceforge.net/projects/ilspy.mirror
 
      
 
@@ -245,9 +262,9 @@
      - 官网：https://sandboxie-plus.com
 
 
-> 开源版本与商业版本功能对比：https://sandboxie-plus.com/feature-comparison
-> 
-> ![image](https://github.com/user-attachments/assets/28f885b4-1fae-4457-8c50-935bf058cdde)
+        > 开源版本与商业版本功能对比：https://sandboxie-plus.com/feature-comparison
+        > 
+        > ![image](https://github.com/user-attachments/assets/28f885b4-1fae-4457-8c50-935bf058cdde)
 
 ## 办公辅助和自动化软件
 
@@ -261,7 +278,7 @@
      - 简体中文官网首页：https://zh-cn.libreoffice.org
      - 英文官网首页：https://www.libreoffice.org
 
-  2. **ONLYOFFICE Desktop Editor/Document App**：专注于支持 OOXML、ODF 等成熟的文档格式，拥有和 Microsoft Office 相近的用户页面：
+  2. **ONLYOFFICE**：专注于支持 OOXML、ODF 等成熟的文档格式，拥有和 Microsoft Office 相近的用户页面：
 
      - 官网：https://www.onlyoffice.com
      - GitHub 组织：https://github.com/ONLYOFFICE
