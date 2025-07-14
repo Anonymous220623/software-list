@@ -278,13 +278,14 @@
 
 ### 一. 办公套件
 
-  1. **LibreOffice**：优先支持自创 ODF 文档格式，跨平台办公套件。
+  1. **LibreOffice**：跨平台办公套件，优先支持自创 ODF 文档格式。
   
      - GitHub 组织：https://github.com/libreoffice
      - 官方 Gerrit：https://git.libreoffice.org
      - 已发布版本的源代码压缩包：https://download.documentfoundation.org/libreoffice/src
-     - 简体中文官网首页：https://zh-cn.libreoffice.org
-     - 英文官网首页：https://www.libreoffice.org
+     - 官网：
+       - https://www.libreoffice.org
+       - https://zh-cn.libreoffice.org
 
   2. **ONLYOFFICE** Desktop Editors & Document Apps：跨平台办公和协作套件，专注于支持 OOXML、ODF 等成熟的文档格式，拥有和 Microsoft Office 相近的用户页面：
 
