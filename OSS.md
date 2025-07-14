@@ -291,11 +291,6 @@
      - 官网：https://sandboxie-plus.com
 
 
-        > 开源版本与商业版本功能对比：https://sandboxie-plus.com/feature-comparison
-        > 
-        > ![image](https://github.com/user-attachments/assets/28f885b4-1fae-4457-8c50-935bf058cdde)
-
-
 ## 办公辅助和自动化软件
 
 ### 一. 办公套件
