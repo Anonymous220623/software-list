@@ -13,7 +13,7 @@
 
 ### 二. 用户页面修改工具
 
-  1. **Windhawk**：Windows 用户页面（explorer.exe）的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。
+  1. **Windhawk**：Windows 资源管理器的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。
 
      - 官网：https://windhawk.net
      - Ramen Software 官网：https://ramensoftware.com
@@ -21,6 +21,14 @@
      - Windhawk 官方提供的模组源码仓库（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk-mods
      - Windhawk 插件市场：https://windhawk.net/mods
 
+  2. **OpenShell**：将 Windows 10/11 资源管理器样式修改为现代 Windows 7 的工具，[Classic-Shell](https://github.com/coddec/Classic-Shell) 的延续版本。
+
+     - GitHub Pages：https://open-shell.github.io/Open-Shell-Menu
+     - GitHub 仓库：https://github.com/Open-Shell/Open-Shell-Menu
+
+  3. **ExplorerPatcher**：Windows 资源管理器修改工具，可替代 StartAllBack 和 Start11。
+
+     - GitHub 仓库：https://github.com/valinet/ExplorerPatcher
 
 ## 设备控制软件
 
@@ -28,13 +36,11 @@
      
      - 官网：https://rustdesk.com
      - GitHub 仓库：https://github.com/rustdesk/rustdesk
-     - GitHub 发行版：https://github.com/rustdesk/rustdesk/releases
 
   2. **Scrcpy**：可通过计算机控制 Android 设备，支持使用 USB 或 TCP/IP 连接移动端设备。
      
      - GenyMotion 官网：https://www.genymotion.com
      - GitHub 仓库：https://github.com/Genymobile/scrcpy
-     - GitHub 发行版：https://github.com/Genymobile/scrcpy/releases
 
 
 ## 驱动程序下载和管理工具
@@ -54,7 +60,6 @@
 
      - 官网：https://handbrake.fr
      - GitHub 仓库：https://github.com/HandBrake/HandBrake
-     - GitHub 发行版：https://github.com/HandBrake/HandBrake/releases
 
   2. **MKVToolNix**：将任何格式的视频文件、字幕文件和音频混流为 Matroska（MKV）媒体文件。
 
@@ -65,7 +70,6 @@
   3. **FileConverter**：部分格式的视频转换，以及图片和文档的格式转换工具，集成至 Windows 的右键菜单中。
      
      - GitHub 仓库：https://github.com/Tichau/FileConverter
-     - GitHub 发行版：https://github.com/Tichau/FileConverter/releases
        
 ### 二. 视频播放器
 
@@ -74,12 +78,10 @@
      - 官网：https://mpc-hc.org
      - 原 GitHub 仓库（不再维护）：https://github.com/mpc-hc/mpc-hc
      - 由 clsid2 维护的 GitHub 仓库：https://github.com/clsid2/mpc-hc
-     - GitHub 发行版：https://github.com/clsid2/mpc-hc/releases
 
   2. **MPC-BE**：由 Aleksoid1978 维护的 MPC-HC 的分支
 
       - GitHub 仓库：https://github.com/Aleksoid1978/MPC-BE
-      - GitHub 发行版：https://github.com/Aleksoid1978/MPC-BE/releases
      
   3. **VLC Media Player**：由 VideoLAN 非营利组织开发和维护的跨平台视频播放器项目
 
@@ -107,7 +109,6 @@
      
      - 官网：https://obsproject.com
      - GitHub 仓库：https://github.com/obsproject/obs-studio
-     - GitHub 发行版：https://github.com/obsproject/obs-studio/releases
      - Microsoft Store 链接：[https://apps.microsoft.com/detail/xpffh613w8v6lv](https://apps.microsoft.com/detail/xpffh613w8v6lv)，应用 ID：`xpffh613w8v6lv`
      - Steam 链接：[https://store.steampowered.com/app/1905180/OBS_Studio/](https://store.steampowered.com/app/1905180/OBS_Studio/)，应用 ID：`1905180`
 
@@ -142,30 +143,25 @@
   1. **Ghidra**：由美国国家安全局创建和维护的软件逆向工程（SRE）框架，内置丰富的程序逆向插件。
 
      - GitHub 仓库：https://github.com/NationalSecurityAgency/ghidra
-     - GitHub 发行版：https://github.com/NationalSecurityAgency/ghidra/releases
 
   2. **Radare2**：基于命令行的逆向工程平台
 
      - GitHub 仓库：https://github.com/radareorg/radare2
-     - GitHub 发行版：https://github.com/radareorg/radare2/releases
      - 官网：https://rada.re
        
      - **iaito**：Radare2 官方提供的图形用户页面
        - GitHub 仓库：https://github.com/radareorg/iaito
-       - GitHub 发行版：https://github.com/radareorg/iaito/releases
 
   3. **Cutter**：基于 [Rizin](https://github.com/rizinorg/rizin)（Radare2 的分支）项目、Ghidra C 语言反编译器等开源项目的逆向工程平台
 
      - 官网：https://cutter.re
      - GitHub 仓库：https://github.com/rizinorg/cutter
-     - GitHub 发行版：https://github.com/rizinorg/cutter/releases
 
 #### Android 平台应用程序/Java 字节码和软件包
 
   1. **jadx**：Android/Java 应用程序包分析和逆向工具套件
 
      - GitHub 仓库：https://github.com/skylot/jadx
-     - GitHub 发行版：https://github.com/skylot/jadx/releases
 
 #### .NET C#/VB 应用程序
   
@@ -173,14 +169,11 @@
 
      - 官网：https://dnspy.org
      - GitHub 原仓库（已存档，不再维护）：https://github.com/dnSpy/dnSpy
-     - GitHub 原仓库发行版（已存档，不再维护）：https://github.com/dnSpy/dnSpy/releases
      - 非官方维护 GitHub 仓库：https://github.com/dnSpyEx/dnSpy
-     - 非官方维护 GitHub 仓库发行版：https://github.com/dnSpyEx/dnSpy/releases
 
   2. **ilSpy**：.NET 程序集浏览器和反编译器：
 
      - GitHub 仓库：https://github.com/icsharpcode/ILSpy
-     - GitHub 发行版：https://github.com/icsharpcode/ILSpy/releases
 
   
 ### 二. 应用程序资源提取器和编辑器
@@ -190,7 +183,6 @@
   1. **RisohEditor**：Windows PE 文件资源反编译器、编译器和编辑器
 
      - GitHub 仓库：https://github.com/katahiromz/RisohEditor
-     - GitHub 发行版：https://github.com/katahiromz/RisohEditor/releases
 
 ### 三. 应用程序调试工具
 
@@ -198,8 +190,7 @@
 
      - 官网：https://x64dbg.com
      - GitHub 仓库：https://github.com/x64dbg/x64dbg
-     - GitHub 发行版（不完整的历史记录）：https://github.com/x64dbg/x64dbg/releases
-     - SourceForge 发行版（完整的历史记录）：https://sourceforge.net/projects/x64dbg/files/snapshots
+     - SourceForge Snapshots：https://sourceforge.net/projects/x64dbg/files/snapshots
 
 ### 四. 可执行文件分析工具
 
@@ -216,7 +207,6 @@
 
      - 开发者 SychicBoy 官网主页：https://www.codestrikers.org
      - GitHub 仓库：https://github.com/SychicBoy/NETReactorSlayer
-     - GitHub 发行版：https://github.com/SychicBoy/NETReactorSlayer/releases
 
 ## 操作系统/操作系统内核
 
@@ -231,11 +221,8 @@
   2. **ReactOS**：类 Windows NT 操作系统，内核层代码为该项目原创，应用层引用 [Wine 项目](#一-应用兼容层)源码，**该项目目前处于 Alpha 阶段**。
 
      - 官网：https://reactos.org
-     - 官方开发文档首页：https://reactos.org/wiki/Welcome_to_the_ReactOS_Development_Wiki
      - SourceForge 首页：https://sourceforge.net/projects/reactos
      - GitHub 仓库：https://github.com/reactos/reactos
-     - GitHub 发行版：https://github.com/reactos/reactos/releases
-     - SourceForge 发行版：https://sourceforge.net/projects/reactos/files/ReactOS
 
 
 ## 应用跨平台运行辅助工具
@@ -287,7 +274,6 @@
   1. **Sandboxie**：适用于 Windows 的沙盒隔离操作环境（分为社区和商业分支，社区分支开源，商业分支闭源收费）
      
      - GitHub 仓库：https://github.com/sandboxie-plus/Sandboxie
-     - GitHub 发行版：https://github.com/sandboxie-plus/Sandboxie/releases
      - 官网：https://sandboxie-plus.com
 
 
@@ -307,7 +293,6 @@
 
      - 官网：https://www.onlyoffice.com
      - GitHub 组织：https://github.com/ONLYOFFICE
-     - 下载页面：https://www.onlyoffice.com/download-desktop.aspx
 
   3. **Apache OpenOffice**：由 Apache 基金会维护的办公套件：
 
