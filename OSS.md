@@ -25,7 +25,7 @@
      - GitHub Pages：https://open-shell.github.io/Open-Shell-Menu
      - GitHub 仓库：https://github.com/Open-Shell/Open-Shell-Menu
 
-  3. **ExplorerPatcher**：Windows 资源管理器修改工具，可替代 StartAllBack 和 Start11。
+  3. **ExplorerPatcher**：Windows 资源管理器修改工具。
 
      - GitHub 仓库：https://github.com/valinet/ExplorerPatcher
 
