@@ -8,7 +8,6 @@
   1. **Lively Wallpaper**：适用于 Windows 10/11 的桌面动态壁纸软件，支持将本地视频设置为桌面动态壁纸。
      
      - GitHub 仓库：https://github.com/rocksdanister/lively
-     - GitHub 发行版：https://github.com/rocksdanister/lively/releases
      - Microsoft Store 链接：[https://apps.microsoft.com/detail/9ntm2qc6qws7](https://apps.microsoft.com/detail/9ntm2qc6qws7)，应用 ID：`9ntm2qc6qws7`
 
 ### 二. 用户页面修改工具
