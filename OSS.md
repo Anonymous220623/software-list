@@ -177,8 +177,6 @@
   
 ### 二. 应用程序资源提取器和编辑器
 
-#### Windows PE 文件格式
-
   1. **RisohEditor**：Windows PE 文件资源反编译器、编译器和编辑器
 
      - GitHub 仓库：https://github.com/katahiromz/RisohEditor
