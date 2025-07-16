@@ -132,6 +132,19 @@
      - GitHub 镜像仓库：https://github.com/KDE/kdenlive
      - GitLab 仓库：https://invent.kde.org/multimedia/kdenlive
 
+### 六. 字幕编辑器
+
+  1. **Subtitle Edit**：使用 C# 编写的，支持 Windows 平台的字幕编辑器。
+
+     - GitHub 仓库：https://github.com/SubtitleEdit/subtitleedit
+     - 官网：http://www.nikse.dk/subtitleedit
+
+  2. **Aegisub**：跨平台字幕编辑器。
+
+     - 官网：https://aegisub.org
+     - 已存档的 GitHub 仓库：https://github.com/Aegisub/Aegisub
+     - 维护的 GitHub 仓库：https://github.com/TypesettingTools/Aegisub
+
 
 ## 应用调试和逆向工程相关软件
 
