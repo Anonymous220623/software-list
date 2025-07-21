@@ -32,6 +32,11 @@
 
      - GitHub 仓库：https://github.com/valinet/ExplorerPatcher
 
+  4. **RetroBar**：将 Windows 10/11 的开始菜单和任务栏样式修改为 Windows 95/98/Me/2000/XP/Vista 的工具。
+
+     - GitHub 仓库：https://github.com/dremin/RetroBar
+
+
 ## 设备控制软件
 
   1. **RustDesk**：远程控制软件，支持全平台（iOS 设备不支持被控制）；支持自托管中继服务器，且官方提供一个免费中继服务器；支持内部/外部 IP 直连。
