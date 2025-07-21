@@ -310,7 +310,7 @@
      - 官网：https://www.openoffice.org
      - GitHub 仓库：https://github.com/apache/openoffice
 
-  > Apache OpenOffice 和 LibreOffice 的关系和发展历史：https://zh.wikipedia.org/zh-cn/LibreOffice#历史
+  > **Apache OpenOffice 和 LibreOffice 的关系和发展历史**：https://zh.wikipedia.org/zh-cn/LibreOffice#历史
   >
   > ![image](https://github.com/user-attachments/assets/4186e590-bdaa-4a3b-a2c9-0c365df1f106)
 
