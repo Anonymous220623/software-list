@@ -25,7 +25,7 @@
      - GitHub Pages：https://open-shell.github.io/Open-Shell-Menu
      - GitHub 仓库：https://github.com/Open-Shell/Open-Shell-Menu
 
-  3. **ExplorerPatcher**：Windows 资源管理器修改工具。
+  3. **ExplorerPatcher**：Windows 资源管理器修改工具，可替代 StarDock Start 11 和 StartAllBack 的修改任务栏和开始菜单的主要功能。
 
      - GitHub 仓库：https://github.com/valinet/ExplorerPatcher
 
