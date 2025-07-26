@@ -8,10 +8,16 @@
 
 ### 一. 动态壁纸软件
 
-  1. **Lively Wallpaper**：适用于 Windows 10/11 的桌面动态壁纸软件，支持将本地视频/GIF/网页/应用程序或游戏页面设置为桌面动态壁纸。
+  1. **Lively Wallpaper**（C#/.NET/UWP）：适用于 Windows 10/11 的桌面动态壁纸软件，支持将本地视频/GIF/网页/应用程序或游戏页面设置为桌面动态壁纸。
      
      - GitHub 仓库：https://github.com/rocksdanister/lively
      - Microsoft Store 链接：[https://apps.microsoft.com/detail/9ntm2qc6qws7](https://apps.microsoft.com/detail/9ntm2qc6qws7)，应用 ID：`9ntm2qc6qws7`
+
+  2. **Screen Play**（C++20/Qt6/QML）：适用于 Windows 和 macOS 的跨平台桌面动态壁纸软件，支持视频/GIF/QML/JS，可添加自定义桌面部件，支持 Steam 创意工坊。
+
+     - GitLab 仓库：https://gitlab.com/kelteseth/ScreenPlay
+     - Steam 链接：[https://store.steampowered.com/app/672870/ScreenPlay](https://store.steampowered.com/app/672870/ScreenPlay)，应用 ID：`672870`
+     - 官网：https://screen-play.app
 
 ### 二. 用户页面修改工具
 
