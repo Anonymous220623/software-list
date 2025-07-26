@@ -8,7 +8,7 @@
 
 ### 一. 动态壁纸软件
 
-  1. **Lively Wallpaper**：适用于 Windows 10/11 的桌面动态壁纸软件，支持将本地视频设置为桌面动态壁纸。
+  1. **Lively Wallpaper**：适用于 Windows 10/11 的桌面动态壁纸软件，支持将本地视频/GIF/网页/应用程序或游戏页面设置为桌面动态壁纸。
      
      - GitHub 仓库：https://github.com/rocksdanister/lively
      - Microsoft Store 链接：[https://apps.microsoft.com/detail/9ntm2qc6qws7](https://apps.microsoft.com/detail/9ntm2qc6qws7)，应用 ID：`9ntm2qc6qws7`
@@ -35,6 +35,16 @@
   4. **RetroBar**：将 Windows 10/11 的开始菜单和任务栏样式修改为 Windows 95/98/Me/2000/XP/Vista 的工具。
 
      - GitHub 仓库：https://github.com/dremin/RetroBar
+
+  5. **TranslucentTB**：自定义 Windows 任务栏的工具。
+
+     - 官网：https://translucenttb.com
+     - GitHub 仓库：https://github.com/TranslucentTB/TranslucentTB
+
+  6. **TaskbarX**：自定义 Windows 任务栏的工具（该项目已于 2025 年 6 月 12 日停止维护）。
+
+     - 官网：https://taskbarx.org
+     - GitHub 仓库：https://github.com/ChrisAnd1998/TaskbarX
 
 
 ## 设备控制软件
