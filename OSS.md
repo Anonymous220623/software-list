@@ -227,7 +227,7 @@
 
 ### 一. 应用兼容层
 
-1. **Wine**：能在类 Unix 系统上运行大多数 Windows 应用程序的容器，由 CodeWeavers 发起并维护，[CrossOver](https://www.codeweavers.com/crossover) 是其专业版本。
+1. **Wine**：能在类 Unix 系统上运行大多数 Windows 应用程序的容器，由 WineHQ 社区发起并维护，CodeWeavers 提供项目贡献和资金支持，[CrossOver](https://www.codeweavers.com/crossover) 是其专业版本。
    
    - 官网：https://www.winehq.org
    
@@ -247,31 +247,22 @@
 
 ### 二. 虚拟机
 
-1. **VirtualBox**：由 Oracle 维护的虚拟机管理工具和计算机模拟器，用户页面使用 Qt 编写。
-   
-   - 官网：https://www.virtualbox.org
-   - VirtualBox 官方发行版与源代码包镜像站：https://download.virtualbox.org/virtualbox
-   - VirtualBox SVN 仓库：https://www.virtualbox.org/svn/vbox/trunk
-
-2. **QEMU**：计算机模拟器（可和 KVM 结合使用以达到和实体机几乎同样的运行效率）
+1. **QEMU**：计算机模拟器（可和 KVM 结合使用以达到和实体机几乎同样的运行效率）
    
    - 官网：https://www.qemu.org
    - GitLab 仓库：https://gitlab.com/qemu-project/qemu
    - GitHub 镜像仓库：https://github.com/qemu/qemu
    - 官方源码包镜像站：https://download.qemu.org
 
-3. **WSL2**：Windows 上基于 Hyper-V 的 Linux 虚拟机平台，由微软官方提供，用户可在此平台上安装任意 Linux 发行版的 `*.wsl` 镜像并运行 Linux 应用程序。
+2. **VirtualBox**：由 Oracle 维护的虚拟机管理工具和计算机模拟器，用户页面使用 Qt 编写。
    
-   - **GitHub 源码仓库**：
-     
-     - WSL 平台（部分驱动程序闭源）：https://github.com/microsoft/WSL
-     - 用于 WSL 的 Linux 内核：https://github.com/microsoft/WSL2-Linux-Kernel
-     - WSL 的 GUI 应用程序支持：https://github.com/microsoft/wslg
-     - WSL 文档：https://github.com/microsoftdocs/wsl
-   
-   - WSL 官方文档：https://wsl.dev 
+   - 官网：https://www.virtualbox.org
+   - VirtualBox 官方发行版与源代码包镜像站：https://download.virtualbox.org/virtualbox
+   - VirtualBox SVN 仓库：https://www.virtualbox.org/svn/vbox/trunk
 
 ### 三. 沙盒
+
+#### Windows
 
 1. **Sandboxie**：适用于 Windows 的沙盒隔离操作环境（分为社区和商业分支，社区分支开源，商业分支闭源收费）
    
