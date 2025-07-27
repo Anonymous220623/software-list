@@ -2,7 +2,7 @@
 
 ## 开源软件
 
-### 任务管理器、性能监视器替代品/系统对象查看器
+### 任务管理器(taskmgr.exe)、性能监视器(perfmon.msc)替代品/系统对象查看器
 
 1. **TaskExplorer**：使用 Qt 编写的 Windows 任务管理器，基于 System Informer 的 Process Hacker 链接库。
 
