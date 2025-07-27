@@ -2,7 +2,7 @@
 > 
 > 以下列出的软件仅支持 Windows 平台。
 
-### 任务管理器(taskmgr.exe)、性能监视器(perfmon.msc)替代品/系统对象查看器
+### 任务管理器（`taskmgr.exe`）、性能监视器（`perfmon.msc`）替代品/系统对象查看器
 
 1. **TaskExplorer**：使用 Qt 编写的 Windows 任务管理器，基于 System Informer 的 Process Hacker 链接库。
    
@@ -26,7 +26,7 @@
    - 作者：zodiacon
    - GitHub 仓库：https://github.com/zodiacon/ObjectExplorer
 
-### 注册表编辑器(regedit.exe)替代品
+### 注册表编辑器（`regedit.exe`）替代品
 
 1. **Total Registry**：Windows 注册表编辑器。
    
