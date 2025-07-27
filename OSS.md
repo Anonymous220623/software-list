@@ -198,7 +198,7 @@
 
 #### .NET 应用程序
 
-1. **.NETReactorSlayer**：针对 [.NET Reactor 加壳工具](https://www.eziriz.com/dotnet_reactor.htm)的脱壳工具
+1. **.NET Reactor Slayer**：针对 [.NET Reactor 加壳工具](https://www.eziriz.com/dotnet_reactor.htm)的脱壳工具
    
    - 开发者 SychicBoy 官网主页：https://www.codestrikers.org
    - GitHub 仓库：https://github.com/SychicBoy/NETReactorSlayer
@@ -303,7 +303,7 @@
    
    > **Apache OpenOffice 和 LibreOffice 的关系和发展历史**：https://zh.wikipedia.org/zh-cn/LibreOffice#历史
    > 
-   > ![image](https://github.com/user-attachments/assets/4186e590-bdaa-4a3b-a2c9-0c365df1f106)
+   > ![image](assets/1.png)
 
 4. **Collabora Online**：基于 Web 的办公套件，是 LibreOffice Online 的活跃分支（LibreOffice Online 已不再积极维护）
    
