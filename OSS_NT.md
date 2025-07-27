@@ -1,6 +1,6 @@
-# Windows 系统探查/管理/自定义工具
-
-## 开源软件
+> [!WARNING]
+>
+> 以下列出的软件仅支持 Windows 平台。
 
 ### 任务管理器(taskmgr.exe)、性能监视器(perfmon.msc)替代品/系统对象查看器
 
