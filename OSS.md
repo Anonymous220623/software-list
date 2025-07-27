@@ -264,12 +264,15 @@
      - 项目官方源码镜像站（Git）：https://git.kernel.org
      - Google 提供的源码镜像站（Git）：https://kernel.googlesource.com
 
-  2. **ReactOS**：类 Windows NT 操作系统，内核层代码为该项目原创，应用层引用 [Wine 项目](#一-应用兼容层)源码，**该项目目前处于 Alpha 阶段**。
+  2. **ReactOS**：类 Windows NT 操作系统，内核层代码为该项目原创，应用层引用 [Wine 项目](#一-应用兼容层)源码，**该操作系统目前尚未稳定**。
 
      - 官网：https://reactos.org
-     - SourceForge 首页：https://sourceforge.net/projects/reactos
      - GitHub 仓库：https://github.com/reactos/reactos
 
+  3. **SerenityOS**：使用 C++ 编写的类 Unix 操作系统，支持 x86_64、ARM 和 RISC-V 架构。
+
+     - 官网：https://serenityos.org
+     - GitHub 仓库：https://github.com/SerenityOS/serenity
 
 ## 应用跨平台运行辅助工具
 
