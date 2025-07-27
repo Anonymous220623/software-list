@@ -2,7 +2,9 @@
 > 
 > 以下列出的软件仅支持 Windows 平台。
 
-### 任务管理器（`taskmgr.exe`）、性能监视器（`perfmon.msc`）替代品/系统对象查看器
+## 一. Windows 系统探查和管理工具
+
+#### 任务管理器（`taskmgr.exe`）、性能监视器（`perfmon.msc`）替代品/系统对象查看器
 
 1. **TaskExplorer**：使用 Qt 编写的 Windows 任务管理器，基于 System Informer 的 Process Hacker 链接库。
    
@@ -26,14 +28,16 @@
    - 作者：zodiacon
    - GitHub 仓库：https://github.com/zodiacon/ObjectExplorer
 
-### 注册表编辑器（`regedit.exe`）替代品
+#### 注册表编辑器（`regedit.exe`）替代品
 
 1. **Total Registry**：Windows 注册表编辑器。
    
    - 作者：zodiacon
    - GitHub 仓库：https://github.com/zodiacon/TotalRegistry
 
-### 动态壁纸软件
+## 二. Windows 用户页面自定义工具
+
+#### 动态壁纸软件
 
 1. **Lively Wallpaper**（C#/.NET/UWP）：适用于 Windows 10/11 的桌面动态壁纸软件，支持将本地视频/GIF/网页/应用程序或游戏页面设置为桌面动态壁纸。
    
@@ -46,7 +50,7 @@
    - Steam 链接：[https://store.steampowered.com/app/672870/ScreenPlay](https://store.steampowered.com/app/672870/ScreenPlay)，应用 ID：`672870`
    - 官网：https://screen-play.app
 
-### 用户页面修改工具
+#### 其他 Windows Explorer 个性化工具
 
 1. **Windhawk**：Windows 资源管理器的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。（GPL-3.0）
    
