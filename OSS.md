@@ -250,7 +250,7 @@
      - Linux Kernel Archives 官网：https://www.kernel.org
      - GitHub 仓库：https://github.com/torvalds/linux
      - 项目官方源码镜像站（Git）：https://git.kernel.org
-     - 谷歌提供的源码镜像站（Git）：https://kernel.googlesource.com
+     - Google 提供的源码镜像站（Git）：https://kernel.googlesource.com
 
   2. **ReactOS**：类 Windows NT 操作系统，内核层代码为该项目原创，应用层引用 [Wine 项目](#一-应用兼容层)源码，**该项目目前处于 Alpha 阶段**。
 
@@ -318,7 +318,7 @@
   1. **LibreOffice**：跨平台办公套件，优先支持自创 ODF 文档格式。
   
      - GitHub 组织：https://github.com/libreoffice
-     - 官方 Gerrit：https://git.libreoffice.org
+     - Gerrit：https://git.libreoffice.org
      - 已发布版本的源代码压缩包：https://download.documentfoundation.org/libreoffice/src
      - 官网：
        - https://www.libreoffice.org
@@ -359,12 +359,16 @@
 
 ### 二. 字体渲染工具
 
-  1. **FreeType**：字体渲染引擎
+  1. **FreeType**：跨平台字体渲染引擎
 
      - 官网：https://freetype.org
-     - GitLab 官方仓库：https://gitlab.freedesktop.org/freetype/freetype
+     - GitLab 仓库：https://gitlab.freedesktop.org/freetype/freetype
      - GitHub 镜像仓库：https://github.com/freetype/freetype
 
+  2. **MacType**：Windows 平台字体渲染引擎，可将字体更改为 macOS/Linux 用户页面的样式
+
+     - 官网：https://www.mactype.net
+     - GitHub 仓库：https://github.com/snowie2000/mactype
 
 
 
