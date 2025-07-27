@@ -21,3 +21,9 @@
 4. **Object Explorer**：Windows 系统对象查看器。
 
    - GitHub 仓库：https://github.com/zodiacon/ObjectExplorer
+
+### 注册表编辑器
+
+1. **Total Registry**：Windows 注册表编辑器。
+
+   - GitHub 仓库：https://github.com/zodiacon/TotalRegistry
