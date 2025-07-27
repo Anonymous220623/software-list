@@ -110,21 +110,9 @@
 
      - VideoLAN 组织官网：https://www.videolan.org
      - VideoLAN GitHub 组织主页：https://github.com/videolan
-     - VideoLAN GitLab 群组主页：https://code.videolan.org
+     - VideoLAN GitLab 实例主页：https://code.videolan.org
      - VideoLAN 构建二进制发行版镜像站：https://get.videolan.org
-
-     以下两个项目并不包含在 VideoLAN 的 GitHub 和 GitLab 中：
-     
-     - 由 VideoLAN 组织维护的 x265 编解码库 Git 仓库：
        
-       1. https://bitbucket.org/multicoreware/x265_git.git
-       2. https://bitbucket.org/multicoreware/x265_vnova_git.git
-
-     - 由 VideoLAN 组织维护的 x262 编解码库 Git 仓库：
-
-       1. [https://git.videolan.org/?p=x262.git;a=summary](https://git.videolan.org/?p=x262.git;a=summary)（浏览器访问）
-       2. [http://git.videolan.org/git/x262.git](http://git.videolan.org/git/x262.git)（Git 访问）
-
 
 ### 三. 屏幕录制工具/截图工具
 
@@ -169,6 +157,30 @@
      - 已存档的 GitHub 仓库：https://github.com/Aegisub/Aegisub
      - 维护的 GitHub 仓库：https://github.com/TypesettingTools/Aegisub
 
+### 七. 音视频编解码库
+
+  1. **FFmpeg**：跨平台音视频编解码库（GPL）
+
+     - Git 仓库：https://git.ffmpeg.org/ffmpeg.git
+     - GitHub 镜像仓库：https://github.com/FFmpeg/FFmpeg
+     - 官网：https://ffmpeg.org
+
+  2. **x265**：H.265 视频编解码库（GPL & 商业许可）
+
+     - 官网：https://www.x265.org
+     - BitBucket 仓库：https://bitbucket.org/multicoreware/x265_git
+
+  3. **x262**：H.262 视频编解码库（GPL）
+
+     - Git 仓库：
+     
+       - [https://git.videolan.org/?p=x262.git;a=summary](https://git.videolan.org/?p=x262.git;a=summary)（浏览器访问）
+       - [http://git.videolan.org/git/x262.git](http://git.videolan.org/git/x262.git)（Git 访问）
+
+  4. **x264**：H.264 视频编解码库（GPL & 商业许可）
+
+     - VideoLan x264 项目主页：https://www.videolan.org/developers/x264.html
+     - GitLab 仓库：https://code.videolan.org/videolan/x264.git
 
 ## 应用调试和逆向工程相关软件
 
