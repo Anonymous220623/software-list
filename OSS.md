@@ -21,13 +21,13 @@
 
 ### 二. 用户页面修改工具
 
-  1. **Windhawk**：Windows 资源管理器的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。
+  1. **Windhawk**：Windows 资源管理器的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。（GPL-3.0）
 
      - 官网：https://windhawk.net
      - Ramen Software 官网：https://ramensoftware.com
      - 客户端应用源代码（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk
      - Windhawk 官方提供的模组源码仓库（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk-mods
-     - Windhawk 插件市场：https://windhawk.net/mods
+     - Windhawk 插件市场（全部开源）：https://windhawk.net/mods
 
   2. **OpenShell**：将 Windows 10/11 资源管理器样式修改为现代 Windows 7 的工具，[Classic-Shell](https://github.com/coddec/Classic-Shell) 的延续版本。
 
