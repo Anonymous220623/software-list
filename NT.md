@@ -6,7 +6,7 @@
 
 1. **TaskExplorer**：使用 Qt 编写的 Windows 任务管理器，基于 System Informer 的 Process Hacker 链接库。
 
-   - 作者：Xanasoft
+   - 作者：Xanasoft/DavidXanatos
    - 官网：https://xanasoft.com
    - GitHub 仓库：https://github.com/DavidXanatos/TaskExplorer
 
