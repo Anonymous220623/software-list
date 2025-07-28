@@ -1,6 +1,6 @@
 > [!WARNING]
 > 
-> 以下列出的软件除 Screen Play 之外仅支持 Windows 平台。
+> 以下列出的开源软件除 Screen Play 之外仅支持 Windows 平台。
 
 ## 一. Windows 系统探查和管理工具
 
