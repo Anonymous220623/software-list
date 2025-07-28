@@ -4,6 +4,22 @@
 
 ## 一. Windows 系统探查和管理工具
 
+#### Windows 资源管理器（`explorer.exe`）替代品
+
+1. **Files**（C#/.NET/UWP）：页面类似 Windows 11 的 Windows 文件管理器，支持 Windows 10/11。
+
+   - GitHub 仓库：https://github.com/files-community/Files
+   - 官网：https://files.community
+
+2. **Explorer++**（C/C++）：多标签页 Windows 文件管理器。
+
+   - GitHub 仓库：https://github.com/derceg/explorerplusplus
+   - 官网：https://explorerplusplus.com
+
+3. **File Explorer**（C#/.NET）：多标签页 Windows 文件管理器。
+
+   - GitHub 仓库：https://github.com/omeryanar/FileExplorer
+
 #### 任务管理器（`taskmgr.exe`）、性能监视器（`perfmon.msc`）替代品/系统对象查看器
 
 1. **TaskExplorer**：使用 Qt 编写的 Windows 任务管理器，基于 System Informer 的 Process Hacker 链接库。
