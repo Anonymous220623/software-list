@@ -245,7 +245,10 @@
      
      - GitHub 仓库：https://github.com/ValveSoftware/Proton
 
-### 二. 虚拟机
+
+## 应用安全性测试工具
+
+### 一. 虚拟机
 
 1. **QEMU**：计算机模拟器（可和 KVM 结合使用以达到和实体机几乎同样的运行效率）
    
@@ -260,7 +263,7 @@
    - VirtualBox 官方发行版与源代码包镜像站：https://download.virtualbox.org/virtualbox
    - VirtualBox SVN 仓库：https://www.virtualbox.org/svn/vbox/trunk
 
-### 三. 沙盒
+### 二. 沙盒
 
 #### Windows
 
@@ -328,3 +331,16 @@
    
    - 官网：https://www.mactype.net
    - GitHub 仓库：https://github.com/snowie2000/mactype
+
+
+## Web OS/Web OS UI
+
+1. **Puter**：基于网页的桌面操作环境，用户页面类似 GNOME/MacOS。
+
+   - GitHub 仓库：https://github.com/HeyPuter/puter
+   - 官网：https://puter.com
+
+2. **daedalOS**：同上，但用户页面类似 Windows 10。
+
+   - GitHub 仓库：https://github.com/DustinBrett/daedalOS
+   - 作者 DustinBrett 网站：https://dustinbrett.com
