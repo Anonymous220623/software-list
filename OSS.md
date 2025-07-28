@@ -163,25 +163,25 @@
 
 #### .NET C#/VB 应用程序
 
-1. **dnSpy**：.NET 程序集逆向和调试工具集：
+1. **dnSpy**：.NET 程序集逆向和调试工具集。
    
    - 官网：https://dnspy.org
    - GitHub 原仓库（已存档，不再维护）：https://github.com/dnSpy/dnSpy
    - 非官方维护 GitHub 仓库：https://github.com/dnSpyEx/dnSpy
 
-2. **ilSpy**：.NET 程序集浏览器和反编译器：
+2. **ilSpy**：.NET 程序集浏览器和反编译器。
    
    - GitHub 仓库：https://github.com/icsharpcode/ILSpy
 
 ### 二. 应用程序资源提取器和编辑器
 
-1. **RisohEditor**：Windows PE 文件资源反编译器、编译器和编辑器
+1. **RisohEditor**：Windows PE 文件资源反编译器、编译器和编辑器（支持的平台：Linux/MacOS+Wine、Windows、ReactOS）。
    
    - GitHub 仓库：https://github.com/katahiromz/RisohEditor
 
 ### 三. 应用程序调试工具
 
-1. **x64dbg**：Windows 平台图形化程序跟踪调试软件
+1. **x64dbg**：Windows 平台图形化程序跟踪调试软件。
    
    - 官网：https://x64dbg.com
    - GitHub 仓库：https://github.com/x64dbg/x64dbg
@@ -189,7 +189,7 @@
 
 ### 四. 可执行文件分析工具
 
-1. **Detect It Easy (DiE)**：可执行文件类型识别和信息分析工具
+1. **Detect It Easy (DiE)**：可执行文件类型识别和信息分析工具。
    
    - Horsicq 作者主页：https://horsicq.github.io
    - GitHub 仓库：https://github.com/horsicq/Detect-It-Easy
