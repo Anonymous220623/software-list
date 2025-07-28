@@ -56,6 +56,28 @@
 
    - GitHub 仓库：https://github.com/AlexanderPro/SmartSystemMenu
 
+#### Windows 开始菜单/任务栏自定义工具
+
+1. **TranslucentTB**：自定义 Windows 任务栏的工具。
+   
+   - 官网：https://translucenttb.com
+   - GitHub 仓库：https://github.com/TranslucentTB/TranslucentTB
+
+2. **TaskbarX**：自定义 Windows 任务栏的工具（该项目已于 2025 年 6 月 12 日停止维护）。
+   
+   - 官网：https://taskbarx.org
+   - GitHub 仓库：https://github.com/ChrisAnd1998/TaskbarX
+
+3. **OpenShell**：将 Windows 10/11 开始菜单样式修改为现代 Windows 7 的工具，[Classic-Shell](https://github.com/coddec/Classic-Shell)（已存档） 的延续版本。
+   
+   - GitHub Pages：https://open-shell.github.io/Open-Shell-Menu
+   - GitHub 仓库：https://github.com/Open-Shell/Open-Shell-Menu
+
+4. **RetroBar**：将 Windows 10/11 的开始菜单和任务栏样式修改为 Windows 95/98/Me/2000/XP/Vista 的工具。
+   
+   - GitHub 仓库：https://github.com/dremin/RetroBar
+
+
 #### 其他 Windows Explorer 个性化工具
 
 1. **Windhawk**：Windows 资源管理器的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。（GPL-3.0）
@@ -66,27 +88,7 @@
    - Windhawk 官方提供的模组源码仓库（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk-mods
    - Windhawk 插件市场（全部开源）：https://windhawk.net/mods
 
-2. **OpenShell**：将 Windows 10/11 资源管理器的开始菜单样式修改为现代 Windows 7 的工具，[Classic-Shell](https://github.com/coddec/Classic-Shell)（已存档） 的延续版本。
-   
-   - GitHub Pages：https://open-shell.github.io/Open-Shell-Menu
-   - GitHub 仓库：https://github.com/Open-Shell/Open-Shell-Menu
-
-3. **ExplorerPatcher**：功能全面且覆盖 Windows 版本广的资源管理器修改工具，可替代 StarDock Start 11 和 StartAllBack 的修改任务栏和开始菜单的主要功能。
+2. **ExplorerPatcher**：功能全面且覆盖 Windows 版本广的资源管理器修改工具，可替代 StarDock Start 11 和 StartAllBack 的修改任务栏和开始菜单的主要功能。
    
    - GitHub 仓库：https://github.com/valinet/ExplorerPatcher
 
-4. **RetroBar**：将 Windows 10/11 的开始菜单和任务栏样式修改为 Windows 95/98/Me/2000/XP/Vista 的工具。
-   
-   - GitHub 仓库：https://github.com/dremin/RetroBar
-
-5. **TranslucentTB**：自定义 Windows 任务栏的工具。
-   
-   - 官网：https://translucenttb.com
-   - GitHub 仓库：https://github.com/TranslucentTB/TranslucentTB
-
-6. **TaskbarX**：自定义 Windows 任务栏的工具（该项目已于 2025 年 6 月 12 日停止维护）。
-   
-   - 官网：https://taskbarx.org
-   - GitHub 仓库：https://github.com/ChrisAnd1998/TaskbarX
-
- 
