@@ -66,7 +66,7 @@
    - Windhawk 官方提供的模组源码仓库（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk-mods
    - Windhawk 插件市场（全部开源）：https://windhawk.net/mods
 
-2. **OpenShell**：将 Windows 10/11 资源管理器样式修改为现代 Windows 7 的工具，[Classic-Shell](https://github.com/coddec/Classic-Shell)（已存档） 的延续版本。
+2. **OpenShell**：将 Windows 10/11 资源管理器的开始菜单样式修改为现代 Windows 7 的工具，[Classic-Shell](https://github.com/coddec/Classic-Shell)（已存档） 的延续版本。
    
    - GitHub Pages：https://open-shell.github.io/Open-Shell-Menu
    - GitHub 仓库：https://github.com/Open-Shell/Open-Shell-Menu
