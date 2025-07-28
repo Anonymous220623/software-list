@@ -6,8 +6,12 @@
 
 #### Windows 资源管理器（`explorer.exe`）替代品
 
-1. **Files**（C#/.NET/UWP）：页面类似 Windows 11 的 Windows 文件管理器，支持 Windows 10/11。
+> [!WARNING]
+>
+> Files 仅支持 Windows 10/11，确保 Windows UWP 应用安装程序未被卸载，且运行时环境正常。
 
+1. **Files**（C#/.NET/UWP）：页面类似 Windows 11 的 Windows 文件管理器。
+   
    - GitHub 仓库：https://github.com/files-community/Files
    - 官网：https://files.community
 
