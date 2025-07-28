@@ -50,6 +50,12 @@
    - Steam 链接：[https://store.steampowered.com/app/672870/ScreenPlay](https://store.steampowered.com/app/672870/ScreenPlay)，应用 ID：`672870`
    - 官网：https://screen-play.app
 
+#### Windows 系统菜单和右键菜单自定义工具
+
+1. **SmartSystemMenu**：扩展 Windows 系统菜单的工具。
+
+   - GitHub 仓库：https://github.com/AlexanderPro/SmartSystemMenu
+
 #### 其他 Windows Explorer 个性化工具
 
 1. **Windhawk**：Windows 资源管理器的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。（GPL-3.0）
