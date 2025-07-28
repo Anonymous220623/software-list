@@ -102,7 +102,7 @@
 
 #### 其他 Windows Explorer 个性化工具
 
-1. **Windhawk**：Windows 资源管理器的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。（GPL-3.0）
+1. **Windhawk**：Windows 资源管理器的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。
    
    - 官网：https://windhawk.net
    - Ramen Software 官网：https://ramensoftware.com
