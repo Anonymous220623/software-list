@@ -35,6 +35,13 @@
    - 作者：zodiacon
    - GitHub 仓库：https://github.com/zodiacon/TotalRegistry
 
+#### 硬链接/符号链接查看工具
+
+1. **Link Shell Extension**：Windows NTFS 文件系统链接查看器，集成至 Windows 资源管理器的右键菜单中。
+
+   - GitLab 仓库：https://gitlab.com/schinagl/link-shell-extension
+   - 项目主页：https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html
+
 ## 二. Windows 用户页面自定义工具
 
 #### 动态壁纸软件
