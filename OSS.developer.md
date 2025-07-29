@@ -143,9 +143,33 @@
    - GitHub 仓库：https://github.com/netblue30/firejail
    - 项目主页：https://firejail.wordpress.com
 
+## 应用程序开发相关工具
+
+### 一. 文本编辑器
+
+### 二. 集成开发环境
+
+### 三. 调试器
+
+#### 命令行/后端
+
+1. **LLDB**：LLVM/Clang 官方命令行调试器。
+   
+   - LLDB 项目主页：https://lldb.llvm.org
+   
+   - LLVM 项目 GitHub 仓库：https://github.com/llvm/llvm-project
+   
+   - LLDB 源码目录：`./lldb/*`
+
+2. **GDB**：GCC 官方命令行调试器。
+   
+   - GDB Git 仓库：https://sourceware.org/git/binutils-gdb.git
+   
+   - GDB 项目主页：https://sourceware.org/gdb
+
 ## 网络相关工具
 
-### 正向代理客户端
+### 一. 正向代理客户端
 
 1. **v2rayN**：系统代理管理工具，基于 v2ray 核心。
    
@@ -161,7 +185,7 @@
    - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
    - 官网：https://www.clashverge.dev
 
-### 反向代理客户端
+### 二. 反向代理客户端
 
 1. **Sheas-Cealer**：SNI 伪造工具，用于无代理突破特定网站访问限制。
    
