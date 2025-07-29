@@ -3,7 +3,7 @@
 > 程序开发/逆向工程软件列表不分平台。
 
 
-## 应用调试和逆向工程相关软件
+## 逆向工程工具/平台
 
 ### 一. 逆向工程平台/工具集
 
@@ -19,7 +19,7 @@
    
    - 官网：https://rada.re
    
-   - **iaito**：Radare2 官方提供的图形用户页面
+   - **iaito**：Radare2 官方提供的 GUI
      
      - GitHub 仓库：https://github.com/radareorg/iaito
 
@@ -27,6 +27,11 @@
    
    - 官网：https://cutter.re
    - GitHub 仓库：https://github.com/rizinorg/cutter
+
+4. **Detect It Easy (DiE)**：可执行文件信息分析和反汇编工具。
+   
+   - Horsicq 作者主页：https://horsicq.github.io
+   - GitHub 仓库：https://github.com/horsicq/Detect-It-Easy
 
 #### Android 平台应用程序/Java 字节码和软件包
 
@@ -52,22 +57,15 @@
    
    - GitHub 仓库：https://github.com/katahiromz/RisohEditor
 
-### 三. 应用程序调试工具
+### 三. 应用程序调试/内存探查工具
 
-1. **x64dbg**：Windows 平台图形化程序跟踪调试软件。
+1. **x64dbg**：Windows 用户模式调试工具集（GUI）。
    
    - 官网：https://x64dbg.com
    - GitHub 仓库：https://github.com/x64dbg/x64dbg
    - SourceForge Snapshots：https://sourceforge.net/projects/x64dbg/files/snapshots
 
-### 四. 可执行文件分析工具
-
-1. **Detect It Easy (DiE)**：可执行文件类型识别和信息分析工具。
-   
-   - Horsicq 作者主页：https://horsicq.github.io
-   - GitHub 仓库：https://github.com/horsicq/Detect-It-Easy
-
-### 五. 应用程序脱壳工具
+### 四. 应用程序脱壳工具
 
 #### .NET 应用程序
 
