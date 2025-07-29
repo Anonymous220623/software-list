@@ -125,3 +125,23 @@
 
    - GitHub 仓库：https://github.com/netblue30/firejail
    - 项目主页：https://firejail.wordpress.com
+
+
+## 网络相关工具
+
+### 正向代理客户端
+
+1. **v2rayN**：系统代理管理工具，基于 v2ray 核心
+
+   - GitHub 仓库：https://github.com/2dust/v2rayN
+   - 项目主页：https://v2rayn.2dust.link
+
+2. **Clash Meta For Android**（CMFA）：Clash Android 版本的的开源实现
+
+   - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
+
+3. **Clash Verge**：Clash 版本的开源实现
+
+   - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
+   - 官网：https://www.clashverge.dev
+
