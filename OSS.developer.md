@@ -73,3 +73,50 @@
    
    - 开发者 SychicBoy 官网主页：https://www.codestrikers.org
    - GitHub 仓库：https://github.com/SychicBoy/NETReactorSlayer
+
+## 应用跨平台运行辅助工具和安全性测试工具
+
+### 一. 应用兼容层
+
+1. **Wine**：能在类 Unix 系统上运行大多数 Windows 应用程序的容器，由 WineHQ 社区发起并维护，CodeWeavers 提供项目贡献和资金支持，[CrossOver](https://www.codeweavers.com/crossover) 是其专业版本。
+   
+   - 官网：https://www.winehq.org
+   
+   - CodeWeavers 官网：https://www.codeweavers.com
+   
+   - GitHub 镜像仓库：https://github.com/wine-mirror/wine
+   
+   - GitLab 仓库：https://gitlab.winehq.org/wine/wine
+   
+   - 由第三方维护的 wine-builds 项目 **（提供 Wine 已编译的可执行文件）**：
+     
+     - https://github.com/Kron4ek/Wine-Builds
+   
+   - **Proton**：由 Value 维护的基于 Wine 等开源软件的 Windows 游戏运行平台，用于 SteamOS。
+     
+     - GitHub 仓库：https://github.com/ValveSoftware/Proton
+       
+
+### 二. 虚拟机
+
+1. **QEMU**：计算机模拟器（可和 KVM 结合使用以达到和实体机几乎同样的运行效率）
+   
+   - 官网：https://www.qemu.org
+   - GitLab 仓库：https://gitlab.com/qemu-project/qemu
+   - GitHub 镜像仓库：https://github.com/qemu/qemu
+   - 官方源码包镜像站：https://download.qemu.org
+
+2. **VirtualBox**：由 Oracle 维护的虚拟机管理工具和计算机模拟器，用户页面使用 Qt 编写。
+   
+   - 官网：https://www.virtualbox.org
+   - VirtualBox 官方发行版与源代码包镜像站：https://download.virtualbox.org/virtualbox
+   - VirtualBox SVN 仓库：https://www.virtualbox.org/svn/vbox/trunk
+
+### 三. 沙盒
+
+#### Windows
+
+1. **Sandboxie**：适用于 Windows 的沙盒隔离操作环境（分为社区和商业分支，社区分支开源，商业分支闭源收费）
+   
+   - GitHub 仓库：https://github.com/sandboxie-plus/Sandboxie
+   - 官网：https://sandboxie-plus.com
