@@ -170,9 +170,24 @@
      - https://www.libreoffice.org
      - https://zh-cn.libreoffice.org
 
-2. **ONLYOFFICE** Desktop Editors & Document Apps：跨平台办公和协作套件，专注于支持 OOXML、ODF 等成熟的文档格式，拥有和 Microsoft Office 相近的用户页面。
+2. **ONLYOFFICE**：跨平台办公和协作套件。
+   
+   - 主要产品：
+     
+     - Documents App：移动端（Android/iOS）文档编辑器和 PDF 阅读/表单填写工具。
+       
+       - GitHub 仓库：https://github.com/ONLYOFFICE/documents-app-android
+     
+     - Desktop Editors：跨平台桌面文档（文档/表格/演示/PDF）编辑器。
+       
+       - GitHub 仓库：https://github.com/ONLYOFFICE/DesktopEditors
+     
+     - Document Server（ONLYOFFICE Docs）：云端办公和协作套件。
+       
+       - GitHub 仓库：https://github.com/ONLYOFFICE/DocumentServer
    
    - 官网：https://www.onlyoffice.com
+   
    - GitHub 组织：https://github.com/ONLYOFFICE
 
 3. **Apache OpenOffice**：由 Apache 基金会维护的办公套件。
