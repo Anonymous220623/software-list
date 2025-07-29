@@ -154,7 +154,7 @@
 
    - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
 
-3. **Clash Verge**：Windows/MacOS/Linux 系统代理管理工具。
+3. **Clash Verge**：跨平台桌面系统代理管理工具。
 
    - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
    - 官网：https://www.clashverge.dev
