@@ -194,10 +194,10 @@
    
    - 官网：https://www.openoffice.org
    - GitHub 仓库：https://github.com/apache/openoffice
-   
-   > **Apache OpenOffice 和 LibreOffice 的关系和发展历史**：https://zh.wikipedia.org/zh-cn/LibreOffice#历史
-   > 
-   > ![image](assets/1.png)
+
+> **Apache OpenOffice 和 LibreOffice 的关系和发展历史**：https://zh.wikipedia.org/zh-cn/LibreOffice#历史
+> 
+> ![image](assets/1.png)
 
 4. **Collabora Online**：基于 Web 的办公套件，是 LibreOffice Online 的活跃分支（LibreOffice Online 已不再积极维护）。
    
