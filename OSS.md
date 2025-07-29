@@ -86,16 +86,21 @@
 
 ### 五. 视频编辑器
 
-1. **OpenShot**：由 Python 编写的跨平台视频编辑器
+1. **OpenShot**（Python,PyQt【前端】/C++【后端】）：跨平台视频编辑器。
    
    - 官网：https://www.openshot.org
    - GitHub 组织：https://github.com/OpenShot
 
-2. **Kdenlive**：非线性视频编辑器，由 KDE 基金会开发并维护
+2. **Kdenlive**（C++/QML/Qt5/Qt6）：跨平台视频编辑器，KDE 项目的一部分。
    
    - 官网：https://kdenlive.org
    - GitHub 镜像仓库：https://github.com/KDE/kdenlive
    - GitLab 仓库：https://invent.kde.org/multimedia/kdenlive
+
+3. **Shotcut**（C++/QML/Qt5/Qt6）：跨平台视频编辑器。
+
+   - 官网：https://www.shotcut.org
+   - GitHub 仓库：https://github.com/mltframework/shotcut
 
 ### 六. 字幕编辑器
 
