@@ -63,7 +63,7 @@
    - GitHub 仓库：https://github.com/Aleksoid1978/MPC-BE
 
 4. **MPV**：跨平台命令行视频播放器。
-
+   
    - GitHub 仓库：https://github.com/mpv-player/mpv
    - 官网：https://mpv.io
 
@@ -85,7 +85,7 @@
    - GitLab 仓库：https://gitlab.gnome.org/GNOME/gimp
 
 2. **ImageMagick**：适用于 Windows 和 Linux 的图片编辑器。
-
+   
    - 官网：https://imagemagick.org
    - GitHub 仓库：https://github.com/ImageMagick/ImageMagick
 
@@ -103,7 +103,7 @@
    - GitLab 仓库：https://invent.kde.org/multimedia/kdenlive
 
 3. **Shotcut**（C++/QML/Qt5/Qt6）：跨平台视频编辑器。
-
+   
    - 官网：https://www.shotcut.org
    - GitHub 仓库：https://github.com/mltframework/shotcut
 
@@ -120,7 +120,6 @@
    - 已存档的 GitHub 仓库：https://github.com/Aegisub/Aegisub
    - 维护的 GitHub 仓库：https://github.com/TypesettingTools/Aegisub
 
-
 ## 操作系统/操作系统内核
 
 1. **Linux**: 全世界影响力最大的开放源码操作系统内核。
@@ -132,7 +131,7 @@
    - Google 提供的源码镜像站（Git）：https://kernel.googlesource.com
 
 2. **BSD**：Unix 衍生操作系统家族。
-
+   
    - **OpenBSD**：
      - GitHub 组织：https://github.com/openbsd
      - 官网：https://www.openbsd.org
@@ -144,7 +143,7 @@
      - 官网：https://www.freebsd.org
 
 3. **Darwin-XNU**：Apple 基于 BSD 系统家族和 Mach 微内核开发，用于 MacOS 和 iOS 的混合内核。
-
+   
    - GitHub 仓库：https://github.com/apple-oss-distributions/xnu
    - GitHub 仓库（已存档）：https://github.com/apple/darwin-xnu
 
@@ -157,8 +156,6 @@
    
    - 官网：https://serenityos.org
    - GitHub 仓库：https://github.com/SerenityOS/serenity
-
-
 
 ## 办公辅助和自动化软件
 
@@ -220,34 +217,31 @@
    - 官网：https://www.mactype.net
    - GitHub 仓库：https://github.com/snowie2000/mactype
 
-
 ## Web OS/Web OS UI
 
 1. **Puter**：基于网页的桌面操作环境，用户页面类似 GNOME/MacOS。
-
+   
    - GitHub 仓库：https://github.com/HeyPuter/puter
    - 官网：https://puter.com
 
 2. **daedalOS**：同上，但用户页面类似 Windows 10。
-
+   
    - GitHub 仓库：https://github.com/DustinBrett/daedalOS
    - 作者 DustinBrett 网站：https://dustinbrett.com
-
 
 ## 磁盘/光盘映像写入、系统盘制作相关工具
 
 1. **Ventoy**：系统镜像虚拟挂载工具，可实现一个 U 盘作为多系统启动盘。
-
+   
    - GitHub 仓库：https://github.com/ventoy/Ventoy
    - 官网：https://www.ventoy.net
 
 2. **Rufus**：Windows 上将光盘映像写入 U 盘的工具，支持系统启动盘制作。
-
+   
    - GitHub 仓库：https://github.com/pbatard/rufus
    - 官网：https://rufus.ie
 
 3. **BalenaEtcher**：同 Rufus，但支持跨平台。
-
+   
    - GitHub 仓库：https://github.com/balena-io/etcher
    - 官网：https://etcher.io
-

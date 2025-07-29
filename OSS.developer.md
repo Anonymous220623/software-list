@@ -1,4 +1,3 @@
-
 ## 逆向工程工具/平台
 
 ### 一. 逆向工程平台/工具集
@@ -6,7 +5,7 @@
 #### Windows/MacOS/Linux 平台可执行文件
 
 > [!IMPORTANT]
->
+> 
 > 此处列出的软件包含反汇编、反编译 (除了 Detect It Easy)、内存探测和分析等下述列出的几乎所有功能。
 
 1. **Ghidra**：由美国国家安全局创建和维护的软件逆向工程框架，内置丰富的功能插件。
@@ -29,7 +28,7 @@
    - GitHub 仓库：https://github.com/rizinorg/cutter
 
 4. **Angr**：使用 Python 开发的逆向工程平台。
-
+   
    - GitHub 仓库：https://github.com/angr/angr
    - 官网：http://angr.io
 
@@ -102,7 +101,7 @@
      - GitHub 仓库：https://github.com/ValveSoftware/Proton
 
 2. **Cygwin**：将 Linux 应用程序重编译以支持在 Windows 上运行的工具链。
-
+   
    - 官网：https://cygwin.com
    - GitHub 仓库：https://github.com/cygwin/cygwin
 
@@ -116,14 +115,14 @@
    - 官方源码包镜像站：https://download.qemu.org
 
 2. **VirtualBox**：由 Oracle 维护的虚拟机管理工具。
-
+   
    - 开源情况：软件核心部分开源，功能扩展包闭源。
    - 官网：https://www.virtualbox.org
    - VirtualBox 官方发行版与源代码包镜像站：https://download.virtualbox.org/virtualbox
    - VirtualBox SVN 仓库：https://www.virtualbox.org/svn/vbox/trunk
 
 3. **Xen**：轻量级 Linux 虚拟机运行环境。
-
+   
    - GitHub 镜像仓库：https://github.com/xen-project/xen
    - Xen Git 镜像站：https://xenbits.xen.org
    - 官网：http://xenproject.org
@@ -140,37 +139,35 @@
 #### Linux
 
 1. **Firejail**：用于 Linux 的轻量级应用隔离操作环境。
-
+   
    - GitHub 仓库：https://github.com/netblue30/firejail
    - 项目主页：https://firejail.wordpress.com
-
 
 ## 网络相关工具
 
 ### 正向代理客户端
 
 1. **v2rayN**：系统代理管理工具，基于 v2ray 核心。
-
+   
    - GitHub 仓库：https://github.com/2dust/v2rayN
    - 项目主页：https://v2rayn.2dust.link
 
 2. **Clash Meta For Android**（CMFA）：Android 系统代理管理工具。
-
+   
    - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
 
 3. **Clash Verge**：跨平台桌面系统代理管理工具。
-
+   
    - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
    - 官网：https://www.clashverge.dev
 
 ### 反向代理客户端
 
 1. **Sheas-Cealer**：SNI 伪造工具，用于无代理突破特定网站访问限制。
-
+   
    - Windows 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer
    - Android 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer-Droid
    - 上游伪造规则存储库：https://github.com/SpaceTimee/Cealing-Host
-
 
 ## 音视频编解码库
 
@@ -196,4 +193,3 @@
    
    - VideoLan x264 项目主页：https://www.videolan.org/developers/x264.html
    - GitLab 仓库：https://code.videolan.org/videolan/x264.git
-
