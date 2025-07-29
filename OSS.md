@@ -189,6 +189,28 @@
    - 官网：https://www.collaboraonline.com
    - GitHub 组织：https://github.com/CollaboraOnline
 
+### 二. PDF/电子书查看器
+
+1. **SumatraPDF**：Windows 平台 PDF/电子书查看器，基于 MuPDF。
+   
+   - 官网：https://www.sumatrapdfreader.org
+   
+   - GitHub 仓库：https://github.com/sumatrapdfreader/sumatrapdf
+
+2. **Okular**：跨平台 PDF/电子书查看器，基于 Poppler，KDE 项目的一部分。
+   
+   - 官网：https://okular.kde.org
+   
+   - GitHub 镜像仓库：https://github.com/KDE/okular
+   
+   - GitLab 仓库：https://invent.kde.org/graphics/okular
+
+3. **Evince**：Linux PDF/电子书查看器，GNOME 项目的一部分。
+   
+   - GitHub 镜像仓库：https://github.com/GNOME/evince
+   
+   - GitLab 仓库：https://gitlab.gnome.org/GNOME/evince
+
 ## 字体相关工具
 
 ### 一. 字体编辑器
