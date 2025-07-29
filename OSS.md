@@ -69,7 +69,7 @@
 
 ### 三. 屏幕录制工具/截图工具
 
-1. **OBS Studio**：强大的录屏和直播软件
+1. **OBS Studio**：强大的录屏和直播软件。
    
    - 官网：https://obsproject.com
    - GitHub 仓库：https://github.com/obsproject/obs-studio
@@ -122,25 +122,25 @@
 
 ### 七. 音视频编解码库
 
-1. **FFmpeg**：跨平台音视频编解码库（GPL）
+1. **FFmpeg**：跨平台音视频编解码库（GPL）。
    
    - Git 仓库：https://git.ffmpeg.org/ffmpeg.git
    - GitHub 镜像仓库：https://github.com/FFmpeg/FFmpeg
    - 官网：https://ffmpeg.org
 
-2. **x265**：H.265 视频编解码库（GPL & 商业许可）
+2. **x265**：H.265 视频编解码库（GPL & 商业许可）。
    
    - 官网：https://www.x265.org
    - BitBucket 仓库：https://bitbucket.org/multicoreware/x265_git
 
-3. **x262**：H.262 视频编解码库（GPL）
+3. **x262**：H.262 视频编解码库（GPL）。
    
    - Git 仓库：
      
      - [https://git.videolan.org/?p=x262.git;a=summary](https://git.videolan.org/?p=x262.git;a=summary)（浏览器访问）
      - [http://git.videolan.org/git/x262.git](http://git.videolan.org/git/x262.git)（Git 访问）
 
-4. **x264**：H.264 视频编解码库（GPL & 商业许可）
+4. **x264**：H.264 视频编解码库（GPL & 商业许可）。
    
    - VideoLan x264 项目主页：https://www.videolan.org/developers/x264.html
    - GitLab 仓库：https://code.videolan.org/videolan/x264.git
@@ -148,7 +148,7 @@
 
 ## 操作系统/操作系统内核
 
-1. **Linux**: 全世界影响力最大的开放源码操作系统内核
+1. **Linux**: 全世界影响力最大的开放源码操作系统内核。
    
    - Linux 基金会官网：https://www.linux.org
    - Linux Kernel Archives 官网：https://www.kernel.org
@@ -180,12 +180,12 @@
      - https://www.libreoffice.org
      - https://zh-cn.libreoffice.org
 
-2. **ONLYOFFICE** Desktop Editors & Document Apps：跨平台办公和协作套件，专注于支持 OOXML、ODF 等成熟的文档格式，拥有和 Microsoft Office 相近的用户页面：
+2. **ONLYOFFICE** Desktop Editors & Document Apps：跨平台办公和协作套件，专注于支持 OOXML、ODF 等成熟的文档格式，拥有和 Microsoft Office 相近的用户页面。
    
    - 官网：https://www.onlyoffice.com
    - GitHub 组织：https://github.com/ONLYOFFICE
 
-3. **Apache OpenOffice**：由 Apache 基金会维护的办公套件：
+3. **Apache OpenOffice**：由 Apache 基金会维护的办公套件。
    
    - 官网：https://www.openoffice.org
    - GitHub 仓库：https://github.com/apache/openoffice
@@ -194,7 +194,7 @@
    > 
    > ![image](assets/1.png)
 
-4. **Collabora Online**：基于 Web 的办公套件，是 LibreOffice Online 的活跃分支（LibreOffice Online 已不再积极维护）
+4. **Collabora Online**：基于 Web 的办公套件，是 LibreOffice Online 的活跃分支（LibreOffice Online 已不再积极维护）。
    
    - 官网：https://www.collaboraonline.com
    - GitHub 组织：https://github.com/CollaboraOnline
@@ -216,13 +216,13 @@
 
 ### 二. 字体渲染工具
 
-1. **FreeType**：跨平台字体渲染引擎
+1. **FreeType**：跨平台字体渲染引擎。
    
    - 官网：https://freetype.org
    - GitLab 仓库：https://gitlab.freedesktop.org/freetype/freetype
    - GitHub 镜像仓库：https://github.com/freetype/freetype
 
-2. **MacType**：Windows 平台字体渲染引擎，可将字体更改为 macOS/Linux 用户页面的样式
+2. **MacType**：Windows 平台字体渲染引擎，可将字体更改为 macOS/Linux 用户页面的样式。
    
    - 官网：https://www.mactype.net
    - GitHub 仓库：https://github.com/snowie2000/mactype
