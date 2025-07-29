@@ -1,7 +1,3 @@
-> [!WARNING]
->
-> 程序开发/逆向工程软件列表不分平台。
-
 
 ## 逆向工程工具/平台
 
@@ -17,17 +13,17 @@
    
    - GitHub 仓库：https://github.com/NationalSecurityAgency/ghidra
 
-2. **Radare2**：基于命令行的逆向工程平台
+2. **Radare2**：基于命令行的逆向工程平台。
    
    - GitHub 仓库：https://github.com/radareorg/radare2
    
    - 官网：https://rada.re
    
-   - **iaito**：Radare2 官方提供的 GUI
+   - **iaito**：Radare2 官方提供的 GUI。
      
      - GitHub 仓库：https://github.com/radareorg/iaito
 
-3. **Cutter**：基于 [Rizin](https://github.com/rizinorg/rizin)（Radare2 的分支）项目、Ghidra C 语言反编译器等开源项目的逆向工程平台
+3. **Cutter**：基于 [Rizin](https://github.com/rizinorg/rizin)（Radare2 的分支）项目、Ghidra C 语言反编译器等开源项目的逆向工程平台。
    
    - 官网：https://cutter.re
    - GitHub 仓库：https://github.com/rizinorg/cutter
@@ -39,7 +35,7 @@
 
 #### Android 平台应用程序/Java 字节码和软件包
 
-1. **jadx**：Android/Java 应用程序包分析和逆向工具套件
+1. **jadx**：Android/Java 应用程序包分析和逆向工具套件。
    
    - GitHub 仓库：https://github.com/skylot/jadx
 
@@ -73,7 +69,7 @@
 
 #### .NET 应用程序
 
-1. **.NET Reactor Slayer**：针对 [.NET Reactor 加壳工具](https://www.eziriz.com/dotnet_reactor.htm)的脱壳工具
+1. **.NET Reactor Slayer**：针对 [.NET Reactor 加壳工具](https://www.eziriz.com/dotnet_reactor.htm)的脱壳工具。
    
    - 开发者 SychicBoy 官网主页：https://www.codestrikers.org
    - GitHub 仓库：https://github.com/SychicBoy/NETReactorSlayer
@@ -103,7 +99,7 @@
 
 ### 二. 虚拟机
 
-1. **QEMU**：计算机模拟器（可和 KVM 结合使用以达到和实体机几乎同样的运行效率）
+1. **QEMU**：计算机模拟器（可和 KVM 结合使用以达到和实体机几乎同样的运行效率）。
    
    - 官网：https://www.qemu.org
    - GitLab 仓库：https://gitlab.com/qemu-project/qemu
@@ -120,12 +116,12 @@
 
 #### Windows
 
-1. **Sandboxie**：用于 Windows 的应用隔离操作环境（分为社区和商业分支，社区分支开源，商业分支闭源收费）
+1. **Sandboxie**：用于 Windows 的应用隔离操作环境（分为社区和商业分支，社区分支开源，商业分支闭源收费）。
    
    - GitHub 仓库：https://github.com/sandboxie-plus/Sandboxie
    - 官网：https://sandboxie-plus.com
 
-2. **Firejail**：用于 Linux 的轻量级应用隔离操作环境
+2. **Firejail**：用于 Linux 的轻量级应用隔离操作环境。
 
    - GitHub 仓库：https://github.com/netblue30/firejail
    - 项目主页：https://firejail.wordpress.com
@@ -135,17 +131,26 @@
 
 ### 正向代理客户端
 
-1. **v2rayN**：系统代理管理工具，基于 v2ray 核心
+1. **v2rayN**：系统代理管理工具，基于 v2ray 核心。
 
    - GitHub 仓库：https://github.com/2dust/v2rayN
    - 项目主页：https://v2rayn.2dust.link
 
-2. **Clash Meta For Android**（CMFA）：Android 系统代理管理工具
+2. **Clash Meta For Android**（CMFA）：Android 系统代理管理工具。
 
    - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
 
-3. **Clash Verge**：Windows/MacOS/Linux 系统代理管理工具
+3. **Clash Verge**：Windows/MacOS/Linux 系统代理管理工具。
 
    - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
    - 官网：https://www.clashverge.dev
+
+### 反向代理客户端
+
+1. **Sheas-Cealer**：SNI 伪造工具，用于无代理突破特定网站访问限制。
+
+   - Windows 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer
+   - Android 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer-Droid
+   - 上游伪造规则存储库：https://github.com/SpaceTimee/Cealing-Host
+
 
