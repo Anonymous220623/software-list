@@ -9,6 +9,10 @@
 
 #### Windows/MacOS/Linux 平台可执行文件
 
+> [!IMPORTANT]
+>
+> 此处列出的软件包含反汇编、反编译 (除了 Detect It Easy)、内存探测和分析等下述列出的几乎所有功能。
+
 1. **Ghidra**：由美国国家安全局创建和维护的软件逆向工程（SRE）框架，内置丰富的程序逆向插件。
    
    - GitHub 仓库：https://github.com/NationalSecurityAgency/ghidra
@@ -41,19 +45,19 @@
 
 #### .NET C#/VB 应用程序
 
-1. **dnSpy**：.NET 程序集逆向和调试工具集。
+1. **dnSpy**：.NET 程序集逆向工具集。
    
    - 官网：https://dnspy.org
    - GitHub 原仓库（已存档，不再维护）：https://github.com/dnSpy/dnSpy
    - 非官方维护 GitHub 仓库：https://github.com/dnSpyEx/dnSpy
 
-2. **ilSpy**：.NET 程序集浏览器和反编译器。
+2. **ilSpy**：.NET 程序集逆向工具集。
    
    - GitHub 仓库：https://github.com/icsharpcode/ILSpy
 
 ### 二. 应用程序资源提取器和编辑器
 
-1. **RisohEditor**：Windows PE 文件资源反编译器、编译器和编辑器（支持的平台：Linux/MacOS+Wine、Windows、ReactOS）。
+1. **RisohEditor**：Windows 可执行文件资源反编译器、编译器和编辑器（支持的平台：Linux/MacOS+Wine、Windows、ReactOS）。
    
    - GitHub 仓库：https://github.com/katahiromz/RisohEditor
 
