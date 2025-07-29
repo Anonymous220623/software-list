@@ -13,7 +13,7 @@
    
    - GitHub 仓库：https://github.com/NationalSecurityAgency/ghidra
 
-2. **Radare2**：基于命令行的逆向工程平台。
+2. **Radare2**：基于命令行的逆向工程平台，跨平台但优先支持 Linux。
    
    - GitHub 仓库：https://github.com/radareorg/radare2
    
@@ -23,7 +23,7 @@
      
      - GitHub 仓库：https://github.com/radareorg/iaito
 
-3. **Cutter**：基于 [Rizin](https://github.com/rizinorg/rizin)（Radare2 的分支）项目、Ghidra C 语言反编译器等开源项目的逆向工程平台。
+3. **Cutter**：基于 [Rizin](https://github.com/rizinorg/rizin)（Radare2 的分支）项目、Ghidra C 语言反编译器等开源项目的跨平台逆向工程平台。
    
    - 官网：https://cutter.re
    - GitHub 仓库：https://github.com/rizinorg/cutter
