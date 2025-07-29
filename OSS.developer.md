@@ -136,11 +136,11 @@
    - GitHub 仓库：https://github.com/2dust/v2rayN
    - 项目主页：https://v2rayn.2dust.link
 
-2. **Clash Meta For Android**（CMFA）：Clash Android 版本的的开源实现
+2. **Clash Meta For Android**（CMFA）：Android 系统代理管理工具
 
    - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
 
-3. **Clash Verge**：Clash 版本的开源实现
+3. **Clash Verge**：Windows/MacOS/Linux 系统代理管理工具
 
    - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
    - 官网：https://www.clashverge.dev
