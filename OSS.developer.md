@@ -28,7 +28,12 @@
    - 官网：https://cutter.re
    - GitHub 仓库：https://github.com/rizinorg/cutter
 
-4. **Detect It Easy (DiE)**：可执行文件信息分析和反汇编工具。
+4. **Angr**：使用 Python 开发的逆向工程平台。
+
+   - GitHub 仓库：https://github.com/angr/angr
+   - 官网：http://angr.io
+
+5. **Detect It Easy (DiE)**：可执行文件信息分析和反汇编工具。
    
    - Horsicq 作者主页：https://horsicq.github.io
    - GitHub 仓库：https://github.com/horsicq/Detect-It-Easy
