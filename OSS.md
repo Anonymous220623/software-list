@@ -246,7 +246,7 @@
    - GitHub 仓库：https://github.com/HeyPuter/puter
    - 官网：https://puter.com
 
-2. **daedalOS**：同上，但用户页面类似 Windows 10。
+2. **daedalOS**：同 Puter，但用户页面类似 Windows 10。
    
    - GitHub 仓库：https://github.com/DustinBrett/daedalOS
    - 作者 DustinBrett 网站：https://dustinbrett.com
