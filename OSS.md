@@ -156,15 +156,33 @@
    - 项目官方源码镜像站（Git）：https://git.kernel.org
    - Google 提供的源码镜像站（Git）：https://kernel.googlesource.com
 
-2. **ReactOS**：类 Windows NT 操作系统，内核层代码为该项目原创，应用层引用 [Wine 项目](#一-应用兼容层)源码，**该操作系统目前尚未稳定**。
+2. **BSD**：Unix 衍生操作系统家族。
+
+   - **OpenBSD**：
+     - GitHub 组织：https://github.com/openbsd
+     - 官网：https://www.openbsd.org
+   - **NetBSD**：
+     - GitHub 组织：https://github.com/NetBSD
+     - 官网：https://www.netbsd.org
+   - **FreeBSD**:
+     - GitHub 组织：https://github.com/freebsd
+     - 官网：https://www.freebsd.org
+
+3. **Darwin-XNU**：Apple 基于 BSD 系统家族和 Mach 微内核开发，用于 MacOS 和 iOS 的混合内核。
+
+   - GitHub 仓库：https://github.com/apple-oss-distributions/xnu
+   - GitHub 仓库（已存档）：https://github.com/apple/darwin-xnu
+
+4. **ReactOS**：类 Windows NT 操作系统，内核层代码为该项目原创，应用层引用 [Wine 项目](#一-应用兼容层)源码，**该操作系统目前尚未稳定**。
    
    - 官网：https://reactos.org
    - GitHub 仓库：https://github.com/reactos/reactos
 
-3. **SerenityOS**：使用 C++ 编写的类 Unix 操作系统，支持 x86_64、ARM 和 RISC-V 架构。
+5. **SerenityOS**：使用 C++ 编写的类 Unix 操作系统，支持 x86_64、ARM 和 RISC-V 架构。
    
    - 官网：https://serenityos.org
    - GitHub 仓库：https://github.com/SerenityOS/serenity
+
 
 
 ## 办公辅助和自动化软件
