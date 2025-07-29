@@ -45,22 +45,27 @@
 
 ### 二. 视频播放器
 
-1. **VLC Media Player**：由 VideoLAN 非营利组织开发和维护的跨平台视频播放器项目
+1. **VLC Media Player**：由 VideoLAN 非营利组织开发和维护的跨平台视频播放器项目。
    
    - VideoLAN 组织官网：https://www.videolan.org
    - VideoLAN GitHub 组织主页：https://github.com/videolan
    - VideoLAN GitLab 实例主页：https://code.videolan.org
    - VideoLAN 构建二进制发行版镜像站：https://get.videolan.org
 
-2. **MPC-HC**：Windows 平台基于 DirectShow 和 FFmpeg 的视频播放器
+2. **MPC-HC**：Windows 平台视频播放器，K-lite Codec Pack 的默认播放工具。
    
    - 官网：https://mpc-hc.org
    - 原 GitHub 仓库（不再维护）：https://github.com/mpc-hc/mpc-hc
    - 由 clsid2 维护的 GitHub 仓库：https://github.com/clsid2/mpc-hc
 
-3. **MPC-BE**：由 Aleksoid1978 维护的 MPC-HC 的分支
+3. **MPC-BE**：由 Aleksoid1978 维护的 MPC-HC 的分支。
    
    - GitHub 仓库：https://github.com/Aleksoid1978/MPC-BE
+
+4. **MPV**：跨平台命令行视频播放器。
+
+   - GitHub 仓库：https://github.com/mpv-player/mpv
+   - 官网：https://mpv.io
 
 ### 三. 屏幕录制工具/截图工具
 
