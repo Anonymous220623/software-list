@@ -239,3 +239,22 @@
 
    - GitHub 仓库：https://github.com/DustinBrett/daedalOS
    - 作者 DustinBrett 网站：https://dustinbrett.com
+
+
+## 磁盘/光盘映像写入、系统盘制作相关工具
+
+1. **Ventoy**：系统镜像虚拟挂载工具，可实现一个 U 盘作为多系统启动盘。
+
+   - GitHub 仓库：https://github.com/ventoy/Ventoy
+   - 官网：https://www.ventoy.net
+
+2. **Rufus**：Windows 上将光盘映像写入 U 盘的工具，支持系统启动盘制作。
+
+   - GitHub 仓库：https://github.com/pbatard/rufus
+   - 官网：https://rufus.ie
+
+3. **BalenaEtcher**：同 Rufus，但支持跨平台。
+
+   - GitHub 仓库：https://github.com/balena-io/etcher
+   - 官网：https://etcher.io
+
