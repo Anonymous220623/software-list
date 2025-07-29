@@ -133,7 +133,9 @@
    - GitHub 仓库：https://github.com/sandboxie-plus/Sandboxie
    - 官网：https://sandboxie-plus.com
 
-2. **Firejail**：用于 Linux 的轻量级应用隔离操作环境。
+#### Linux
+
+1. **Firejail**：用于 Linux 的轻量级应用隔离操作环境。
 
    - GitHub 仓库：https://github.com/netblue30/firejail
    - 项目主页：https://firejail.wordpress.com
