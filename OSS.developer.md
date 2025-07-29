@@ -9,7 +9,7 @@
 >
 > 此处列出的软件包含反汇编、反编译 (除了 Detect It Easy)、内存探测和分析等下述列出的几乎所有功能。
 
-1. **Ghidra**：由美国国家安全局创建和维护的软件逆向工程框架，内置丰富的程序逆向插件。
+1. **Ghidra**：由美国国家安全局创建和维护的软件逆向工程框架，内置丰富的功能插件。
    
    - GitHub 仓库：https://github.com/NationalSecurityAgency/ghidra
 
