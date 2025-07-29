@@ -120,31 +120,6 @@
    - 已存档的 GitHub 仓库：https://github.com/Aegisub/Aegisub
    - 维护的 GitHub 仓库：https://github.com/TypesettingTools/Aegisub
 
-### 七. 音视频编解码库
-
-1. **FFmpeg**：跨平台音视频编解码库（GPL）。
-   
-   - Git 仓库：https://git.ffmpeg.org/ffmpeg.git
-   - GitHub 镜像仓库：https://github.com/FFmpeg/FFmpeg
-   - 官网：https://ffmpeg.org
-
-2. **x265**：H.265 视频编解码库（GPL & 商业许可）。
-   
-   - 官网：https://www.x265.org
-   - BitBucket 仓库：https://bitbucket.org/multicoreware/x265_git
-
-3. **x262**：H.262 视频编解码库（GPL）。
-   
-   - Git 仓库：
-     
-     - [https://git.videolan.org/?p=x262.git;a=summary](https://git.videolan.org/?p=x262.git;a=summary)（浏览器访问）
-     - [http://git.videolan.org/git/x262.git](http://git.videolan.org/git/x262.git)（Git 访问）
-
-4. **x264**：H.264 视频编解码库（GPL & 商业许可）。
-   
-   - VideoLan x264 项目主页：https://www.videolan.org/developers/x264.html
-   - GitLab 仓库：https://code.videolan.org/videolan/x264.git
-
 
 ## 操作系统/操作系统内核
 
