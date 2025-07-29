@@ -78,11 +78,16 @@
 
 ### 四. 图片编辑器
 
-1. **GIMP**：跨平台图片编辑器
+1. **GIMP**：跨平台图片编辑器，GNOME 项目的一部分。
    
    - 官网：https://www.gimp.org
    - GitHub 镜像仓库：https://github.com/GNOME/gimp
    - GitLab 仓库：https://gitlab.gnome.org/GNOME/gimp
+
+2. **ImageMagick**：适用于 Windows 和 Linux 的图片编辑器。
+
+   - 官网：https://imagemagick.org
+   - GitHub 仓库：https://github.com/ImageMagick/ImageMagick
 
 ### 五. 视频编辑器
 
