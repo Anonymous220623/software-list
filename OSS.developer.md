@@ -99,18 +99,25 @@
 
 ### 二. 虚拟机
 
-1. **QEMU**：计算机模拟器（可和 KVM 结合使用以达到和实体机几乎同样的运行效率）。
+1. **QEMU**：跨平台虚拟机运行环境。
    
    - 官网：https://www.qemu.org
    - GitLab 仓库：https://gitlab.com/qemu-project/qemu
    - GitHub 镜像仓库：https://github.com/qemu/qemu
    - 官方源码包镜像站：https://download.qemu.org
 
-2. **VirtualBox**：由 Oracle 维护的虚拟机管理工具和计算机模拟器，用户页面使用 Qt 编写。
-   
+2. **VirtualBox**：由 Oracle 维护的虚拟机管理工具。
+
+   - 开源情况：软件核心部分开源，功能扩展包闭源。
    - 官网：https://www.virtualbox.org
    - VirtualBox 官方发行版与源代码包镜像站：https://download.virtualbox.org/virtualbox
    - VirtualBox SVN 仓库：https://www.virtualbox.org/svn/vbox/trunk
+
+3. **Xen**：轻量级 Linux 虚拟机运行环境。
+
+   - GitHub 镜像仓库：https://github.com/xen-project/xen
+   - Xen Git 镜像站：https://xenbits.xen.org
+   - 官网：http://xenproject.org
 
 ### 三. 沙盒
 
