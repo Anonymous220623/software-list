@@ -161,7 +161,7 @@
 
 ### 一. 办公套件
 
-1. **LibreOffice**：跨平台办公套件，优先支持自创 ODF 文档格式。
+1. **LibreOffice**：跨平台办公套件，由文档基金会维护。
    
    - GitHub 组织：https://github.com/libreoffice
    - Gerrit：https://git.libreoffice.org
