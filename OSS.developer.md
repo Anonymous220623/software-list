@@ -145,7 +145,7 @@
 
 ### 一. 文本编辑器
 
-#### GUI
+#### 图形用户页面
 
 1. **Notepad++**（Win32/C++/C）：Windows 平台文本和代码编辑器。
 
@@ -163,7 +163,7 @@
    - GitHub 仓库：https://github.com/0x7c13/Notepads
    - 官网：https://www.notepadsapp.com
 
-#### CUI
+#### 命令行页面
 
 ### 二. 集成开发环境
 
