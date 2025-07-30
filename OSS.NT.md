@@ -26,15 +26,15 @@
 
 #### 任务管理器（`taskmgr.exe`）、性能监视器（`perfmon.msc`）替代品/系统对象查看器
 
-1. **TaskExplorer**：使用 Qt 编写的 Windows 任务管理器，基于 System Informer 的 Process Hacker 链接库。
-   
-   - 官网：https://xanasoft.com
-   - GitHub 仓库：https://github.com/DavidXanatos/TaskExplorer
-
-2. **System Informer**：全面的 Windows 系统管理器。
+1. **System Informer**：全面的 Windows 系统管理器。
    
    - Winsider 官网：http://windows-internals.com
    - GitHub 仓库：https://github.com/winsiderss/systeminformer
+
+2. **TaskExplorer**：使用 Qt 编写的 Windows 任务管理器，基于 System Informer 的 Process Hacker 链接库。
+   
+   - 官网：https://xanasoft.com
+   - GitHub 仓库：https://github.com/DavidXanatos/TaskExplorer
 
 3. **System Explorer**：Windows 系统进程、服务管理器和对象查看器。
    
