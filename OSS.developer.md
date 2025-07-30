@@ -57,7 +57,7 @@
 
 ### 二. 应用程序资源提取器和编辑器
 
-1. **RisohEditor**：Windows 可执行文件资源反编译器、编译器和编辑器（支持的平台：Linux/MacOS+Wine、Windows、ReactOS）。
+1. **RisohEditor**：Windows 可执行文件资源反编译器、编译器和编辑器，旨在替代 Resource Hacker（支持的平台：Linux/MacOS+Wine、Windows、ReactOS）。
    
    - GitHub 仓库：https://github.com/katahiromz/RisohEditor
 
