@@ -203,7 +203,7 @@
    - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
    - 官网：https://www.clashverge.dev
 
-### 二. 反向代理客户端
+### 二. 反向代理/SNI 伪造客户端
 
 1. **Sheas-Cealer**：SNI 伪造工具，用于无代理突破特定网站访问限制。
    
