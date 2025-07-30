@@ -205,7 +205,7 @@
 
 ### 二. 反向代理/SNI 伪造客户端
 
-1. **Sheas-Cealer**：SNI 伪造工具，用于无代理突破特定网站访问限制。
+1. **Sheas-Cealer**：SNI 伪造工具，用于无代理突破特定网站访问限制，适用于 Chromium 内核的浏览器。
    
    - Windows 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer
    - Android 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer-Droid
