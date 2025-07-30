@@ -147,7 +147,7 @@
 
 #### 图形用户页面
 
-1. **Notepad++**（Win32/C++/C）：Windows 平台文本和代码编辑器。
+1. **Notepad++**（Win32/C++）：Windows 平台文本和代码编辑器。
 
    - GitHub 仓库：https://github.com/notepad-plus-plus/notepad-plus-plus
    - 官网：https://notepad-plus-plus.org
