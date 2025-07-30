@@ -86,8 +86,6 @@
    
    - 官网：https://www.winehq.org
    
-   - CodeWeavers 官网：https://www.codeweavers.com
-   
    - GitHub 镜像仓库：https://github.com/wine-mirror/wine
    
    - GitLab 仓库：https://gitlab.winehq.org/wine/wine
