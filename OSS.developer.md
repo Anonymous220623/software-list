@@ -145,6 +145,26 @@
 
 ### 一. 文本编辑器
 
+#### GUI
+
+1. **Notepad++**（Win32/C++/C）：Windows 平台文本和代码编辑器。
+
+   - GitHub 仓库：https://github.com/notepad-plus-plus/notepad-plus-plus
+   - 官网：https://notepad-plus-plus.org
+
+2. **Notepad--**（Qt/C++）：跨平台文本和代码编辑器，旨在替代 Notepad++ 依赖于单一 Windows 平台的特性。
+
+   - 备注：优先访问 Gitee 仓库以获取最新更新。
+   - GitHub 仓库（更新延迟）：https://github.com/cxasm/notepad--
+   - Gitee 仓库：https://gitee.com/cxasm/notepad--
+
+3. **Notepads**（C#/.NET/UWP）：Windows 平台文本和代码编辑器。
+
+   - GitHub 仓库：https://github.com/0x7c13/Notepads
+   - 官网：https://www.notepadsapp.com
+
+#### CUI
+
 ### 二. 集成开发环境
 
 ### 三. 调试器
