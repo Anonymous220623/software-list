@@ -26,5 +26,5 @@
    - 作者：Sysinternals 团队（后被微软收购）
    - 软件性质：闭源免费软件，无增值服务
    - 官方软件镜像站：https://live.sysinternals.com
-   - Microsoft 产品页面：https://learn.microsoft.com/en-us/sysinternals
+   - Microsoft 产品页面：https://learn.microsoft.com/zh-cn/sysinternals
    - 产品使用文档 GitHub 仓库：https://github.com/MicrosoftDocs/sysinternals
