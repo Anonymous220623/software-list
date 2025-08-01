@@ -15,7 +15,7 @@
    - GitHub 仓库：https://github.com/files-community/Files
    - 官网：https://files.community
 
-2. **Explorer++**（C/C++）：多标签页 Windows 文件管理器。
+2. **Explorer++**（C/C++/Win32）：多标签页 Windows 文件管理器。
 
    - GitHub 仓库：https://github.com/derceg/explorerplusplus
    - 官网：https://explorerplusplus.com
@@ -31,7 +31,7 @@
    - Winsider 官网：http://windows-internals.com
    - GitHub 仓库：https://github.com/winsiderss/systeminformer
 
-2. **TaskExplorer**：使用 Qt 编写的 Windows 任务管理器，基于 System Informer 的 Process Hacker 链接库。
+2. **TaskExplorer**（Qt/C++）：Windows 系统管理器，基于 System Informer 的 Process Hacker 链接库。
    
    - 官网：https://xanasoft.com
    - GitHub 仓库：https://github.com/DavidXanatos/TaskExplorer
