@@ -113,12 +113,15 @@
 1. **Subtitle Edit**：使用 C# 编写的，支持 Windows 平台的字幕编辑器。
    
    - GitHub 仓库：https://github.com/SubtitleEdit/subtitleedit
+     
    - 官网：http://www.nikse.dk/subtitleedit
 
 2. **Aegisub**：跨平台字幕编辑器。
    
    - 官网：https://aegisub.org
+     
    - 已存档的 GitHub 仓库：https://github.com/Aegisub/Aegisub
+     
    - 维护的 GitHub 仓库：https://github.com/TypesettingTools/Aegisub
 
 ## 操作系统/操作系统内核
@@ -126,36 +129,51 @@
 1. **Linux**: 全世界影响力最大的开放源码操作系统内核。
    
    - Linux 基金会官网：https://www.linux.org
+     
    - Linux Kernel Archives 官网：https://www.kernel.org
+     
    - GitHub 仓库：https://github.com/torvalds/linux
+     
    - 项目官方源码镜像站（Git）：https://git.kernel.org
+     
    - Google 提供的源码镜像站（Git）：https://kernel.googlesource.com
 
 2. **BSD**：Unix 衍生操作系统家族。
    
    - **OpenBSD**：
+     
      - GitHub 组织：https://github.com/openbsd
+       
      - 官网：https://www.openbsd.org
+       
    - **NetBSD**：
+     
      - GitHub 组织：https://github.com/NetBSD
+       
      - 官网：https://www.netbsd.org
+       
    - **FreeBSD**:
+     
      - GitHub 组织：https://github.com/freebsd
+       
      - 官网：https://www.freebsd.org
 
 3. **Darwin-XNU**：Apple 基于 BSD 系统家族和 Mach 微内核开发，用于 MacOS 和 iOS 的混合内核。
    
    - GitHub 仓库：https://github.com/apple-oss-distributions/xnu
+     
    - GitHub 仓库（已存档）：https://github.com/apple/darwin-xnu
 
 4. **ReactOS**：类 Windows NT 操作系统，内核层代码为该项目原创，应用层引用 [Wine 项目](#一-应用兼容层)源码，**该操作系统目前尚未稳定**。
    
    - 官网：https://reactos.org
+     
    - GitHub 仓库：https://github.com/reactos/reactos
 
 5. **SerenityOS**：使用 C++ 编写的类 Unix 操作系统，支持 x86_64、ARM 和 RISC-V 架构。
    
    - 官网：https://serenityos.org
+     
    - GitHub 仓库：https://github.com/SerenityOS/serenity
 
 ## 办公辅助和自动化软件
@@ -165,10 +183,15 @@
 1. **LibreOffice**：跨平台办公套件，由文档基金会维护。
    
    - GitHub 组织：https://github.com/libreoffice
+     
    - Gerrit：https://git.libreoffice.org
+     
    - 已发布版本的源代码压缩包：https://download.documentfoundation.org/libreoffice/src
+     
    - 官网：
+     
      - https://www.libreoffice.org
+       
      - https://zh-cn.libreoffice.org
 
 2. **ONLYOFFICE**：跨平台办公和协作套件。
@@ -179,7 +202,7 @@
        
        - GitHub 仓库：https://github.com/ONLYOFFICE/documents-app-android
      
-     - Desktop Editors：跨平台桌面文档（文档/表格/演示/PDF）编辑器。
+     - Desktop Editors：PC 端（Windows/macOS/Linux）文档/表格/演示/PDF 编辑器。
        
        - GitHub 仓库：https://github.com/ONLYOFFICE/DesktopEditors
      
@@ -194,6 +217,7 @@
 3. **Apache OpenOffice**：由 Apache 基金会维护的办公套件。
    
    - 官网：https://www.openoffice.org
+     
    - GitHub 仓库：https://github.com/apache/openoffice
 
 > **Apache OpenOffice 和 LibreOffice 的关系和发展历史**：https://zh.wikipedia.org/zh-cn/LibreOffice#历史
@@ -203,6 +227,7 @@
 4. **Collabora Online**：基于 Web 的办公套件，是 LibreOffice Online 的活跃分支（LibreOffice Online 已不再积极维护）。
    
    - 官网：https://www.collaboraonline.com
+     
    - GitHub 组织：https://github.com/CollaboraOnline
 
 ### 二. PDF/电子书查看器
