@@ -118,6 +118,18 @@
    - 官网：https://imagemagick.org
    - GitHub 仓库：https://github.com/ImageMagick/ImageMagick
 
+3. **Graphite**：使用 Rust 编写的图片编辑器。
+
+    - 官网：https://graphite.rs
+    - GitHub 仓库：https://github.com/GraphiteEditor/Graphite
+    - 官方 Web 实例：https://editor.graphite.rs
+
+> [!WARNING]
+>
+> 截至 2025 年 8 月，Graphite 仍只支持 Web 端，且暂未推出第一个桌面端正式版本，在该项目第一个桌面端正式版本更新之前，本仓库会持续更新此项目的进度。
+> 对该项目感兴趣的用户可以前往 [https://editor.graphite.rs](https://editor.graphite.rs)（Graphite 官方 Web 实例）体验新功能。
+   
+
 ### 五. 视频编辑器
 
 1. **OpenShot**（Python,PyQt【前端】/C++【后端】）：跨平台视频编辑器。
