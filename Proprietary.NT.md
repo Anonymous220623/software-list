@@ -31,6 +31,20 @@
 
    - 作者：Sysinternals 团队（后被微软收购）
    - 软件性质：闭源免费软件，无增值服务
+   - 软件默认语言：英文
    - 官方软件镜像站：https://live.sysinternals.com
    - Microsoft 产品页面：https://learn.microsoft.com/zh-cn/sysinternals
    - 产品使用文档 GitHub 仓库：https://github.com/MicrosoftDocs/sysinternals
+
+## Windows 可执行文件资源管理器
+
+1. **Resource Hacker**
+
+   - 作者：AngusJohnson
+   - 软件性质：闭源免费软件，无增值服务
+   - 编程语言：Delphi
+   - 软件最新版本：5.2.8（2025-3-6）
+   - 软件默认语言：英文
+   - 项目主页：https://www.angusj.com/resourcehacker
+   - 作者 AngusJohnson 官网：https://www.angusj.com
+   - 作者 AngusJohnson 的 GitHub 主页：https://github.com/AngusJohnson
