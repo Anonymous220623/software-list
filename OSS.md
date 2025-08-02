@@ -44,39 +44,39 @@
    
    - GitHub 仓库：https://github.com/Tichau/FileConverter
 
-### 二. 视频播放器
+### 二. 媒体播放器
 
-1. **VLC Media Player**：由 VideoLAN 非营利组织开发和维护的跨平台视频播放器项目。
+1. **VLC Media Player**：由 VideoLAN 非营利组织开发和维护的跨平台媒体播放器项目。
    
    - VideoLAN 组织官网：https://www.videolan.org
    - VideoLAN GitLab 实例主页：https://code.videolan.org
    - VideoLAN GitHub 组织主页（镜像）：https://github.com/videolan
    - VideoLAN 构建二进制发行版镜像站：https://get.videolan.org
 
-   各平台播放器项目详细信息：
+   各平台项目详细信息：
 
-   1. 桌面视频播放器（适用平台：Windows(Win32)/macOS/Linux/BSD/ReactOS/...，源代码位于主仓库）：
+   1. 桌面应用程序（适用平台：Windows(Win32)/macOS/Linux/BSD/ReactOS/...，源代码位于主仓库）：
 
       - GitLab 仓库：https://code.videolan.org/videolan/vlc
       - GitHub 镜像仓库：https://github.com/videolan/vlc
 
-   2. Android 视频播放器：
+   2. Android 应用程序：
 
       - GitLab 仓库：https://code.videolan.org/videolan/vlc-android
       - GitHub 镜像仓库：https://github.com/videolan/vlc-android
 
-   3. iOS 视频播放器：
+   3. iOS 应用程序：
   
       - GitLab 仓库：https://code.videolan.org/videolan/vlc-ios
       - GitHub 镜像仓库：https://github.com/videolan/vlc-ios
 
-   4. Windows UWP 视频播放器：
+   4. Windows UWP 应用程序：
 
       - GitLab 仓库：https://code.videolan.org/videolan/vlc-winrt
       - GitHub 镜像仓库：https://github.com/videolan/vlc-winrt
 
 
-2. **MPC-HC**：Windows 平台视频播放器，K-Lite Codec Pack 的默认播放工具。
+2. **MPC-HC**：Windows 平台媒体播放器，K-Lite Codec Pack 的默认播放工具。
    
    - 官网：https://mpc-hc.org
    - 原 GitHub 仓库（不再维护）：https://github.com/mpc-hc/mpc-hc
@@ -86,7 +86,7 @@
    
    - GitHub 仓库：https://github.com/Aleksoid1978/MPC-BE
 
-4. **MPV**：跨平台命令行视频播放器。
+4. **MPV**：跨平台命令行媒体播放器。
    
    - GitHub 仓库：https://github.com/mpv-player/mpv
    - 官网：https://mpv.io
