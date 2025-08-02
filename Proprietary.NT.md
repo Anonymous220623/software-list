@@ -17,6 +17,7 @@
 > 
 > 1. 以下列出的软件截至本软件列表更新之前尚未报告出任何流氓行为。
 > 2. 对于有严重流氓行为的软件，在此仓库完善之后，本人会新建一个流氓软件列表仓库。
+> 3. 由于闭源软件自身的不透明性，本仓库的闭源软件列表提供的额外信息会比开源软件更多（比如软件性质、作者、官方下载方式等等）。
 
 ## 系统管理工具
 
@@ -48,4 +49,5 @@
    - 项目主页：https://www.angusj.com/resourcehacker
    - 作者 AngusJohnson 官网：https://www.angusj.com
    - 作者 AngusJohnson 的 GitHub 主页：https://github.com/AngusJohnson
+
 
