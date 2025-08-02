@@ -2,8 +2,8 @@
 
 > [!WARNING]
 > 
-> 1. 该列表中所有可能的软件性质详细信息请跳转至 (RULE.md)[RULE.md#二-闭源软件列表中所有可能的软件性质]。
-> 2. 关于软件开源标准问题请跳转至 (RULE.md)[RULE.md#一-定义一个软件是否开源的标准]。
+> 1. 该列表中所有可能的软件性质详细信息请跳转至 [RULE.md](RULE.md#二-闭源软件列表中所有可能的软件性质)。
+> 2. 关于软件开源标准问题请跳转至 [RULE.md](RULE.md#一-定义一个软件是否开源的标准)。
 
 ## 系统管理工具
 
@@ -35,6 +35,7 @@
    - 项目主页：https://www.angusj.com/resourcehacker
    - 作者 AngusJohnson 官网：https://www.angusj.com
    - 作者 AngusJohnson 的 GitHub 主页：https://github.com/AngusJohnson
+
 
 
 
