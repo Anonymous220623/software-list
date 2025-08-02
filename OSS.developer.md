@@ -19,7 +19,7 @@
    
    - GitHub 仓库：https://github.com/NationalSecurityAgency/ghidra
 
-2. **Radare2**：基于命令行的逆向工程平台。
+2. **Radare2**：跨平台的 Linux 风格命令行逆向工程平台。
    
    - GitHub 仓库：https://github.com/radareorg/radare2
    
