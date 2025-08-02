@@ -90,6 +90,11 @@
    
    - GitHub 仓库：https://github.com/mpv-player/mpv
    - 官网：https://mpv.io
+   - MPV-Builds 项目：
+
+     - 使用 CMake 和 MinGW-w64 手动构建的 MPV 的 Windows 版本的构建配置文件仓库（发行版请跳转至 [Release 页面](https://github.com/shinchiro/mpv-winbuild-cmake/releases)）：https://github.com/shinchiro/mpv-winbuild-cmake
+     - 使用 GitHub Action 自动构建的 MPV 的 Windows 版本的构建配置文件仓库（发行版请跳转至 [Release 页面](https://github.com/zhongfly/mpv-winbuild/releases)）：https://github.com/zhongfly/mpv-winbuild
+
 
 ### 三. 屏幕录制工具/截图工具
 
