@@ -130,7 +130,7 @@
    - 官网：https://www.virtualbox.org
    - VirtualBox 官方发行版与源代码包镜像站：https://download.virtualbox.org/virtualbox
    - VirtualBox SVN 仓库：https://www.virtualbox.org/svn/vbox/trunk
-   - GitHub 仓库（非镜像，由 Oracle 官方维护，可能存在更新延迟【5 ~ 7 天更新一次】）：https://github.com/VirtualBox/virtualbox
+   - GitHub 仓库（非镜像，由 Oracle 官方维护，可能存在更新延迟【5 ~ 7 天同步一次】）：https://github.com/VirtualBox/virtualbox
 
 3. **Xen**：轻量级 Linux 虚拟机运行环境。
    
