@@ -30,7 +30,7 @@
 
 > [!IMPORTANT]
 >
-> 本产品并未完全开源，闭源链接库路径：`KSystemInformer/bin-signed/*`
+> 本软件 GitHub 存储库包含闭源链接库（涉及与 Windows 内核交互的模块，封闭源码以防止恶意软件利用）：[/KSystemInformer/bin-signed](https://github.com/winsiderss/systeminformer/tree/master/KSystemInformer/bin-signed)：
 
    - Winsider 官网：http://windows-internals.com
    - GitHub 仓库：https://github.com/winsiderss/systeminformer
