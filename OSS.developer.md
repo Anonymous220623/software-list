@@ -62,6 +62,7 @@
    
    - GitHub 仓库：https://github.com/icsharpcode/ILSpy
 
+
 ### 二. 可执行文件资源管理工具
 
 #### Windows 可执行文件
@@ -70,9 +71,10 @@
    
    - GitHub 仓库：https://github.com/katahiromz/RisohEditor
 
+
 ### 三. 应用程序调试/内存探查工具
 
-1. **x64dbg**：Windows 用户模式调试工具集（GUI）。
+1. **x64dbg**：Windows 用户模式调试工具集合【GUI】。
    
    - 官网：https://x64dbg.com
    - GitHub 仓库：https://github.com/x64dbg/x64dbg
@@ -93,6 +95,14 @@
    - 仓库分支：
 
      - 提供对 vanilla ConfuserEx 全面支持的 de4dot 的分支（已存档，不再维护）：https://github.com/ViRb3/de4dot-cex
+
+### 五. 十六进制文本编辑器
+
+1. **ImHex**（C++）：跨平台十六进制文本分析器和编辑器。
+
+    - 官网：https://imhex.werwolv.net
+    - GitHub 仓库：https://github.com/WerWolv/ImHex
+
 
 ## 应用跨平台运行辅助工具和安全性测试工具
 
