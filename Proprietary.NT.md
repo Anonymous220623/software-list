@@ -36,7 +36,7 @@
    - Microsoft 产品页面：https://learn.microsoft.com/zh-cn/sysinternals
    - 产品使用文档 GitHub 仓库：https://github.com/MicrosoftDocs/sysinternals
 
-## Windows 可执行文件资源管理器
+## Windows 可执行文件资源管理器（查看/编辑/反编译/编译）
 
 1. **Resource Hacker**
 
@@ -48,3 +48,4 @@
    - 项目主页：https://www.angusj.com/resourcehacker
    - 作者 AngusJohnson 官网：https://www.angusj.com
    - 作者 AngusJohnson 的 GitHub 主页：https://github.com/AngusJohnson
+
