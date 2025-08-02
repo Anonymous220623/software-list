@@ -15,7 +15,7 @@
 > 
 > 除 Detect It Easy 以外，此处列出的软件包含反汇编、反编译、内存探测和分析等下述列出的几乎所有功能。
 
-1. **Ghidra**：基于 Java 的软件逆向工程框架，内置丰富的功能插件，由 NSA 发起。
+1. **Ghidra**：基于 Java 的软件逆向工程框架，内置丰富的功能插件。该项目由 NSA 发起。
    
    - GitHub 仓库：https://github.com/NationalSecurityAgency/ghidra
 
