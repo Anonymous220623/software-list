@@ -52,13 +52,13 @@
 
 #### .NET C#/VB 应用程序
 
-1. **dnSpy**：.NET 程序集逆向工具集。
+1. **dnSpy**：.NET 程序集逆向工程平台。
    
    - 官网：https://dnspy.org
    - GitHub 原仓库（已存档，不再维护）：https://github.com/dnSpy/dnSpy
    - 非官方维护 GitHub 仓库：https://github.com/dnSpyEx/dnSpy
 
-2. **ilSpy**：.NET 程序集逆向工具集。
+2. **ilSpy**：.NET 程序集逆向工程平台。
    
    - GitHub 仓库：https://github.com/icsharpcode/ILSpy
 
