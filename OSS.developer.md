@@ -78,14 +78,21 @@
    - GitHub 仓库：https://github.com/x64dbg/x64dbg
    - SourceForge Snapshots：https://sourceforge.net/projects/x64dbg/files/snapshots
 
-### 四. 应用程序脱壳工具
+### 四. 应用程序脱壳工具/反混淆工具
 
 #### .NET 应用程序
 
-1. **.NET Reactor Slayer**：针对 [.NET Reactor 加壳工具](https://www.eziriz.com/dotnet_reactor.htm)的脱壳工具。
+1. **.NET Reactor Slayer**（C#/.NET）：针对 [.NET Reactor 加壳工具](https://www.eziriz.com/dotnet_reactor.htm)的脱壳工具。
    
    - 开发者 SychicBoy 官网主页：https://www.codestrikers.org
    - GitHub 仓库：https://github.com/SychicBoy/NETReactorSlayer
+
+2. **de4dot**（C#/.NET）：.NET 反混淆工具和脱壳工具（命令行）。
+
+   - GitHub 仓库（已存档，不再维护）：https://github.com/de4dot/de4dot
+   - 仓库分支：
+
+     - 提供对 vanilla ConfuserEx 全面支持的 de4dot 的分支（已存档，不再维护）：https://github.com/ViRb3/de4dot-cex
 
 ## 应用跨平台运行辅助工具和安全性测试工具
 
