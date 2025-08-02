@@ -55,7 +55,7 @@
 
    各平台播放器项目详细信息：
 
-   1. 桌面视频播放器（适用平台：Windows【Win32】/macOS/Linux/BSD/ReactOS/...，源代码位于主仓库）：
+   1. 桌面视频播放器（适用平台：Windows(Win32)/macOS/Linux/BSD/ReactOS/...，源代码位于主仓库）：
 
       - GitLab 仓库：https://code.videolan.org/videolan/vlc
       - GitHub 镜像仓库：https://github.com/videolan/vlc
