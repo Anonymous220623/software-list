@@ -35,9 +35,8 @@
    - Winsider 官网：http://windows-internals.com
    - GitHub 仓库：https://github.com/winsiderss/systeminformer
 
-2. **TaskExplorer**（Qt/C++）：Windows 系统管理器，基于 Process Hacker 链接库。
-   
-   - 官网：https://xanasoft.com
+2. **TaskExplorer**（Qt/C++）：Windows 系统管理器，后端基于 System Informer（去除了 System Informer 的闭源组件）。
+
    - GitHub 仓库：https://github.com/DavidXanatos/TaskExplorer
 
 3. **System Explorer**：Windows 系统进程、服务管理器和对象查看器。
