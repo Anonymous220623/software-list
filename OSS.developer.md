@@ -22,11 +22,8 @@
 2. **Radare2**：跨平台的 Linux 风格命令行逆向工程平台。
    
    - GitHub 仓库：https://github.com/radareorg/radare2
-   
    - 官网：https://rada.re
-   
    - **iaito**：Radare2 官方提供的 GUI。
-     
      - GitHub 仓库：https://github.com/radareorg/iaito
 
 3. **Cutter**：基于 [Rizin](https://github.com/rizinorg/rizin)（Radare2 的分支）项目、Ghidra C 语言反编译器等开源项目的逆向工程平台。
@@ -93,7 +90,6 @@
 
    - GitHub 仓库（已存档，不再维护）：https://github.com/de4dot/de4dot
    - 仓库分支：
-
      - 提供对 vanilla ConfuserEx 全面支持的 de4dot 的分支（已存档，不再维护）：https://github.com/ViRb3/de4dot-cex
 
 ### 五. 十六进制文本编辑器
@@ -113,10 +109,9 @@
    - 官网：https://www.winehq.org
    - GitLab 仓库：https://gitlab.winehq.org/wine/wine
    - GitHub 镜像仓库：https://github.com/wine-mirror/wine
-   - 由第三方维护的 wine-builds 项目 **（提供 Wine 已编译的可执行文件）**：
+   - 由第三方维护的 wine-builds 项目（**提供 Wine 已编译的可执行文件**）：
      - [GitHub: Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds)
      - [清华大学开源软件镜像站的 wine-builds 仓库](https://mirrors.tuna.tsinghua.edu.cn/help/wine-builds)（APT 镜像，推荐大陆用户访问以提升下载速度）
-       
    - **Proton**：由 Value 维护的基于 Wine 等开源软件的 Windows 游戏运行平台，用于 SteamOS。
      - GitHub 仓库：https://github.com/ValveSoftware/Proton
 
