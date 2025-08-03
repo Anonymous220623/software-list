@@ -56,7 +56,7 @@
    
    - 官网：https://dnspy.org
    - GitHub 原仓库（已存档，不再维护）：https://github.com/dnSpy/dnSpy
-   - 非官方维护 GitHub 仓库：https://github.com/dnSpyEx/dnSpy
+   - 仍在维护 GitHub 仓库（非官方分支）：https://github.com/dnSpyEx/dnSpy
 
 2. **ilSpy**：.NET 程序集逆向工程平台。
    
@@ -111,25 +111,18 @@
 1. **Wine**：能在类 Unix 系统上运行大多数 Windows 应用程序的容器，由 WineHQ 社区发起并维护，CodeWeavers 等商业公司/基金会提供项目贡献和资金支持，[CrossOver](https://www.codeweavers.com/crossover) 是 CodeWeavers 在此基础上开发的商业版本。
    
    - 官网：https://www.winehq.org
-   
-   - GitHub 镜像仓库：https://github.com/wine-mirror/wine
-   
    - GitLab 仓库：https://gitlab.winehq.org/wine/wine
-   
+   - GitHub 镜像仓库：https://github.com/wine-mirror/wine
    - 由第三方维护的 wine-builds 项目 **（提供 Wine 已编译的可执行文件）**：
-     
      - [GitHub: Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds)
-       
      - [清华大学开源软件镜像站的 wine-builds 仓库](https://mirrors.tuna.tsinghua.edu.cn/help/wine-builds)（APT 镜像，推荐大陆用户访问以提升下载速度）
-   
+       
    - **Proton**：由 Value 维护的基于 Wine 等开源软件的 Windows 游戏运行平台，用于 SteamOS。
-     
      - GitHub 仓库：https://github.com/ValveSoftware/Proton
 
-2. **Cygwin**：将 Linux 应用程序重编译以支持在 Windows 上运行的工具链。
+1. **Cygwin**：将 Linux 应用程序重编译以支持在 Windows 上运行的工具链。
    
    - 官网：https://cygwin.com
-     
    - GitHub 仓库：https://github.com/cygwin/cygwin
 
 ### 二. 虚拟机
