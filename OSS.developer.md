@@ -120,7 +120,7 @@
      
      - [GitHub: Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds)
        
-     - [清华大学开源软件镜像站的 wine-builds 仓库](https://mirrors.tuna.tsinghua.edu.cn/help/wine-builds)（APT 镜像，推荐墙内访问）
+     - [清华大学开源软件镜像站的 wine-builds 仓库](https://mirrors.tuna.tsinghua.edu.cn/help/wine-builds)（APT 镜像，推荐大陆用户访问以提升下载速度）
    
    - **Proton**：由 Value 维护的基于 Wine 等开源软件的 Windows 游戏运行平台，用于 SteamOS。
      
