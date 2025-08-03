@@ -36,6 +36,13 @@
    - 软件默认语言：英文
    - 项目主页：https://www.angusj.com/resourcehacker
 
+2. **Resource Tuner**
+
+   - 作者：[Heaventools Software](https://www.restuner.com/about.htm)
+   - 软件性质：闭源软件，无免费计划
+   - 编程语言：Delphi
+   - 软件支持语言：多语言
+   - 官网：https://www.restuner.com
 
 
 
