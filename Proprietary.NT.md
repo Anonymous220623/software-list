@@ -11,7 +11,8 @@
    
    - 作者：初雨团队（Chuyu-Team）
    - 软件性质：闭源免费软件，无增值服务
-   - GitHub 仓库 **(仅存储多语言资源文件)**：[https://github.com/Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)，软件默认为简体中文，大陆用户无需替换语言资源文件。
+   - GitHub 仓库 **(仅存储多语言资源文件)**：[https://github.com/Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)。
+   - 注意事项：软件默认为简体中文，大陆用户无需替换语言资源文件。
    - 软件下载地址（GitHub 发行版页面）：https://github.com/Chuyu-Team/Dism-Multi-language/releases
 
 2. **Sysinternels** 工具集
@@ -35,6 +36,7 @@
    - 项目主页：https://www.angusj.com/resourcehacker
    - 作者 AngusJohnson 官网：https://www.angusj.com
    - 作者 AngusJohnson 的 GitHub 主页：https://github.com/AngusJohnson
+
 
 
 
