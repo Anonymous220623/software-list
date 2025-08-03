@@ -9,7 +9,7 @@
 
 1. **Dism++**
    
-   - 作者：初雨团队（Chuyu-Team）
+   - 作者：[初雨团队（Chuyu-Team）](https://github.com/Chuyu-Team)
    - 软件性质：闭源免费软件，无增值服务
    - GitHub 仓库 **(仅存储多语言资源文件)**：[https://github.com/Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)。
    - 注意事项：软件默认为简体中文，大陆用户无需替换语言资源文件。
@@ -28,14 +28,13 @@
 
 1. **Resource Hacker**
 
-   - 作者：AngusJohnson
+   - 作者：[Angus Johnson](https://github.com/AngusJohnson)
    - 软件性质：闭源免费软件，无增值服务
    - 编程语言：Delphi
    - 软件最新版本：5.2.8（2025-3-6）
    - 软件默认语言：英文
    - 项目主页：https://www.angusj.com/resourcehacker
-   - 作者 AngusJohnson 官网：https://www.angusj.com
-   - 作者 AngusJohnson 的 GitHub 主页：https://github.com/AngusJohnson
+
 
 
 
