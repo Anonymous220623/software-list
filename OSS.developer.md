@@ -101,7 +101,7 @@
 
 ### 六. 应用程序依赖项分析工具
 
-1. **Dependencies**：Windows 可执行文件依赖项分析工具
+1. **Dependencies**：Windows 可执行文件依赖项分析工具【貌似已停止维护】
 
    - GitHub 仓库：https://github.com/lucasg/Dependencies
 
