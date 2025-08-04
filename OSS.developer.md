@@ -259,3 +259,8 @@
    
    - VideoLan x264 项目主页：https://www.videolan.org/developers/x264.html
    - GitLab 仓库：https://code.videolan.org/videolan/x264.git
+
+5. **vvenc**/**vvdec**：H.266 视频编解码库（BSD 3 Clause Clear 许可证）
+
+   - vvenc GitHub 仓库：https://github.com/fraunhoferhhi/vvenc
+   - vvdec GitHub 仓库：https://github.com/fraunhoferhhi/vvdec
