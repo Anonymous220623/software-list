@@ -99,6 +99,12 @@
     - 官网：https://imhex.werwolv.net
     - GitHub 仓库：https://github.com/WerWolv/ImHex
 
+### 六. 应用程序依赖项分析工具
+
+1. **Dependencies**：Windows 可执行文件依赖项分析工具
+
+   - GitHub 仓库：https://github.com/lucasg/Dependencies
+
 
 ## 应用跨平台运行辅助工具和安全性测试工具
 
