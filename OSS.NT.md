@@ -7,7 +7,7 @@
 #### Windows 资源管理器（`explorer.exe`）替代品
 
 > [!WARNING]
->
+> 
 > Files 仅支持 Windows 10/11，确保 Windows UWP 应用安装程序未被卸载，且运行时环境正常。
 
 1. **Files**（C#/.NET/UWP）：页面类似 Windows 11 的 Windows 文件管理器。
@@ -16,12 +16,12 @@
    - 官网：https://files.community
 
 2. **Explorer++**（C/C++/Win32）：多标签页 Windows 文件管理器。
-
+   
    - GitHub 仓库：https://github.com/derceg/explorerplusplus
    - 官网：https://explorerplusplus.com
 
 3. **File Explorer**（C#/.NET）：多标签页 Windows 文件管理器。
-
+   
    - GitHub 仓库：https://github.com/omeryanar/FileExplorer
 
 #### 任务管理器（`taskmgr.exe`）、性能监视器（`perfmon.msc`）替代品/系统对象查看器
@@ -29,14 +29,13 @@
 1. **System Informer**：全面的 Windows 系统管理器。
 
 > [!IMPORTANT]
->
+> 
 > 本软件的 GitHub 仓库包含闭源链接库（涉及与 Windows 内核交互的模块，封闭源码以防止恶意软件利用）：[/KSystemInformer/bin-signed](https://github.com/winsiderss/systeminformer/tree/master/KSystemInformer/bin-signed)：
 
-   - Winsider 官网：http://windows-internals.com
-   - GitHub 仓库：https://github.com/winsiderss/systeminformer
-
+- Winsider 官网：http://windows-internals.com
+- GitHub 仓库：https://github.com/winsiderss/systeminformer
 2. **TaskExplorer**（Qt/C++）：Windows 系统管理器，后端基于 System Informer（去除了 System Informer 的闭源组件）。
-
+   
    - GitHub 仓库：https://github.com/DavidXanatos/TaskExplorer
 
 3. **System Explorer**：Windows 系统进程、服务管理器和对象查看器。
@@ -53,10 +52,16 @@
    
    - GitHub 仓库：https://github.com/zodiacon/TotalRegistry
 
+#### Syscall
+
+1. **Syscall Tables**
+   
+   - GitHub 仓库：https://github.com/hfiref0x/SyscallTables
+
 #### 硬链接/符号链接查看工具
 
 1. **Link Shell Extension**：Windows NTFS 文件系统链接查看器，集成至 Windows 资源管理器的右键菜单中。
-
+   
    - GitLab 仓库：https://gitlab.com/schinagl/link-shell-extension
    - 项目主页：https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html
 
@@ -78,7 +83,7 @@
 #### Windows 系统菜单和右键菜单自定义工具
 
 1. **SmartSystemMenu**：扩展 Windows 系统菜单的工具。
-
+   
    - GitHub 仓库：https://github.com/AlexanderPro/SmartSystemMenu
 
 #### Windows 开始菜单/任务栏自定义工具
@@ -102,7 +107,6 @@
    
    - GitHub 仓库：https://github.com/dremin/RetroBar
 
-
 #### 其他 Windows Explorer 个性化工具
 
 1. **Windhawk**：Windows 资源管理器的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。
@@ -116,4 +120,3 @@
 2. **ExplorerPatcher**：功能全面且覆盖 Windows 版本广的资源管理器修改工具，可替代 StarDock Start 11 和 StartAllBack 的修改任务栏和开始菜单的主要功能。
    
    - GitHub 仓库：https://github.com/valinet/ExplorerPatcher
-

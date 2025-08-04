@@ -42,9 +42,15 @@
 
 #### Android 平台应用程序/Java 字节码和软件包
 
-1. **jadx**：Android/Java 应用程序包分析和逆向工具套件。
+1. **Jadx**：Android/Java 应用程序包分析和逆向工程平台。
    
    - GitHub 仓库：https://github.com/skylot/jadx
+
+2. **Bytecode Viewer**：内置多反编译器的 Android/Java 逆向工程平台。
+   
+   - 官网：https://bytecodeviewer.com
+   
+   - GitHub 仓库：https://github.com/Konloch/bytecode-viewer
 
 #### .NET C#/VB 应用程序
 

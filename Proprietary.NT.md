@@ -17,7 +17,7 @@
    - 软件下载地址（GitHub 发行版页面）：https://github.com/Chuyu-Team/Dism-Multi-language/releases
 
 2. **Sysinternels** 工具集
-
+   
    - 作者：Sysinternals 团队（后被微软收购）
    - 软件性质：闭源免费软件，无增值服务
    - 软件默认语言：英文
@@ -28,7 +28,7 @@
 ## Windows 可执行文件资源管理器（查看/编辑/反编译/编译）
 
 1. **Resource Hacker**
-
+   
    - 作者：[Angus Johnson](https://github.com/AngusJohnson)
    - 软件性质：闭源免费软件，无增值服务
    - 编程语言：Delphi
@@ -37,16 +37,9 @@
    - 项目主页：https://www.angusj.com/resourcehacker
 
 2. **Resource Tuner**
-
+   
    - 作者：[Heaventools Software](https://www.restuner.com/about.htm)
    - 软件性质：闭源软件，无免费计划
    - 编程语言：Delphi
    - 软件支持语言：多语言
    - 官网：https://www.restuner.com
-
-
-
-
-
-
-
