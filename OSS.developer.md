@@ -68,6 +68,10 @@
    
    - GitHub 仓库：https://github.com/katahiromz/RisohEditor
 
+2. **XN Resource Editor**：同 Resource Hacker 的早期版本，已停止维护。
+
+   - GitHub 仓库：https://github.com/stefansundin/xn_resource_editor
+
 
 ### 三. 应用程序调试/内存探查工具
 
