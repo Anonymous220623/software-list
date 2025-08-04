@@ -1,9 +1,8 @@
 # Developer 开源软件列表
 
 > [!NOTE]
->
+> 
 > 此列表包含开发者/技术爱好者可能感兴趣的知名开源软件项目。
-
 
 ## 逆向工程工具/平台
 
@@ -59,7 +58,6 @@
    
    - GitHub 仓库：https://github.com/icsharpcode/ILSpy
 
-
 ### 二. 可执行文件资源管理工具
 
 #### Windows 可执行文件
@@ -69,9 +67,8 @@
    - GitHub 仓库：https://github.com/katahiromz/RisohEditor
 
 2. **XN Resource Editor**：同 Resource Hacker 的早期版本，已停止维护。
-
+   
    - GitHub 仓库：https://github.com/stefansundin/xn_resource_editor
-
 
 ### 三. 应用程序调试/内存探查工具
 
@@ -91,7 +88,7 @@
    - GitHub 仓库：https://github.com/SychicBoy/NETReactorSlayer
 
 2. **de4dot**（C#/.NET）：.NET 反混淆工具和脱壳工具（命令行）。
-
+   
    - GitHub 仓库（已存档，不再维护）：https://github.com/de4dot/de4dot
    - 仓库分支：
      - 提供对 vanilla ConfuserEx 全面支持的 de4dot 的分支（已存档，不再维护）：https://github.com/ViRb3/de4dot-cex
@@ -99,16 +96,15 @@
 ### 五. 十六进制文本编辑器
 
 1. **ImHex**（C++）：跨平台十六进制文本分析器和编辑器。
-
-    - 官网：https://imhex.werwolv.net
-    - GitHub 仓库：https://github.com/WerWolv/ImHex
+   
+   - 官网：https://imhex.werwolv.net
+   - GitHub 仓库：https://github.com/WerWolv/ImHex
 
 ### 六. 应用程序依赖项分析工具
 
 1. **Dependencies**：Windows 可执行文件依赖项分析工具【貌似已停止维护】
-
+   
    - GitHub 仓库：https://github.com/lucasg/Dependencies
-
 
 ## 应用跨平台运行辅助工具和安全性测试工具
 
@@ -125,7 +121,7 @@
    - **Proton**：由 Value 维护的基于 Wine 等开源软件的 Windows 游戏运行平台，用于 SteamOS。
      - GitHub 仓库：https://github.com/ValveSoftware/Proton
 
-1. **Cygwin**：将 Linux 应用程序重编译以支持在 Windows 上运行的工具链。
+2. **Cygwin**：将 Linux 应用程序重编译以支持在 Windows 上运行的工具链。
    
    - 官网：https://cygwin.com
    - GitHub 仓库：https://github.com/cygwin/cygwin
@@ -176,18 +172,18 @@
 #### 图形用户页面
 
 1. **Notepad++**（Win32/C++）：Windows 平台文本和代码编辑器。
-
+   
    - GitHub 仓库：https://github.com/notepad-plus-plus/notepad-plus-plus
    - 官网：https://notepad-plus-plus.org
 
 2. **Notepad--**（Qt/C++）：跨平台文本和代码编辑器，旨在替代 Notepad++ 依赖于单一 Windows 平台的特性。
-
+   
    - 备注：优先访问 Gitee 仓库以获取最新更新。
    - GitHub 仓库（更新延迟）：https://github.com/cxasm/notepad--
    - Gitee 仓库：https://gitee.com/cxasm/notepad--
 
 3. **Notepads**（C#/.NET/UWP）：Windows 平台文本和代码编辑器。
-
+   
    - GitHub 仓库：https://github.com/0x7c13/Notepads
    - 官网：https://www.notepadsapp.com
 
@@ -265,6 +261,6 @@
    - GitLab 仓库：https://code.videolan.org/videolan/x264.git
 
 5. **vvenc**/**vvdec**：H.266 视频编解码库（BSD 3 Clause Clear 许可证）
-
+   
    - vvenc GitHub 仓库：https://github.com/fraunhoferhhi/vvenc
    - vvdec GitHub 仓库：https://github.com/fraunhoferhhi/vvdec

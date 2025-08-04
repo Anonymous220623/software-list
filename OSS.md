@@ -52,29 +52,28 @@
    - VideoLAN GitLab 实例主页：https://code.videolan.org
    - VideoLAN GitHub 组织主页（镜像）：https://github.com/videolan
    - VideoLAN 构建二进制发行版镜像站：https://get.videolan.org
-
+   
    各平台项目详细信息：
-
+   
    1. 桌面应用程序（适用平台：Windows(Win32)/macOS/Linux/BSD/ReactOS/...，源代码位于主仓库）：
-
+      
       - GitLab 仓库：https://code.videolan.org/videolan/vlc
       - GitHub 镜像仓库：https://github.com/videolan/vlc
-
+   
    2. Android 应用程序：
-
+      
       - GitLab 仓库：https://code.videolan.org/videolan/vlc-android
       - GitHub 镜像仓库：https://github.com/videolan/vlc-android
-
+   
    3. iOS 应用程序：
-  
+      
       - GitLab 仓库：https://code.videolan.org/videolan/vlc-ios
       - GitHub 镜像仓库：https://github.com/videolan/vlc-ios
-
+   
    4. Windows UWP 应用程序：
-
+      
       - GitLab 仓库：https://code.videolan.org/videolan/vlc-winrt
       - GitHub 镜像仓库：https://github.com/videolan/vlc-winrt
-
 
 2. **MPC-HC**：Windows 平台媒体播放器，K-Lite Codec Pack 的默认播放工具。
    
@@ -89,12 +88,13 @@
 4. **MPV**：跨平台命令行媒体播放器。
    
    - GitHub 仓库：https://github.com/mpv-player/mpv
+   
    - 官网：https://mpv.io
+   
    - MPV-Builds 项目：
-
+     
      - 使用 CMake 和 MinGW-w64 手动构建的 MPV 的 Windows 版本的构建配置文件仓库（发行版请跳转至 [Release 页面](https://github.com/shinchiro/mpv-winbuild-cmake/releases)）：https://github.com/shinchiro/mpv-winbuild-cmake
      - 使用 GitHub Action 自动构建的 MPV 的 Windows 版本的构建配置文件仓库（发行版请跳转至 [Release 页面](https://github.com/zhongfly/mpv-winbuild/releases)）：https://github.com/zhongfly/mpv-winbuild
-
 
 ### 三. 屏幕录制工具/截图工具
 
@@ -130,14 +130,17 @@
 2. **BSD**：Unix 衍生操作系统家族。
    
    - **OpenBSD**：
+     
      - GitHub 组织：https://github.com/openbsd
      - 官网：https://www.openbsd.org
-       
+   
    - **NetBSD**：
+     
      - GitHub 组织：https://github.com/NetBSD
      - 官网：https://www.netbsd.org
-       
+   
    - **FreeBSD**:
+     
      - GitHub 组织：https://github.com/freebsd
      - 官网：https://www.freebsd.org
 
@@ -220,6 +223,7 @@
 1. **FontForge**：跨平台字体编辑器，具有 Python 解释器绑定。
    
    - 官网：https://fontforge.org
+   
    - GitHub 仓库：https://github.com/fontforge/fontforge
    
    - 官方文档主页：
