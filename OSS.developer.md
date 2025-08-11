@@ -159,7 +159,7 @@
 
 #### Windows
 
-1. **Sandboxie**：用于 Windows 的应用隔离操作环境（分为社区和商业分支，社区分支开源，商业分支闭源收费）。
+1. **Sandboxie**：用于 Windows 的应用隔离操作环境（项目完全开源，但个人非商业用途免费许可证的功能受限，通过给该项目贡献代码、修复漏洞或购买贡献许可证可使用全部功能）。
    
    - GitHub 仓库：https://github.com/sandboxie-plus/Sandboxie
    - 官网：https://sandboxie-plus.com
