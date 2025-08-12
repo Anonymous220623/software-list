@@ -96,7 +96,7 @@
      - 使用 CMake 和 MinGW-w64 手动构建的 MPV 的 Windows 版本的构建配置文件仓库（发行版请跳转至 [Release 页面](https://github.com/shinchiro/mpv-winbuild-cmake/releases)）：https://github.com/shinchiro/mpv-winbuild-cmake
      - 使用 GitHub Action 自动构建的 MPV 的 Windows 版本的构建配置文件仓库（发行版请跳转至 [Release 页面](https://github.com/zhongfly/mpv-winbuild/releases)）：https://github.com/zhongfly/mpv-winbuild
 
-### 三. 屏幕录制工具/截图工具
+### 三. 屏幕录制工具
 
 1. **OBS Studio**：强大的录屏和直播软件。
    
@@ -105,15 +105,22 @@
    - Microsoft Store 链接：[https://apps.microsoft.com/detail/xpffh613w8v6lv](https://apps.microsoft.com/detail/xpffh613w8v6lv)，应用 ID：`xpffh613w8v6lv`
    - Steam 链接：[https://store.steampowered.com/app/1905180/OBS_Studio/](https://store.steampowered.com/app/1905180/OBS_Studio/)，应用 ID：`1905180`
 
-### 四. 图片编辑器
+### 四. 截图工具
+
+1. **Flameshot**：跨平台 PC 端截图工具。
+
+   - 官网：https://flameshot.org
+   - GitHub 仓库：https://github.com/flameshot-org/flameshot
+
+### 五. 图片编辑器
 
 请跳转至 [OSS.designer.md](OSS.designer.md#一-图片编辑器)。
 
-### 五. 视频编辑器
+### 六. 视频编辑器
 
 请跳转至 [OSS.designer.md](OSS.designer.md#二-视频编辑器)。
 
-### 六. 字幕编辑器
+### 七. 字幕编辑器
 
 请跳转至 [OSS.designer.md](OSS.designer.md#三-字幕编辑器)。
 
