@@ -35,7 +35,12 @@
    - GitHub 仓库：https://github.com/angr/angr
    - 官网：http://angr.io
 
-5. **Detect It Easy (DiE)**：可执行文件信息分析和反汇编工具。
+5. **ImHex**（C++）：注重十六进制文本分析编辑的逆向工程平台。
+   
+   - 官网：https://imhex.werwolv.net
+   - GitHub 仓库：https://github.com/WerWolv/ImHex
+
+6. **Detect It Easy (DiE)**：可执行文件信息分析和反汇编工具。
    
    - Horsicq 作者主页：https://horsicq.github.io
    - GitHub 仓库：https://github.com/horsicq/Detect-It-Easy
@@ -101,10 +106,7 @@
 
 ### 五. 十六进制文本编辑器
 
-1. **ImHex**（C++）：跨平台十六进制文本分析器和编辑器。
-   
-   - 官网：https://imhex.werwolv.net
-   - GitHub 仓库：https://github.com/WerWolv/ImHex
+（等待补充）
 
 ### 六. 应用程序依赖项分析工具
 
