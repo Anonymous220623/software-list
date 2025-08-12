@@ -66,7 +66,7 @@
    - 官网：https://www.blender.org
    - Gitea 实例：https://projects.blender.org
    - Gitea 主仓库：https://projects.blender.org/blender/blender.git
-   - GitHub 镜像仓库：https://github.com/blender/blender
+   - GitHub 镜像仓库（可能存在更新延迟）：https://github.com/blender/blender
 
 2. **FreeCAD**：跨平台 3D 建模软件。
 
