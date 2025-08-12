@@ -57,3 +57,24 @@
    - 官网：https://aegisub.org
    - 已存档的 GitHub 仓库：https://github.com/Aegisub/Aegisub
    - 维护的 GitHub 仓库：https://github.com/TypesettingTools/Aegisub
+
+
+## 2D 设计/3D 建模软件
+
+1. **Blender**：跨平台平面、立体场景设计/建模软件。
+
+   - 官网：https://www.blender.org
+   - Gitea 实例：https://projects.blender.org
+   - Gitea 主仓库：https://projects.blender.org/blender/blender.git
+   - GitHub 镜像仓库：https://github.com/blender/blender
+
+2. **FreeCAD**：跨平台 3D 建模软件。
+
+   - 官网：https://www.freecad.org
+   - GitHub 仓库：https://github.com/FreeCAD/FreeCAD
+   
+3. **OpenSCAD**：跨平台 3D 建模软件。
+
+   - 官网：https://www.openscad.org
+   - GitHub 仓库：https://github.com/openscad/openscad
+
