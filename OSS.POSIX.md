@@ -1,6 +1,6 @@
 ## 磁盘/分区管理工具
 
-1. **Gparted**：Linux 磁盘/分区管理工具，GNOME 项目的一部分。
+1. **GParted**：Linux 磁盘/分区管理工具，GNOME 项目的一部分。
    
    - GitLab 仓库：https://gitlab.gnome.org/GNOME/gparted
    - GitHub 镜像仓库：https://github.com/GNOME/gparted
@@ -19,3 +19,4 @@
 2. **htop**：同 btop。
    
    - GitHub 仓库：https://github.com/htop-dev/htop
+
