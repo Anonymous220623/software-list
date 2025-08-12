@@ -145,7 +145,7 @@
 
 2. **VirtualBox**：由 Oracle 维护的虚拟机管理工具。
    
-   - 开源情况：软件核心部分开源，功能扩展包闭源。
+   - 开源情况：软件主体开源，可选功能扩展包（VirtualBox Extension Pack）闭源，可访问 [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads) 查看详细的许可协议。
    - 官网：https://www.virtualbox.org
    - VirtualBox 官方发行版与源代码包镜像站：https://download.virtualbox.org/virtualbox
    - VirtualBox SVN 仓库：https://www.virtualbox.org/svn/vbox/trunk
