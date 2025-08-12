@@ -75,7 +75,7 @@
       - GitLab 仓库：https://code.videolan.org/videolan/vlc-winrt
       - GitHub 镜像仓库：https://github.com/videolan/vlc-winrt
 
-2. **MPC-HC**：Windows 平台媒体播放器，K-Lite Codec Pack 的默认播放工具。
+2. **MPC-HC**：Windows 平台媒体播放器，K-Lite Codec Pack 的内置默认播放器。
    
    - 官网：https://mpc-hc.org
    - 原 GitHub 仓库（不再维护）：https://github.com/mpc-hc/mpc-hc
