@@ -277,7 +277,7 @@
 
 ## 代码托管和协作平台
 
-1. **GitLab**：基于 Git 的代码托管和协作平台。
+1. **GitLab**：基于 Git 的代码托管和协作平台，支持云托管（Free, Premium 和 Ultimate 计划，可前往 [https://about.gitlab.com/pricing](https://about.gitlab.com/pricing) 了解详细信息）和自托管。
 
    - 官网：[https://gitlab.com](https://gitlab.com)（如果未登录会重定向到 [https://about.gitlab.com](https://about.gitlab.com)）
    - 主开发仓库（包含所有具体的提交记录）：https://gitlab.com/gitlab-org/gitlab
