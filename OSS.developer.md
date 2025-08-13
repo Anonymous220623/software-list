@@ -285,3 +285,8 @@
    - GitLab FOSS（去除所有专有代码）：https://gitlab.com/gitlab-org/gitlab-foss
    - GitLab Community Edition：https://gitlab.com/rluna-gitlab/gitlab-ce
    - GitLab Environment Toolkit：https://gitlab.com/gitlab-org/gitlab-environment-toolkit
+
+2. **Gitea**：基于 Git 的代码托管和协作平台，支持云托管（Free 和 Enterprise 计划，可前往 [https://about.gitea.com/pricing](https://about.gitea.com/pricing) 了解详细信息）和自托管。
+   - 官网：[https://gitea.com](https://gitea.com)（如果未登录会重定向到 [https://about.gitea.com](https://about.gitea.com)）
+   - GitHub 仓库：https://github.com/go-gitea/gitea
+   - Gitea 镜像仓库：https://gitea.com/gitea/gitea-mirror
