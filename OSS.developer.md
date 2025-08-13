@@ -275,7 +275,7 @@
    - vvdec GitHub 仓库：https://github.com/fraunhoferhhi/vvdec
 
 
-## 代码托管和协作平台
+## 代码托管和协作平台/版本控制系统前端
 
 1. **GitLab**：基于 Git 的代码托管和协作平台，支持云托管（Free, Premium 和 Ultimate 计划，可前往 [https://about.gitlab.com/pricing](https://about.gitlab.com/pricing) 了解详细信息）和自托管。
 
