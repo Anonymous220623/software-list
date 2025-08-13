@@ -210,15 +210,12 @@
 1. **LLDB**：LLVM/Clang 官方命令行调试器。
    
    - LLDB 项目主页：https://lldb.llvm.org
-   
    - LLVM 项目 GitHub 仓库：https://github.com/llvm/llvm-project
-   
    - LLDB 源码目录：`./lldb/*`
 
 2. **GDB**：GCC 官方命令行调试器。
    
    - GDB Git 仓库：https://sourceware.org/git/binutils-gdb.git
-   
    - GDB 项目主页：https://sourceware.org/gdb
 
 ## 网络相关工具
