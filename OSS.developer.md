@@ -222,19 +222,25 @@
 
 ### 一. 正向代理客户端
 
-1. **v2rayN**：系统代理管理工具，基于 v2ray 核心。
+1. **v2rayN**：系统代理客户端，基于 v2ray 核心。
    
    - GitHub 仓库：https://github.com/2dust/v2rayN
    - 项目主页：https://v2rayn.2dust.link
 
-2. **Clash Meta For Android**（CMFA）：Android 系统代理管理工具。
+2. **Clash Meta For Android**（CMFA）：Android 系统代理客户端。
    
    - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
 
-3. **Clash Verge**：跨平台桌面系统代理管理工具。
+3. **Clash Verge**：跨平台桌面系统代理客户端。
    
    - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
    - 官网：https://www.clashverge.dev
+
+4. **sing-box**：跨平台代理客户端。
+
+   - 官网：https://sing-box.sagernet.org
+   - GitHub 主仓库：https://github.com/SagerNet/sing-box
+   - sing-box for Android 的 GitHub 仓库：https://github.com/SagerNet/sing-box-for-android
 
 ### 二. 反向代理/SNI 伪造客户端
 
