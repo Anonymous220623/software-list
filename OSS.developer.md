@@ -273,3 +273,14 @@
    
    - vvenc GitHub 仓库：https://github.com/fraunhoferhhi/vvenc
    - vvdec GitHub 仓库：https://github.com/fraunhoferhhi/vvdec
+
+
+## 代码托管和协作平台
+
+1. **GitLab**：基于 Git 的代码托管和协作平台。
+
+   - 官网：[https://gitlab.com](https://gitlab.com)（如果未登录会重定向到 [https://about.gitlab.com](https://about.gitlab.com)）
+   - 主开发仓库（包含所有具体的提交记录）：https://gitlab.com/gitlab-org/gitlab
+   - GitLab FOSS（去除所有专有代码）：https://gitlab.com/gitlab-org/gitlab-foss
+   - GitLab Community Edition：https://gitlab.com/rluna-gitlab/gitlab-ce
+   - GitLab Environment Toolkit：https://gitlab.com/gitlab-org/gitlab-environment-toolkit
