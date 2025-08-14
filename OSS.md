@@ -274,7 +274,7 @@
    - GitHub 仓库：https://github.com/balena-io/etcher
    - 官网：https://etcher.io
 
-## 压缩文件管理软件
+## 压缩存档管理软件
 
 1. **7-Zip**：
 
