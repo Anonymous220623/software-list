@@ -43,3 +43,12 @@
    - 编程语言：Delphi
    - 软件支持语言：多语言
    - 官网：https://www.restuner.com
+
+## Windows NTFS 文件搜索工具
+
+1. **Everything**：
+
+   - 作者：Voidtools
+   - 软件性质：闭源免费软件，无增值服务
+   - 软件支持语言：多语言
+   - 官网：https://www.voidtools.com
