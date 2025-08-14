@@ -288,3 +288,8 @@
    - 官网：https://apps.kde.org/zh-cn/ark
    - GitLab 仓库：https://invent.kde.org/utilities/ark
    - GitHub 镜像仓库：https://github.com/KDE/ark
+
+3. **PeaZip**：使用 Pascal 编写的跨平台压缩文件管理工具。
+
+   - 项目主页：https://peazip.github.io
+   - GitHub 仓库：https://github.com/peazip/PeaZip
