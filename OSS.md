@@ -273,3 +273,18 @@
    
    - GitHub 仓库：https://github.com/balena-io/etcher
    - 官网：https://etcher.io
+
+## 压缩文件管理软件
+
+1. **7-Zip**：
+
+   - 官网：https://www.7-zip.org
+   - GitHub 仓库（不包含具体提交记录）：https://github.com/ip7z/7zip
+   - 7-Zip ZSTD（7-Zip 分支）的 GitHub 仓库：https://github.com/mcmilk/7-Zip-zstd
+   - NanaZip（7-Zip 分支，仅提供 Windows UWP 版本应用程序）的 GitHub 仓库：https://github.com/M2Team/NanaZip
+
+2. **KDE Ark**：Linux GUI 压缩文件管理工具（也提供 [Windows 每日构建版本](https://cdn.kde.org/ci-builds/utilities/ark/master/windows)）。
+
+   - 官网：https://apps.kde.org/zh-cn/ark
+   - GitLab 仓库：https://invent.kde.org/utilities/ark
+   - GitHub 镜像仓库：https://github.com/KDE/ark
