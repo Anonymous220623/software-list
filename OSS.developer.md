@@ -281,7 +281,7 @@
    - vvdec GitHub 仓库：https://github.com/fraunhoferhhi/vvdec
 
 
-## 代码托管和协作平台/版本控制系统前端
+## 代码托管和协作平台
 
 1. **GitLab**：基于 Git 的代码托管和协作平台，支持云托管（Free, Premium 和 Ultimate 计划，可前往 [https://about.gitlab.com/pricing](https://about.gitlab.com/pricing) 了解详细信息）和自托管。
 
@@ -293,6 +293,19 @@
    - GitLab Environment Toolkit：https://gitlab.com/gitlab-org/gitlab-environment-toolkit
 
 2. **Gitea**：基于 Git 的轻量级代码托管和协作平台，支持云托管（Free 和 Enterprise 计划，可前往 [https://about.gitea.com/pricing](https://about.gitea.com/pricing) 了解详细信息）和自托管。
+   
    - 官网：[https://gitea.com](https://gitea.com)（如果未登录会重定向到 [https://about.gitea.com](https://about.gitea.com)）
    - GitHub 仓库：https://github.com/go-gitea/gitea
    - Gitea 镜像仓库：https://gitea.com/gitea/gitea-mirror
+
+### 桌面端
+
+> [!WARNING]
+>
+> 以下软件的服务端不开源。
+
+1. **GitHub Desktop**：GitHub 的桌面端。
+
+   - 官网：[https://desktop.github.com](https://desktop.github.com)，重定向到 [https://github.com/apps/desktop](https://github.com/apps/desktop)
+   - GitHub 仓库（提供 Windows 和 macOS 版本）：https://github.com/desktop/desktop
+   - 非官方 GitHub 仓库（提供 Linux 版本）：https://github.com/shiftkey/desktop
