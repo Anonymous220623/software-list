@@ -298,6 +298,11 @@
    - GitHub 仓库：https://github.com/go-gitea/gitea
    - Gitea 镜像仓库：https://gitea.com/gitea/gitea-mirror
 
+3. **Forgejo/Codeberg**：基于 Git 的免费，由社区驱动的轻量级代码托管和协作平台。
+
+   - 官网：https://codeberg.org
+   - Codeberg 仓库：https://codeberg.org/forgejo/forgejo
+
 ### 桌面端
 
 > [!WARNING]
