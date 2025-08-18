@@ -75,6 +75,10 @@
    - GitHub 仓库：https://github.com/rocksdanister/lively
    - Microsoft Store 链接：[https://apps.microsoft.com/detail/9ntm2qc6qws7](https://apps.microsoft.com/detail/9ntm2qc6qws7)，应用 ID：`9ntm2qc6qws7`
 
+> [!WARNING]
+>
+> Screen Play 即将完成对 KDE Plasma 桌面环境的支持，之后该项目将被移动至 OSS.md。
+
 2. **Screen Play**（C++20/Qt6/QML）：适用于 Windows 和 macOS 的跨平台桌面动态壁纸软件，支持视频/GIF/QML/JS，可添加自定义桌面部件，支持 Steam 创意工坊。
    
    - GitLab 仓库：https://gitlab.com/kelteseth/ScreenPlay
