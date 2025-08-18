@@ -14,5 +14,3 @@
 2. **SAI**：Android APK/APKM 软件包安装工具。
 
    - GitHub 仓库：https://github.com/Aefyr/SAI
-   - F-Droid 主页：https://f-droid.org/packages/com.aefyr.sai.fdroid
-   - Google Play 主页：https://play.google.com/store/apps/details?id=com.aefyr.sai
