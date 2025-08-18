@@ -124,8 +124,8 @@
    - GitLab 仓库：https://gitlab.winehq.org/wine/wine
    - GitHub 镜像仓库：https://github.com/wine-mirror/wine
    - 由第三方维护的 wine-builds 项目（**提供 Wine 已编译的可执行文件**）：
-     - [GitHub: Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) 提供 Linux 的 Wine 和 Proton 版本
-     - [GitHub: Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) 提供 macOS 的 Wine 版本
+     - [GitHub: Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) 提供 Wine 和 Proton 的 Linux 便携版。
+     - [GitHub: Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) 提供 Wine 的 macOS 便携版。
    - **Proton**：由 Value 维护的基于 Wine 等开源软件的 Windows 游戏运行平台，用于 SteamOS。
      - GitHub 仓库：https://github.com/ValveSoftware/Proton
 
