@@ -236,7 +236,7 @@
    - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
    - 官网：https://www.clashverge.dev
 
-4. **sing-box**：跨平台代理客户端。
+4. **sing-box**：跨平台命令行代理客户端。
 
    - 官网：https://sing-box.sagernet.org
    - GitHub 主仓库：https://github.com/SagerNet/sing-box
