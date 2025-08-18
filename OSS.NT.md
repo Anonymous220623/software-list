@@ -80,6 +80,8 @@
    - GitLab 仓库：https://gitlab.com/kelteseth/ScreenPlay
    - Steam 链接：[https://store.steampowered.com/app/672870/ScreenPlay](https://store.steampowered.com/app/672870/ScreenPlay)，应用 ID：`672870`
    - 官网：https://screen-play.app
+   - Screen Play 文档 GitLab 仓库：https://gitlab.com/kelteseth/ScreenPlayDocs
+   - Screen Play 文档官网：https://kelteseth.gitlab.io/ScreenPlayDocs
 
 ### Windows 系统菜单和右键菜单自定义工具
 
