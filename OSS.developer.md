@@ -77,7 +77,7 @@
    
    - GitHub 仓库：https://github.com/katahiromz/RisohEditor
 
-2. **XN Resource Editor**：同 Resource Hacker 的早期版本，已停止维护。
+2. **XN Resource Editor**：类似 Resource Hacker 的早期版本，已停止维护。
    
    - GitHub 仓库：https://github.com/stefansundin/xn_resource_editor
 
