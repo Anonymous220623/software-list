@@ -288,9 +288,9 @@
    - 官网：[https://gitlab.com](https://gitlab.com)（如果未登录会重定向到 [https://about.gitlab.com](https://about.gitlab.com)）
    - GitLab 群组：https://gitlab.com/gitlab-org
    - 主开发仓库（包含所有具体的提交记录）：https://gitlab.com/gitlab-org/gitlab
-   - GitLab FOSS（去除所有专有代码）：https://gitlab.com/gitlab-org/gitlab-foss
-   - GitLab Community Edition：https://gitlab.com/rluna-gitlab/gitlab-ce
-   - GitLab Environment Toolkit：https://gitlab.com/gitlab-org/gitlab-environment-toolkit
+   - GitLab FOSS（去除所有专有代码）仓库：https://gitlab.com/gitlab-org/gitlab-foss
+   - GitLab Community Edition 仓库：https://gitlab.com/rluna-gitlab/gitlab-ce
+   - GitLab Environment Toolkit 仓库：https://gitlab.com/gitlab-org/gitlab-environment-toolkit
 
 2. **Gitea**：基于 Git 的轻量级代码托管和协作平台，支持云托管（Free 和 Enterprise 计划，可前往 [https://about.gitea.com/pricing](https://about.gitea.com/pricing) 了解详细信息）和自托管。
    
