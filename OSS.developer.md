@@ -226,22 +226,20 @@
    
    - 项目主页：https://v2rayn.2dust.link
    - GitHub 仓库：https://github.com/2dust/v2rayN
+   - **v2rayNG**：v2rayN 的 Android 版本。
+      - 项目主页：https://v2rayng.2dust.link
+      - GitHub 仓库：https://github.com/2dust/v2rayNG
 
-2. **v2rayNG**：v2rayN 的 Android 版本。
-
-   - 项目主页：https://v2rayng.2dust.link
-   - GitHub 仓库：https://github.com/2dust/v2rayNG
-
-3. **Clash Meta For Android**（CMFA）：Android 系统代理客户端。
+2. **Clash Meta For Android**（CMFA）：Android 系统代理客户端。
    
    - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
 
-4. **Clash Verge Rev**：跨平台桌面系统代理客户端。
+3. **Clash Verge Rev**：跨平台桌面系统代理客户端。
    
    - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
    - 官网：https://www.clashverge.dev
 
-5. **sing-box**：跨平台命令行代理客户端。
+4. **sing-box**：跨平台命令行代理客户端。
 
    - 官网：https://sing-box.sagernet.org
    - GitHub 主仓库：https://github.com/SagerNet/sing-box
