@@ -115,8 +115,8 @@
    - 官网：https://windhawk.net
    - Ramen Software 官网：https://ramensoftware.com
    - 客户端应用源代码（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk
-   - Windhawk 官方提供的模组源码仓库（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk-mods
-   - Windhawk 插件市场（其中所有插件都公开源码）：https://windhawk.net/mods
+   - Windhawk 官方提供的 Mods 源码仓库（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk-mods
+   - Windhawk Mods 市场（其中所有 Mods 源码都公开可见）：https://windhawk.net/mods
 
 2. **ExplorerPatcher**：功能全面且覆盖 Windows 版本广的资源管理器修改工具，可替代 StarDock Start 11 和 StartAllBack 的修改任务栏和开始菜单的主要功能。
    
