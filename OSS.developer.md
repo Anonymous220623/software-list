@@ -93,7 +93,7 @@
 
 #### .NET 应用程序
 
-1. **.NET Reactor Slayer**（C#/.NET）：针对 [.NET Reactor 加壳工具](https://www.eziriz.com/dotnet_reactor.htm)的脱壳工具。
+1. **.NET Reactor Slayer**（C#/.NET）：针对 [.NET Reactor 加壳工具](https://www.eziriz.com/dotnet_reactor.htm)的脱壳工具，基于 de4dot。
    
    - 开发者 SychicBoy 官网主页：https://www.codestrikers.org
    - GitHub 仓库：https://github.com/SychicBoy/NETReactorSlayer
