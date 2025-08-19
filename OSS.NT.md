@@ -66,7 +66,7 @@
    - GitLab 仓库：https://gitlab.com/schinagl/link-shell-extension
    - 项目主页：https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html
 
-## 二. Windows 用户页面自定义工具
+## 二. Windows 用户页面个性化工具
 
 ### 动态壁纸软件
 
@@ -87,13 +87,20 @@
    - Screen Play 文档 GitLab 仓库：https://gitlab.com/kelteseth/ScreenPlayDocs
    - Screen Play 文档官网：https://kelteseth.gitlab.io/ScreenPlayDocs
 
-### Windows 系统菜单和右键菜单自定义工具
+### Windows 桌面小组件个性化工具
+
+1. **Rainmeter**：提供各种桌面主题包。
+
+   - 官网：https://rainmeter.net
+   - GitHub 仓库：https://github.com/rainmeter/rainmeter
+
+### Windows 系统菜单和右键菜单个性化工具
 
 1. **SmartSystemMenu**：扩展 Windows 系统菜单的工具。
    
    - GitHub 仓库：https://github.com/AlexanderPro/SmartSystemMenu
 
-### Windows 开始菜单/任务栏自定义工具
+### Windows 开始菜单/任务栏个性化工具
 
 1. **TranslucentTB**：自定义 Windows 任务栏的工具。
    
@@ -134,7 +141,7 @@
    
    - GitHub 仓库：https://github.com/valinet/ExplorerPatcher
 
-## Windows 应用程序运行辅助工具
+## 三. Windows 应用程序运行辅助工具
 
 1. **Locale Emulator**：针对特定 Windows 应用程序进行系统语言和系统时区的伪造工具。
 
