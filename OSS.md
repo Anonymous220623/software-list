@@ -259,7 +259,7 @@
 
 ## 磁盘/光盘映像写入、系统盘制作相关工具
 
-1. **Ventoy**：系统镜像虚拟挂载工具，可实现一个 U 盘作为多系统启动盘。
+1. **Ventoy**：系统镜像虚拟挂载工具，可实现一个 U 盘作为多系统启动盘，提供 Windows 和 Linux 应用程序。
    
    - GitHub 仓库：https://github.com/ventoy/Ventoy
    - 官网：https://www.ventoy.net
