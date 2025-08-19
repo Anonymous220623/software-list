@@ -293,3 +293,10 @@
 
    - 项目主页：https://peazip.github.io
    - GitHub 仓库：https://github.com/peazip/PeaZip
+
+## 密码恢复工具
+
+1. **hashcat**：功能和支持算法最全面的密码恢复工具。
+
+   - 官网：https://hashcat.net
+   - GitHub 仓库：https://github.com/hashcat/hashcat
