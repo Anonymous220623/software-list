@@ -17,7 +17,7 @@
 
 ## 地图导航软件
 
-1. **Organic Maps**：基于 OpenStreetMaps 开放地图数据库的地图导航软件，适用于 Android 和 iOS（需按需下载离线地图数据包）。
+1. **Organic Maps**：基于 OpenStreetMaps 开放地图数据库的地图导航软件，适用于 Android 和 iOS（需按需下载离线地图数据包以供离线使用）。
 
    - 官网：https://organicmaps.app
    - GitHub 仓库：https://github.com/organicmaps/organicmaps
