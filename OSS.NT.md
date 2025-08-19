@@ -24,7 +24,7 @@
    
    - GitHub 仓库：https://github.com/omeryanar/FileExplorer
 
-### 任务管理器（`taskmgr.exe`）、性能监视器（`perfmon.msc`）替代品/系统对象查看器
+### 任务管理器（`taskmgr.exe`）、性能监视器（`perfmon.msc`）替代品
 
 > [!IMPORTANT]
 > 
@@ -43,7 +43,9 @@
    
    - GitHub 仓库：https://github.com/zodiacon/SystemExplorer
 
-4. **Object Explorer**：Windows 系统对象查看器。
+### 系统对象查看器
+
+1. **Object Explorer**：Windows 系统对象查看器。
    
    - GitHub 仓库：https://github.com/zodiacon/ObjectExplorer
 
