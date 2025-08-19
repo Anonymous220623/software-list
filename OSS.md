@@ -309,3 +309,8 @@
 
    - 官网：https://www.qbittorrent.org
    - GitHub 仓库：https://github.com/qbittorrent/qBittorrent
+
+2. **Motrix**（Electron）：跨平台 HTTP(S)/BT/磁链下载器。
+
+   - 官网：https://motrix.app
+   - GitHub 仓库：https://github.com/agalwood/Motrix
