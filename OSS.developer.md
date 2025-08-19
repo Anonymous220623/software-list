@@ -317,3 +317,12 @@
    - 官网：[https://desktop.github.com](https://desktop.github.com)，重定向到 [https://github.com/apps/desktop](https://github.com/apps/desktop)
    - GitHub 仓库（提供 Windows 和 macOS 版本）：https://github.com/desktop/desktop
    - 非官方 GitHub 仓库（提供 Linux 版本）：https://github.com/shiftkey/desktop
+
+## 版本控制系统前端
+
+### Git 桌面端
+
+1. **GitButler**：Git GUI 跨平台桌面端。
+
+   - 官网：https://gitbutler.com
+   - GitHub 仓库：https://github.com/gitbutlerapp/gitbutler
