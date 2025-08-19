@@ -139,7 +139,7 @@
    - Windhawk 官方提供的 Mods 源码仓库（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk-mods
    - Windhawk Mods 市场（其中所有 Mods 源码都公开可见）：https://windhawk.net/mods
 
-2. **ExplorerPatcher**：功能全面且覆盖 Windows 版本广的资源管理器修改工具，可替代 StarDock Start 11 和 StartAllBack 的修改任务栏和开始菜单的主要功能。
+2. **ExplorerPatcher**：功能全面且覆盖 Windows 版本广的资源管理器修改工具，可替代 StarDock Start 11 和 StartAllBack/StartIsBack 的修改任务栏和开始菜单的主要功能。
    
    - GitHub 仓库：https://github.com/valinet/ExplorerPatcher
 
