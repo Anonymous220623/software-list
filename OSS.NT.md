@@ -114,6 +114,12 @@
    
    - GitHub 仓库：https://github.com/dremin/RetroBar
 
+### Windows 窗口非客户区个性化工具
+
+1. **DWMBlurGlass**：在 Windows 10/11 上实现 Windows 7 窗口磨砂半透明效果的工具。
+
+   - GitHub 仓库：https://github.com/Maplespe/DWMBlurGlass
+
 ### 其他 Windows Explorer 个性化工具
 
 1. **Windhawk**：Windows 资源管理器的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。
