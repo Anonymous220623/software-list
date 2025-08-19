@@ -127,7 +127,7 @@
    
    - Linux 基金会官网：https://www.linux.org
    - Linux Kernel Archives 官网：https://www.kernel.org
-   - GitHub 仓库：https://github.com/torvalds/linux
+   - torvalds/linux 的 GitHub 仓库：https://github.com/torvalds/linux
    - 项目官方源码镜像站（Git）：https://git.kernel.org
    - Google 提供的源码镜像站（Git）：https://kernel.googlesource.com
 
