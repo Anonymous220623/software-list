@@ -300,3 +300,12 @@
 
    - 官网：https://hashcat.net
    - GitHub 仓库：https://github.com/hashcat/hashcat
+
+## 资源下载辅助工具
+
+### 一. HTTP(S)/BT/磁链/ED2K 下载器
+
+1. **qBittorrent**（Qt/C++）：跨平台 BT/磁链下载器。
+
+   - 官网：https://www.qbittorrent.org
+   - GitHub 仓库：https://github.com/qbittorrent/qBittorrent
