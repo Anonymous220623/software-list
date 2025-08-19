@@ -1,4 +1,4 @@
-# 仅支持 AOSP 操作系统家族的开源软件列表
+# 仅支持移动端操作系统的开源软件列表
 
 ## Android 应用程序管理相关工具
 
@@ -14,3 +14,10 @@
 2. **SAI**：Android APK/APKM 软件包安装工具。
 
    - GitHub 仓库：https://github.com/Aefyr/SAI
+
+## 地图导航软件
+
+1. **Organic Maps**：基于 OpenStreetMaps 开放地图数据库的地图导航软件，适用于 Android 和 iOS（需按需下载离线地图数据包）。
+
+   - 官网：https://organicmaps.app
+   - GitHub 仓库：https://github.com/organicmaps/organicmaps
