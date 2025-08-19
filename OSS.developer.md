@@ -253,7 +253,54 @@
    - Android 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer-Droid
    - 上游伪造规则存储库：https://github.com/SpaceTimee/Cealing-Host
 
-## 音视频编解码库
+## 版本控制相关工具
+
+### 一. 代码托管和协作平台
+
+1. **GitLab**：基于 Git 的代码托管和协作平台，支持云托管（Free, Premium 和 Ultimate 计划，可前往 [https://about.gitlab.com/pricing](https://about.gitlab.com/pricing) 了解详细信息）和自托管。
+
+   - 官网：[https://gitlab.com](https://gitlab.com)（如果未登录会重定向到 [https://about.gitlab.com](https://about.gitlab.com)）
+   - GitLab 群组：https://gitlab.com/gitlab-org
+   - 主开发仓库（包含所有具体的提交记录）：https://gitlab.com/gitlab-org/gitlab
+   - GitLab FOSS（去除所有专有代码）仓库：https://gitlab.com/gitlab-org/gitlab-foss
+   - GitLab Community Edition 仓库：https://gitlab.com/rluna-gitlab/gitlab-ce
+   - GitLab Environment Toolkit 仓库：https://gitlab.com/gitlab-org/gitlab-environment-toolkit
+
+2. **Gitea**：基于 Git 的轻量级代码托管和协作平台，支持云托管（Free 和 Enterprise 计划，可前往 [https://about.gitea.com/pricing](https://about.gitea.com/pricing) 了解详细信息）和自托管。
+   
+   - 官网：[https://gitea.com](https://gitea.com)（如果未登录会重定向到 [https://about.gitea.com](https://about.gitea.com)）
+   - GitHub 仓库：https://github.com/go-gitea/gitea
+   - Gitea 镜像仓库：https://gitea.com/gitea/gitea-mirror
+
+3. **Forgejo/Codeberg**：基于 Git 的免费，由社区驱动的轻量级代码托管和协作平台。
+
+   - 官网：https://codeberg.org
+   - Codeberg 仓库：https://codeberg.org/forgejo/forgejo
+
+#### 桌面端
+
+> [!WARNING]
+>
+> 以下软件的服务端不开源。
+
+1. **GitHub Desktop**：GitHub 的桌面端。
+
+   - 官网：[https://desktop.github.com](https://desktop.github.com)，重定向到 [https://github.com/apps/desktop](https://github.com/apps/desktop)
+   - GitHub 仓库（提供 Windows 和 macOS 版本）：https://github.com/desktop/desktop
+   - 非官方 GitHub 仓库（提供 Linux 版本）：https://github.com/shiftkey/desktop
+
+### 二. 版本控制系统前端
+
+#### Git 桌面端
+
+1. **GitButler**：Git GUI 跨平台桌面端。
+
+   - 官网：https://gitbutler.com
+   - GitHub 仓库：https://github.com/gitbutlerapp/gitbutler
+
+## 特定格式文件操作库
+
+### 一. 音视频编解码库
 
 1. **FFmpeg**：跨平台音视频编解码库（GPL）。
    
@@ -283,46 +330,9 @@
    - vvenc GitHub 仓库：https://github.com/fraunhoferhhi/vvenc
    - vvdec GitHub 仓库：https://github.com/fraunhoferhhi/vvdec
 
+### 二. WIM/ESD 文件操作库
 
-## 代码托管和协作平台
+1. **wimlib**：
 
-1. **GitLab**：基于 Git 的代码托管和协作平台，支持云托管（Free, Premium 和 Ultimate 计划，可前往 [https://about.gitlab.com/pricing](https://about.gitlab.com/pricing) 了解详细信息）和自托管。
-
-   - 官网：[https://gitlab.com](https://gitlab.com)（如果未登录会重定向到 [https://about.gitlab.com](https://about.gitlab.com)）
-   - GitLab 群组：https://gitlab.com/gitlab-org
-   - 主开发仓库（包含所有具体的提交记录）：https://gitlab.com/gitlab-org/gitlab
-   - GitLab FOSS（去除所有专有代码）仓库：https://gitlab.com/gitlab-org/gitlab-foss
-   - GitLab Community Edition 仓库：https://gitlab.com/rluna-gitlab/gitlab-ce
-   - GitLab Environment Toolkit 仓库：https://gitlab.com/gitlab-org/gitlab-environment-toolkit
-
-2. **Gitea**：基于 Git 的轻量级代码托管和协作平台，支持云托管（Free 和 Enterprise 计划，可前往 [https://about.gitea.com/pricing](https://about.gitea.com/pricing) 了解详细信息）和自托管。
-   
-   - 官网：[https://gitea.com](https://gitea.com)（如果未登录会重定向到 [https://about.gitea.com](https://about.gitea.com)）
-   - GitHub 仓库：https://github.com/go-gitea/gitea
-   - Gitea 镜像仓库：https://gitea.com/gitea/gitea-mirror
-
-3. **Forgejo/Codeberg**：基于 Git 的免费，由社区驱动的轻量级代码托管和协作平台。
-
-   - 官网：https://codeberg.org
-   - Codeberg 仓库：https://codeberg.org/forgejo/forgejo
-
-### 桌面端
-
-> [!WARNING]
->
-> 以下软件的服务端不开源。
-
-1. **GitHub Desktop**：GitHub 的桌面端。
-
-   - 官网：[https://desktop.github.com](https://desktop.github.com)，重定向到 [https://github.com/apps/desktop](https://github.com/apps/desktop)
-   - GitHub 仓库（提供 Windows 和 macOS 版本）：https://github.com/desktop/desktop
-   - 非官方 GitHub 仓库（提供 Linux 版本）：https://github.com/shiftkey/desktop
-
-## 版本控制系统前端
-
-### Git 桌面端
-
-1. **GitButler**：Git GUI 跨平台桌面端。
-
-   - 官网：https://gitbutler.com
-   - GitHub 仓库：https://github.com/gitbutlerapp/gitbutler
+   - 官网：https://wimlib.net
+   - GitHub 仓库：https://github.com/ebiggers/wimlib
