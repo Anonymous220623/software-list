@@ -133,3 +133,10 @@
 2. **ExplorerPatcher**：功能全面且覆盖 Windows 版本广的资源管理器修改工具，可替代 StarDock Start 11 和 StartAllBack 的修改任务栏和开始菜单的主要功能。
    
    - GitHub 仓库：https://github.com/valinet/ExplorerPatcher
+
+## Windows 应用程序运行辅助工具
+
+1. **Locale Emulator**：针对特定 Windows 应用程序进行系统语言和系统时区的伪造工具。
+
+   - 项目主页：https://pooi.moe/Locale-Emulator
+   - GitHub 仓库 **（已存档，不再维护）**：https://github.com/xupefei/Locale-Emulator
