@@ -131,13 +131,13 @@
 
 ### 其他 Windows Explorer 个性化工具
 
-1. **Windhawk**：Windows 资源管理器的定制工具和平台，拥有强大的插件市场，使用 VSCodium 作为用户页面和 mod 开发工具。
+1. **Windhawk**：Windows 资源管理器的定制工具和平台，拥有强大的 mod 市场，使用 VSCodium 作为用户页面和 mod 开发工具。
    
    - 官网：https://windhawk.net
    - Ramen Software 官网：https://ramensoftware.com
    - 客户端应用源代码（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk
-   - Windhawk 官方提供的 Mods 源码仓库（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk-mods
-   - Windhawk Mods 市场（其中所有 Mods 源码都公开可见）：https://windhawk.net/mods
+   - Windhawk 官方提供的 mod 源码仓库（托管在 GitHub 上）：https://github.com/ramensoftware/windhawk-mods
+   - Windhawk Mod 市场（其中所有 mod 源码都公开可见）：https://windhawk.net/mods
 
 2. **ExplorerPatcher**：功能全面且覆盖 Windows 版本广的资源管理器修改工具，可替代 StarDock Start 11 和 StartAllBack/StartIsBack 的修改任务栏和开始菜单的主要功能。
    
