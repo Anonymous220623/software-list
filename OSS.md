@@ -134,7 +134,7 @@
 
 ### 三. 屏幕录制工具
 
-1. **OBS Studio**：强大的录屏和直播软件。
+1. **OBS Studio**：跨平台桌面录屏和直播软件。
    
    - 官网：https://obsproject.com
    - GitHub 仓库：https://github.com/obsproject/obs-studio
