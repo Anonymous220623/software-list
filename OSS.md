@@ -34,7 +34,7 @@
 > 2. Signal 需使用手机号码进行账户注册，对于隐私要求高的用户，建议使用 Matrix+无需实名的电子邮箱/一次性邮箱注册账户，或使用 Session 注册完全匿名的账户（无需手机号或电子邮箱，但需保管好账户 ID 和恢复密钥）。
 > 3. 目前 Signal 和 Session 的服务器在中国大陆均已被屏蔽，想要使用 Signal 和 Session 的用户请自行寻找代理软件和服务。
 
-1. **Element**：基于 Matrix 通信协议，提供全平台支持的通信客户端。
+1. **Element**：基于 Matrix 通信协议，提供全平台支持的通信客户端，社区支持广泛且更新维护频繁。
 
    - 官网：https://element.io
    - GitHub 组织：https://github.com/element-hq
