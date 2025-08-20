@@ -41,7 +41,6 @@
 
 2. **Signal**：独立的通信系统和客户端。
 
-   - 开源情况：客户端/服务端均开源（AGPLv3）
    - 官网：https://signal.org
    - GitHub 组织：https://github.com/signalapp
    - 仓库说明（以下是主要仓库，可前往 Signal 的 GitHub 组织查看所有仓库）：
