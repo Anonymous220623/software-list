@@ -234,7 +234,7 @@
    
    - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
 
-3. **Clash Verge Rev**：跨平台桌面系统代理客户端。
+3. **Clash Verge Rev**：跨平台 PC 端系统代理客户端。
    
    - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
    - 官网：https://www.clashverge.dev
