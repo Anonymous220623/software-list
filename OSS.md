@@ -81,7 +81,7 @@
 2. **MKVToolNix**：将任何格式的视频文件、字幕文件和音频混流为 Matroska（MKV）媒体文件。
    
    - 官网：https://mkvtoolnix.download
-   - Git 仓库：https://codeberg.org/mbunkus/mkvtoolnix
+   - Codeberg 仓库（Git）：https://codeberg.org/mbunkus/mkvtoolnix
    - 打包的源码文件列表：https://mkvtoolnix.download/sources
 
 3. **FileConverter**：常见格式的视频转换，以及图片和文档的格式转换工具，集成至 Windows 的右键菜单中，可替代格式工厂。
