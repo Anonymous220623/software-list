@@ -206,15 +206,15 @@
 
 ### 五. 图片编辑器
 
-请跳转至 [OSS.designer.md](OSS.designer.md#一-图片编辑器)。
+请跳转至 [OSS.designer.md - 图片编辑器](OSS.designer.md#一-图片编辑器)。
 
 ### 六. 视频编辑器
 
-请跳转至 [OSS.designer.md](OSS.designer.md#二-视频编辑器)。
+请跳转至 [OSS.designer.md - 视频编辑器](OSS.designer.md#二-视频编辑器)。
 
 ### 七. 字幕编辑器
 
-请跳转至 [OSS.designer.md](OSS.designer.md#三-字幕编辑器)。
+请跳转至 [OSS.designer.md - 字幕编辑器](OSS.designer.md#三-字幕编辑器)。
 
 ## 操作系统/操作系统内核
 
