@@ -12,7 +12,7 @@
 
 ### 开源软件
 
-- [OSS.md](OSS.md) 提供可跨平台使用的软件列表，并提供对其他软件列表的索引。
+- [OSS.md](OSS.md) 提供可跨平台使用或平台无关的软件列表，并提供对其他软件列表的索引。
 - [OSS.NT.md](OSS.NT.md) 提供只能在类 Windows NT 运行时环境下运行的软件列表。
 - [OSS.POSIX.md](OSS.POSIX.md) 提供只能在类 Unix 运行时环境下运行的软件列表。
 - [OSS.mobile.md](OSS.mobile.md) 提供仅支持移动端操作系统的软件列表。
