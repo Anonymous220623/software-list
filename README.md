@@ -18,6 +18,7 @@
 - [OSS.mobile.md](OSS.mobile.md) 提供仅支持移动端操作系统的软件列表。
 - [OSS.designer.md](OSS.designer.md) 提供艺术设计相关软件列表。
 - [OSS.developer.md](OSS.developer.md) 提供软件开发/网络监控/逆向工程相关软件列表。
+- [OSS.disputed.md](OSS.disputed.md) 提供有争议和使用风险的开源软件（网络客户端）列表。
 
 
 ## 许可证
