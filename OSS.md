@@ -111,23 +111,25 @@
       - GitLab 仓库：https://code.videolan.org/videolan/vlc-winrt
       - GitHub 镜像仓库：https://github.com/videolan/vlc-winrt
 
-2. **MPC-HC**：Windows 平台媒体播放器，K-Lite Codec Pack 的内置默认播放器。
-   
-   - 官网：https://mpc-hc.org
-   - 原 GitHub 仓库（不再维护）：https://github.com/mpc-hc/mpc-hc
-   - 由 clsid2 维护的 GitHub 仓库：https://github.com/clsid2/mpc-hc
-
-3. **MPC-BE**：原 MPC-HC 的分支，由 [Aleksoid1978](https://github.com/Aleksoid1978) 维护。
-   
-   - GitHub 仓库：https://github.com/Aleksoid1978/MPC-BE
-
-4. **MPV**：跨平台命令行媒体播放器。
+2. **MPV**：跨平台命令行媒体播放器。
    
    - GitHub 仓库：https://github.com/mpv-player/mpv
    - 官网：https://mpv.io
    - MPV-Builds 项目：
      - 使用 CMake 和 MinGW-w64 手动构建的 MPV 的 Windows 版本的构建配置文件仓库（发行版请跳转至 [Release 页面](https://github.com/shinchiro/mpv-winbuild-cmake/releases)）：https://github.com/shinchiro/mpv-winbuild-cmake
      - 使用 GitHub Action 自动构建的 MPV 的 Windows 版本的构建配置文件仓库（发行版请跳转至 [Release 页面](https://github.com/zhongfly/mpv-winbuild/releases)）：https://github.com/zhongfly/mpv-winbuild
+
+#### 仅支持 Windows 平台
+
+1. **MPC-HC**：Windows 平台媒体播放器，K-Lite Codec Pack 的内置默认播放器。
+   
+   - 官网：https://mpc-hc.org
+   - 原 GitHub 仓库（不再维护）：https://github.com/mpc-hc/mpc-hc
+   - 由 clsid2 维护的 GitHub 仓库：https://github.com/clsid2/mpc-hc
+
+2. **MPC-BE**：原 MPC-HC 的分支，由 [Aleksoid1978](https://github.com/Aleksoid1978) 维护。
+   
+   - GitHub 仓库：https://github.com/Aleksoid1978/MPC-BE
 
 ### 三. 屏幕录制工具
 
