@@ -57,6 +57,9 @@
    - Session 基金会 GitHub 组织：https://github.com/session-foundation
    - Oxen 基金会官网（Session 通讯平台最早的维护团队，目前已合并至 Session 基金会）：https://oxen.io
    - Oxen 基金会 GitHub 组织（关于 Session 项目的仓库已不再维护，请转到 [Session 基金会的 GitHub 组织](https://github.com/session-foundation)查看积极维护的仓库）：https://github.com/oxen-io
+   - Oxen 官方文档：https://docs.oxen.io/oxen-docs
+   - 其他链接：
+     - Session 服务节点搭建教程：https://docs.oxen.io/oxen-docs/using-the-oxen-blockchain/oxen-service-node-guides
 
 ## 驱动程序下载和管理工具
 
