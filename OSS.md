@@ -17,7 +17,7 @@
    - GenyMotion 官网：https://www.genymotion.com
    - GitHub 仓库：https://github.com/Genymobile/scrcpy
 
-## 聊天/通信相关软件
+## 通信相关软件
 
 ### 一. 通信协议
 
