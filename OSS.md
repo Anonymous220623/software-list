@@ -21,17 +21,35 @@
 
 ### 一. 通信协议
 
-1. **Matrix**：全世界影响力最大的开放通信协议系统。
+1. **Matrix**：全世界影响力最大的分布式开放通信协议系统。
 
-   - GitHub 组织：https://github.com/matrix-org
    - 官网：https://matrix.org
+   - GitHub 组织：https://github.com/matrix-org
 
 ### 二. 聊天软件/平台
 
-1. **Element**：基于 Matrix 通信协议的聊天平台，其客户端提供全平台支持。
+1. **Element**：基于 Matrix 通信协议，提供全平台支持的通信客户端。
 
-   - GitHub 组织：https://github.com/element-hq
    - 官网：https://element.io
+   - GitHub 组织：https://github.com/element-hq
+
+> [!WARNING]
+>
+> 1. 目前网络上有很多关于部署 Signal 服务端的教程，但 Signal 官方并未给出任何部署方法，且某些教程会随软件更新而过时，建议有自部署需求的用户或团队使用 Matrix + Element 以获得更好的社区支持。
+> 2. Signal 需使用手机号码进行账户注册，对于隐私要求高的用户，建议使用 Matrix+无需实名的电子邮箱/一次性邮箱注册账户，或使用 Session 注册完全匿名的账户（无需手机号或电子邮箱，但需保管好账户 ID 和恢复密钥）。
+
+2. **Signal**：独立的通信系统和客户端。
+
+   - 官网：https://signal.org
+   - GitHub 组织：https://github.com/signalapp
+
+3. **Session**：独立的分布式通信系统，客户端基于 Signal 客户端进行二次开发。
+
+   - Session 软件官网：https://getsession.org
+   - Session 基金会（Session Technology Foundation）官网：https://session.foundation
+   - Session 基金会 GitHub 组织：https://github.com/session-foundation
+   - Oxen 基金会官网（Session 通讯平台最早的维护团队，目前已合并至 Session 基金会）：https://oxen.io
+   - Oxen 基金会 GitHub 组织（关于 Session 项目的仓库已不再维护，请转到[Session 基金会的 GitHub 组织](https://github.com/session-foundation)查看积极维护的仓库）：https://github.com/oxen-io
 
 ## 驱动程序下载和管理工具
 
