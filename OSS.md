@@ -9,10 +9,11 @@
 
 ### 一. 通信协议
 
-1. **Matrix**：全世界影响力最大的分布式开放通信协议系统。
+1. **Matrix**：全世界影响力最大的分布式开放通信协议系统，亦提供一个免费的通信服务器。
 
    - 官网：https://matrix.org
    - GitHub 组织：https://github.com/matrix-org
+   - matrix.org 通信服务器的账户注册条件：电子邮箱地址。
 
 ### 二. 聊天软件/平台
 
@@ -32,7 +33,7 @@
    - 相关信息：
      - 端到端加密：私聊/群组都支持，但需手动开启，开启后不可关闭。
      - 群组聊天：支持。
-     - 账户注册条件：电子邮箱地址。
+     - 账户注册条件：取决于通信服务器。
 
 #### 独立的通信协议实现
 
@@ -55,10 +56,11 @@
 
    - Session 软件官网：https://getsession.org
    - Session 基金会（Session Technology Foundation）官网：https://session.foundation
-   - Oxen 基金会（Session 通讯平台最早的维护团队，目前已合并至 Session 基金会）官网：https://oxen.io
    - Session 基金会 GitHub 组织：https://github.com/session-foundation
+   - Session 文档：https://docs.getsession.org
+   - Oxen 基金会（Session 通讯平台最早的维护团队，目前已合并至 Session 基金会）官网：https://oxen.io
    - Oxen 基金会 GitHub 组织（关于 Session 项目的仓库已不再维护，请转到 [Session 基金会的 GitHub 组织](https://github.com/session-foundation)查看积极维护的 Session 软件仓库）：https://github.com/oxen-io
-   - Oxen 官方文档：https://docs.oxen.io/oxen-docs
+   - Oxen 文档：https://docs.oxen.io
    - 其他链接：
      - Session 服务节点搭建教程：https://docs.oxen.io/oxen-docs/using-the-oxen-blockchain/oxen-service-node-guides
    - 相关信息：
