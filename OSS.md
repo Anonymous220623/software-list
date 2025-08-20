@@ -17,6 +17,22 @@
    - GenyMotion 官网：https://www.genymotion.com
    - GitHub 仓库：https://github.com/Genymobile/scrcpy
 
+## 聊天/通信相关软件
+
+### 一. 通信协议
+
+1. **Matrix**：全世界影响力最大的开放通信协议系统。
+
+   - GitHub 组织：https://github.com/matrix-org
+   - 官网：https://matrix.org
+
+### 二. 聊天软件/平台
+
+1. **Element**：基于 Matrix 通信协议的聊天平台，其客户端提供全平台支持。
+
+   - GitHub 组织：https://github.com/element-hq
+   - 官网：https://element.io
+
 ## 驱动程序下载和管理工具
 
 1. **Snappy Driver Installer**
