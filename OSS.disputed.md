@@ -16,4 +16,4 @@
    - 相关信息：
      - 端到端加密：私聊支持（需手动开启），群组不支持，加密实现库封闭源码。
      - 阅后即焚和隐私保护：**存在争议**，从 [https://zh.wikipedia.org/wiki/Telegram#非法出售个人信息](https://zh.wikipedia.org/wiki/Telegram#%E9%9D%9E%E6%B3%95%E5%87%BA%E5%94%AE%E5%80%8B%E4%BA%BA%E4%BF%A1%E6%81%AF) 可推断，用户在 Telegram 中的聊天数据会在 Telegram 的服务器上保存相当长的一段时间。而且从 [https://x.com/mirrorzk/status/1924841641720136028](https://x.com/mirrorzk/status/1924841641720136028) 上也可推测，Telegram 可能包含付费后台用户数据 API 调用服务，某些组织通过付费调用 Telegram 提供的 API 获取用户的部分信息。
-     - 账户滥用（机器人）情况：较严重。
+     - 账户滥用（机器人账户）情况：较严重。
