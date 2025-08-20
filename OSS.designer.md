@@ -58,7 +58,7 @@
    - 维护的 GitHub 仓库：https://github.com/TypesettingTools/Aegisub
 
 
-## 2D 设计/3D 建模软件
+## 2D/3D 设计建模软件
 
 1. **Blender**：跨平台平面、立体场景设计/建模软件。
 
