@@ -67,6 +67,11 @@
      - 端到端加密：私聊/群组都支持，强制启用。
      - 群组聊天：支持。
      - 账户注册条件：无条件。
+   - 依赖项：
+     - **libsodium**：成熟的数据加密库，被 Session 使用。
+       - 官网：https://libsodium.org
+       - 文档：https://doc.libsodium.org
+       - GitHub 仓库：https://github.com/jedisct1/libsodium
 
 ## 设备控制软件
 
