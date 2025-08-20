@@ -44,7 +44,7 @@
 
 ## 密码恢复工具
 
-1. **hashcat**：功能和支持算法最全面的密码恢复工具。
+1. **hashcat**：功能和支持算法最全面的密码恢复破解工具。
 
    - 官网：https://hashcat.net
    - GitHub 仓库：https://github.com/hashcat/hashcat
@@ -359,3 +359,5 @@
    
    - GitHub 仓库：https://github.com/DustinBrett/daedalOS
    - 作者 DustinBrett 网站：https://dustinbrett.com
+
+## 用户页面自定义工具
