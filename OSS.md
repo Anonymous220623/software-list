@@ -41,9 +41,17 @@
 
 2. **Signal**：独立的通信系统和客户端。
 
+   - 开源情况：客户端/服务端均开源（AGPLv3）
    - 官网：https://signal.org
    - GitHub 组织：https://github.com/signalapp
-
+   - 仓库说明（以下是主要仓库，可前往 Signal 的 GitHub 组织查看所有仓库）：
+     - Android 客户端：https://github.com/signalapp/Signal-Android
+     - iOS 客户端：https://github.com/signalapp/Signal-iOS
+     - 桌面客户端：https://github.com/signalapp/Signal-Desktop
+     - 服务端：https://github.com/signalapp/Signal-Server
+     - 平台无关的加密实现库：https://github.com/signalapp/libsignal
+     - 手机号码注册服务实现库：https://github.com/signalapp/registration-service
+     
 3. **Session**：独立的分布式通信系统，客户端基于 Signal 客户端进行二次开发。
 
    - Session 软件官网：https://getsession.org
