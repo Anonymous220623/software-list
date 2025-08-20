@@ -10,6 +10,7 @@
 
 1. **Telegram**：广泛使用的聊天互动平台。
 
+   - 官网：https://telegram.org
    - 桌面客户端 GitHub 仓库：https://github.com/telegramdesktop/tdesktop
    - Android 客户端 GitHub 仓库：https://github.com/DrKLO/Telegram
    - iOS 客户端 GitHub 仓库：https://github.com/TelegramMessenger/Telegram-iOS
