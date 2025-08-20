@@ -26,8 +26,11 @@
 
    - 官网：https://element.io
    - GitHub 组织：https://github.com/element-hq
+   - 相关信息：
+     - 端到端加密：私聊/群组都支持，但需手动开启，开启后不可关闭。
+     - 群组聊天：支持。
 
-2. **Signal**：独立的通信系统和客户端。
+1. **Signal**：独立的通信系统和客户端。
 
    - 官网：https://signal.org
    - GitHub 组织：https://github.com/signalapp
@@ -37,8 +40,11 @@
      - 桌面客户端：https://github.com/signalapp/Signal-Desktop
      - 服务端（Java）：https://github.com/signalapp/Signal-Server
      - 平台无关的加密实现库（Rust）：https://github.com/signalapp/libsignal
-     
-3. **Session**：独立的分布式通信系统，客户端基于 Signal 客户端进行二次开发。
+   - 相关信息：
+     - 端到端加密：私聊/群组都支持，强制启用。
+     - 群组聊天：支持（公共群组不适用）。
+   
+2. **Session**：独立的分布式通信系统，客户端基于 Signal 客户端进行二次开发。
 
    - Session 软件官网：https://getsession.org
    - Session 基金会（Session Technology Foundation）官网：https://session.foundation
@@ -48,6 +54,9 @@
    - Oxen 官方文档：https://docs.oxen.io/oxen-docs
    - 其他链接：
      - Session 服务节点搭建教程：https://docs.oxen.io/oxen-docs/using-the-oxen-blockchain/oxen-service-node-guides
+   - 相关信息：
+     - 端到端加密：私聊/群组都支持，强制启用。
+     - 群组聊天：支持。
 
 ## 设备控制软件
 
