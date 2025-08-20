@@ -5,65 +5,6 @@
 > 1. 该软件列表排名不分先后顺序；
 > 2. 每个软件条目都会列出 SVN、Git 或其他版本控制系统的源码仓库。
 
-## 磁盘/光盘映像写入、系统盘制作相关工具
-
-1. **Ventoy**：系统镜像虚拟挂载工具，可实现一个 U 盘作为多系统启动盘，提供 Windows 和 Linux 应用程序。
-   
-   - GitHub 仓库：https://github.com/ventoy/Ventoy
-   - 官网：https://www.ventoy.net
-
-2. **Rufus**：Windows 上将光盘映像写入 U 盘的工具，支持系统启动盘制作。
-   
-   - GitHub 仓库：https://github.com/pbatard/rufus
-   - 官网：https://rufus.ie
-
-3. **BalenaEtcher**：同 Rufus，但支持跨平台。
-   
-   - GitHub 仓库：https://github.com/balena-io/etcher
-   - 官网：https://etcher.io
-
-## 压缩存档管理软件
-
-1. **7-Zip**：
-
-   - 官网：https://www.7-zip.org
-   - GitHub 仓库（不包含具体提交记录）：https://github.com/ip7z/7zip
-   - 7-Zip ZSTD（7-Zip 分支）的 GitHub 仓库：https://github.com/mcmilk/7-Zip-zstd
-   - NanaZip（7-Zip 分支，仅提供 Windows UWP 版本应用程序）的 GitHub 仓库：https://github.com/M2Team/NanaZip
-
-2. **KDE Ark**：Linux GUI 压缩文件管理工具（也提供 [Windows 每日构建版本](https://cdn.kde.org/ci-builds/utilities/ark/master/windows)）。
-
-   - 官网：https://apps.kde.org/zh-cn/ark
-   - GitLab 仓库：https://invent.kde.org/utilities/ark
-   - GitHub 镜像仓库：https://github.com/KDE/ark
-
-3. **PeaZip**：使用 Pascal 编写的跨平台压缩文件管理工具。
-
-   - 项目主页：https://peazip.github.io
-   - GitHub 仓库：https://github.com/peazip/PeaZip
-
-## 密码恢复工具
-
-1. **hashcat**：功能和支持算法最全面的密码恢复破解工具。
-
-   - 官网：https://hashcat.net
-   - GitHub 仓库：https://github.com/hashcat/hashcat
-
-## 资源下载辅助工具
-
-### 一. HTTP(S)/BT/磁链/ED2K 下载器
-
-1. **qBittorrent**（Qt/C++）：跨平台 BT/磁链下载器。
-
-   - 官网：https://www.qbittorrent.org
-   - GitHub 仓库：https://github.com/qbittorrent/qBittorrent
-
-2. **Motrix**（Electron）：跨平台 HTTP(S)/BT/磁链下载器。
-
-   - 官网：https://motrix.app
-   - GitHub 仓库：https://github.com/agalwood/Motrix
-
-
 ## 通信相关软件
 
 ### 一. 通信协议
@@ -359,5 +300,63 @@
    
    - GitHub 仓库：https://github.com/DustinBrett/daedalOS
    - 作者 DustinBrett 网站：https://dustinbrett.com
+
+## 磁盘/光盘映像写入、系统盘制作相关工具
+
+1. **Ventoy**：系统镜像虚拟挂载工具，可实现一个 U 盘作为多系统启动盘，提供 Windows 和 Linux 应用程序。
+   
+   - GitHub 仓库：https://github.com/ventoy/Ventoy
+   - 官网：https://www.ventoy.net
+
+2. **Rufus**：Windows 上将光盘映像写入 U 盘的工具，支持系统启动盘制作。
+   
+   - GitHub 仓库：https://github.com/pbatard/rufus
+   - 官网：https://rufus.ie
+
+3. **BalenaEtcher**：同 Rufus，但支持跨平台。
+   
+   - GitHub 仓库：https://github.com/balena-io/etcher
+   - 官网：https://etcher.io
+
+## 压缩存档管理软件
+
+1. **7-Zip**：
+
+   - 官网：https://www.7-zip.org
+   - GitHub 仓库（不包含具体提交记录）：https://github.com/ip7z/7zip
+   - 7-Zip ZSTD（7-Zip 分支）的 GitHub 仓库：https://github.com/mcmilk/7-Zip-zstd
+   - NanaZip（7-Zip 分支，仅提供 Windows UWP 版本应用程序）的 GitHub 仓库：https://github.com/M2Team/NanaZip
+
+2. **KDE Ark**：Linux GUI 压缩文件管理工具（也提供 [Windows 每日构建版本](https://cdn.kde.org/ci-builds/utilities/ark/master/windows)）。
+
+   - 官网：https://apps.kde.org/zh-cn/ark
+   - GitLab 仓库：https://invent.kde.org/utilities/ark
+   - GitHub 镜像仓库：https://github.com/KDE/ark
+
+3. **PeaZip**：使用 Pascal 编写的跨平台压缩文件管理工具。
+
+   - 项目主页：https://peazip.github.io
+   - GitHub 仓库：https://github.com/peazip/PeaZip
+
+## 密码恢复工具
+
+1. **hashcat**：功能和支持算法最全面的密码恢复破解工具。
+
+   - 官网：https://hashcat.net
+   - GitHub 仓库：https://github.com/hashcat/hashcat
+
+## 资源下载辅助工具
+
+### 一. HTTP(S)/BT/磁链/ED2K 下载器
+
+1. **qBittorrent**（Qt/C++）：跨平台 BT/磁链下载器。
+
+   - 官网：https://www.qbittorrent.org
+   - GitHub 仓库：https://github.com/qbittorrent/qBittorrent
+
+2. **Motrix**（Electron）：跨平台 HTTP(S)/BT/磁链下载器。
+
+   - 官网：https://motrix.app
+   - GitHub 仓库：https://github.com/agalwood/Motrix
 
 ## 用户页面自定义工具
