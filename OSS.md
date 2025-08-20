@@ -132,6 +132,10 @@
 
 #### 仅支持 Windows 平台
 
+> [!WARNING]
+>
+> 由于 MPC-HC 和 MPC-BE 对 Windows DirectShow 的依赖，qi
+
 1. **MPC-HC**：Windows 平台媒体播放器，K-Lite Codec Pack 的内置默认播放器。
    
    - 官网：https://mpc-hc.org
@@ -253,21 +257,23 @@
 
 ### 二. PDF/电子书查看器
 
-1. **SumatraPDF**：Windows 平台 PDF/电子书查看器，基于 MuPDF。
-   
-   - 官网：https://www.sumatrapdfreader.org
-   - GitHub 仓库：https://github.com/sumatrapdfreader/sumatrapdf
-
-2. **Okular**：跨平台 PDF/电子书查看器，基于 Poppler，KDE 项目的一部分。
+1. **Okular**：跨平台 PDF/电子书查看器，基于 Poppler，KDE 项目的一部分。
    
    - 官网：https://okular.kde.org
    - GitHub 镜像仓库：https://github.com/KDE/okular
    - GitLab 仓库：https://invent.kde.org/graphics/okular
 
-3. **Evince**：Linux PDF/电子书查看器，基于 Poppler，GNOME 项目的一部分。
+2. **Evince**：Linux PDF/电子书查看器，基于 Poppler，GNOME 项目的一部分。
    
    - GitHub 镜像仓库：https://github.com/GNOME/evince
    - GitLab 仓库：https://gitlab.gnome.org/GNOME/evince
+
+#### 仅支持 Windows 平台
+
+1. **SumatraPDF**：Windows 平台 PDF/电子书查看器，基于 MuPDF。
+   
+   - 官网：https://www.sumatrapdfreader.org
+   - GitHub 仓库：https://github.com/sumatrapdfreader/sumatrapdf
 
 ## 字体相关工具
 
