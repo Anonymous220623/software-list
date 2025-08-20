@@ -197,7 +197,7 @@
    - GitHub 仓库：https://github.com/apple-oss-distributions/xnu
    - GitHub 仓库（已存档）：https://github.com/apple/darwin-xnu
 
-4. **ReactOS**：类 Windows NT 操作系统，内核层代码为该项目原创，应用层引用 [Wine 项目](#一-应用兼容层)源码，**该操作系统目前尚未稳定**。
+4. **ReactOS**：类 Windows NT 操作系统，内核层代码为该项目原创，应用层引用 [Wine 项目](OSS.developer.md#一-应用兼容层)源码，**该操作系统目前尚未稳定**。
    
    - 官网：https://reactos.org
    - GitHub 仓库：https://github.com/reactos/reactos
