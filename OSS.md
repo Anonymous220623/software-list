@@ -134,7 +134,7 @@
 
 > [!WARNING]
 >
-> 由于 MPC-HC 和 MPC-BE 对 Windows DirectShow 的依赖，qi
+> 由于 MPC-HC 和 MPC-BE 对 Windows DirectShow 的依赖，且 Wine 目前暂未实现 DirectShow 的全部 API，因此某些高码率视频可能无法在 Wine 上使用 MPC-HC 和 MPC-BE 正常播放，甚至会出现程序运行异常或崩溃。
 
 1. **MPC-HC**：Windows 平台媒体播放器，K-Lite Codec Pack 的内置默认播放器。
    
