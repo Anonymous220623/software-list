@@ -7,7 +7,7 @@
 
 ## 设备控制软件
 
-1. **RustDesk**：远程控制软件，支持全平台（iOS 设备不支持被控制）。
+1. **RustDesk**：远程控制软件，支持全平台（iOS 设备不支持被控制），提供免费的 SaaS 计划和免费自托管计划，以及收费的专业版自托管计划，可前往 [https://rustdesk.com/pricing](https://rustdesk.com/pricing) 了解详细信息。
    
    - 官网：https://rustdesk.com
    - GitHub 仓库：https://github.com/rustdesk/rustdesk
