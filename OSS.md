@@ -125,7 +125,7 @@
    - 原 GitHub 仓库（不再维护）：https://github.com/mpc-hc/mpc-hc
    - 由 clsid2 维护的 GitHub 仓库：https://github.com/clsid2/mpc-hc
 
-3. **MPC-BE**：由 Aleksoid1978 维护的原 MPC-HC 的分支。
+3. **MPC-BE**：原 MPC-HC 的分支，由 [Aleksoid1978](https://github.com/Aleksoid1978) 维护。
    
    - GitHub 仓库：https://github.com/Aleksoid1978/MPC-BE
 
