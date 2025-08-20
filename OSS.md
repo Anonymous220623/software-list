@@ -72,6 +72,7 @@
        - 官网：https://libsodium.org
        - 文档：https://doc.libsodium.org
        - GitHub 仓库：https://github.com/jedisct1/libsodium
+       - Session 项目使用的 GitHub 仓库：https://github.com/session-foundation/libsodium-internal
 
 ## 设备控制软件
 
