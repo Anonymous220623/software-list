@@ -50,7 +50,6 @@
      - 桌面客户端：https://github.com/signalapp/Signal-Desktop
      - 服务端（Java）：https://github.com/signalapp/Signal-Server
      - 平台无关的加密实现库（Rust）：https://github.com/signalapp/libsignal
-     - 手机号码注册服务实现库：https://github.com/signalapp/registration-service
      
 3. **Session**：独立的分布式通信系统，客户端基于 Signal 客户端进行二次开发。
 
