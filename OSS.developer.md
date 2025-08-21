@@ -250,20 +250,22 @@
       - 项目主页：https://v2rayng.2dust.link
       - GitHub 仓库：https://github.com/2dust/v2rayNG
 
-2. **Clash Meta For Android**（CMFA）：Android 系统代理客户端。
-   
-   - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
-
-3. **Clash Verge Rev**：跨平台 PC 端系统代理客户端。
-   
-   - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
-   - 官网：https://www.clashverge.dev
-
-4. **sing-box**：跨平台命令行代理客户端。
+2. **sing-box**：跨平台命令行代理客户端。
 
    - 官网：https://sing-box.sagernet.org
    - GitHub 主仓库：https://github.com/SagerNet/sing-box
    - sing-box for Android 的 GitHub 仓库：https://github.com/SagerNet/sing-box-for-android
+
+#### Clash 系列软件
+
+1. **Clash Verge Rev**：跨平台 PC 端系统代理客户端。
+   
+   - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
+   - 官网：https://www.clashverge.dev
+     
+2. **Clash Meta For Android**（CMFA）：Android 系统代理客户端。
+   
+   - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
 
 ### 二. 反向代理/SNI 伪造客户端
 
