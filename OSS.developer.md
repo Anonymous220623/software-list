@@ -83,7 +83,7 @@
 
 ### 三. 应用程序调试/内存探查工具
 
-1. **x64dbg**：Windows 用户模式调试工具集合【GUI】。
+1. **x64dbg**：Windows 应用程序调试工具集。
    
    - 官网：https://x64dbg.com
    - GitHub 仓库：https://github.com/x64dbg/x64dbg
