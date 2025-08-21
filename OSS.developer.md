@@ -318,9 +318,7 @@
 1. **Tor Project**：
 
    - 官网：https://www.torproject.org
-   - Tor Browser 的 GitHub Release 页面：https://github.com/TheTorProject/gettorbrowser/releases
    - GitLab 实例：https://gitlab.torproject.org
-   - GitLab 仓库：https://gitlab.torproject.org/tpo/core/tor.git
 
 2. **Matrix**：分布式开放通信协议系统，亦提供一个免费的通信服务器。
 
