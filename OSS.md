@@ -31,7 +31,7 @@
      - 群组聊天：支持。
      - 账户注册条件：取决于通信服务器。
 
-2. **Briar**：私密和安全度极高的通信客户端，强制使用 Tor Project 进行网络数据传输，所有数据均加密保存在本地，无网络元数据，用户每次进入应用都需输入密码访问账户。
+2. **Briar**：私密和安全度极高的通信客户端，强制使用 [Tor Project](https://www.torproject.org) 进行网络数据传输，所有数据均加密保存在本地，无网络元数据，用户每次进入应用都需输入密码访问账户。
 
    - 官网：https://briarproject.org
    - GitLab 实例：https://code.briarproject.org
