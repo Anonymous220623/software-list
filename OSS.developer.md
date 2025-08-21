@@ -276,7 +276,9 @@
 
 ## 网络相关工具
 
-### 一. 正向代理客户端
+### 一. 代理客户端
+
+#### 正向代理客户端
 
 1. **v2rayN**：跨平台 PC 端系统代理客户端，基于 v2ray 核心。
    
@@ -292,7 +294,7 @@
    - GitHub 主仓库：https://github.com/SagerNet/sing-box
    - sing-box for Android 的 GitHub 仓库：https://github.com/SagerNet/sing-box-for-android
 
-#### Clash 系列软件
+##### Clash 系列软件
 
 1. **Clash Verge Rev**：跨平台 PC 端系统代理客户端。
    
@@ -303,13 +305,28 @@
    
    - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
 
-### 二. 反向代理/SNI 伪造客户端
+#### 反向代理/SNI 伪造客户端
 
 1. **Sheas-Cealer**：SNI 伪造工具，用于无代理突破特定网站访问限制，适用于 Chromium 内核的浏览器。
    
    - Windows 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer
    - Android 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer-Droid
    - 上游伪造规则存储库：https://github.com/SpaceTimee/Cealing-Host
+
+### 二. 网络/通信协议实现库
+
+1. **Tor Project**：
+
+   - 官网：https://www.torproject.org
+   - Tor Browser 的 GitHub Release 页面：https://github.com/TheTorProject/gettorbrowser/releases
+   - GitLab 实例：https://gitlab.torproject.org
+   - GitLab 仓库：https://gitlab.torproject.org/tpo/core/tor.git
+
+2. **Matrix**：分布式开放通信协议系统，亦提供一个免费的通信服务器。
+
+   - 官网：https://matrix.org
+   - GitHub 组织：https://github.com/matrix-org
+   - matrix.org 通信服务器的账户注册条件：电子邮箱地址。
 
 ## 版本控制相关工具
 
