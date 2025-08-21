@@ -44,6 +44,7 @@
    
    - Horsicq 作者主页：https://horsicq.github.io
    - GitHub 仓库：https://github.com/horsicq/Detect-It-Easy
+   - GitHub 发行版页面：https://github.com/horsicq/DIE-engine/releases
 
 #### Android 平台应用程序/Java 字节码和软件包
 
