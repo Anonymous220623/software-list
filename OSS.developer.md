@@ -213,6 +213,10 @@
    - 官网：https://helix-editor.com
    - GitHub 仓库：https://github.com/helix-editor/helix
 
+3. **Zep**：嵌入式、轻量级命令行文本编辑器。
+
+   - GitHub 仓库：https://github.com/Rezonality/zep
+
 ##### 仅支持 Linux 平台
 
 1. **nano**：Linux 命令行文本编辑器，GNU 项目的一部分。
@@ -222,6 +226,37 @@
    - Git 仓库 2：https://git.wh0rd.org/nano-editor.git
 
 ### 二. 集成开发环境
+
+1. **Visual Studio Code**（VSCode）：微软使用 TypeScript/Electron 开发的跨平台集成开发环境，拥有广泛的插件支持。
+
+   - 官网：https://code.visualstudio.com
+   - GitHub 仓库：https://github.com/microsoft/vscode
+
+2. **VSCodium**：VSCode 的社区支持版本，删除了微软服务相关代码，但仍支持 VSCode 的插件仓库。
+
+   - 官网：https://vscodium.com
+   - GitHub 仓库（存储修改和构建脚本）：https://github.com/VSCodium/vscodium
+
+3. **Intellij Platform**（产品：[Intellij IDEA Community](https://www.jetbrains.com/idea)/[PyCharm Community Edition](https://www.jetbrains.com/pycharm)）：JetBrains 使用 Java 开发的 IDE 平台，拥有全平台支持和自定义插件集成功能。
+
+   - JetBrains 官网：https://www.jetbrains.com
+   - 项目页面：https://www.jetbrains.com/opensource/idea
+   - GitHub 仓库：https://github.com/JetBrains/intellij-community
+
+4. **Code::Blocks**：跨平台 C/C++ IDE，用户页面基于 wxWidgets。
+
+   - 官网：https://www.codeblocks.org
+   - SourceForge SVN 仓库：https://svn.code.sf.net/p/codeblocks/code/trunk
+
+> [!WARNING]
+>
+> Eclipse 基金会的 IDE 项目分散在各个代码托管平台、各个群组/组织的数百个仓库中，详细仓库列表信息等待整理。
+
+5. **Eclipse IDE**：由 Eclipse 基金会维护的多语言 IDE 项目，使用 Java 开发，提供跨平台和插件支持。
+
+   - 项目官网：https://eclipseide.org
+   - Eclipse 官网：https://www.eclipse.org
+   - 软件下载页面：https://www.eclipse.org/downloads/packages
 
 ### 三. 调试器
 
