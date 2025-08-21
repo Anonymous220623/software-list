@@ -31,6 +31,16 @@
      - 群组聊天：支持。
      - 账户注册条件：取决于通信服务器。
 
+2. **Briar**：私密和安全度极高的通信客户端，强制使用 Tor Project 进行网络数据传输，所有数据均加密保存在本地，无网络元数据，用户每次进入应用都需输入密码访问账户。
+
+   - 官网：https://briarproject.org
+   - GitLab 实例：https://code.briarproject.org
+   - Android 应用程序 GitLab 仓库：https://code.briarproject.org/briar/briar
+   - 桌面端应用程序 GitLab 仓库：https://code.briarproject.org/briar/briar-desktop
+   - 备注：
+     1. 该软件不支持 iOS 平台；
+     2. 该软件 Android 客户端已稳定，但桌面端仍在测试阶段，请从 [https://briarproject.org/download-briar-desktop](https://briarproject.org/download-briar-desktop) 下载桌面端的 Beta 版本。
+
 #### 独立的通信协议实现
 
 1. **Signal**：独立的通信平台。
