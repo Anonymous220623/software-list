@@ -271,8 +271,8 @@
 
 2. **GDB**：GCC 官方命令行调试器。
    
-   - GDB Git 仓库：https://sourceware.org/git/binutils-gdb.git
    - GDB 项目主页：https://sourceware.org/gdb
+   - GDB Git 仓库：https://sourceware.org/git/binutils-gdb.git
 
 ## 网络相关工具
 
@@ -298,8 +298,8 @@
 
 1. **Clash Verge Rev**：跨平台 PC 端系统代理客户端。
    
-   - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
    - 官网：https://www.clashverge.dev
+   - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
      
 2. **Clash Meta For Android**（CMFA）：Android 系统代理客户端。
    
@@ -356,7 +356,8 @@
 
 > [!WARNING]
 >
-> 以下软件的服务端不开源。
+> 1. 以下软件的服务端不开源。
+> 2. GitHub Desktop 亦可作为 Git GUI 桌面端使用。
 
 1. **GitHub Desktop**：GitHub 的桌面端。
 
