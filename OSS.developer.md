@@ -179,27 +179,47 @@
 
 #### 图形用户页面
 
-1. **Notepad++**（Win32/C++）：Windows 平台文本和代码编辑器。
-   
-   - GitHub 仓库：https://github.com/notepad-plus-plus/notepad-plus-plus
-   - 官网：https://notepad-plus-plus.org
-
-2. **Notepad Next**（Qt/C++）：跨平台文本和代码编辑器，旨在替代 Notepad++ 依赖于单一 Windows 平台的特性。
+1. **Notepad Next**（Qt/C++）：跨平台文本和代码编辑器，旨在替代 Notepad++ 依赖于单一 Windows 平台的特性。
 
    - GitHub 仓库：https://github.com/dail8859/NotepadNext
 
-3. **Notepad--**（Qt/C++）：跨平台文本和代码编辑器，旨在替代 Notepad++ 依赖于单一 Windows 平台的特性。
+2. **Notepad--**（Qt/C++）：跨平台文本和代码编辑器，旨在替代 Notepad++ 依赖于单一 Windows 平台的特性。
    
    - 备注：优先访问 Gitee 仓库以获取最新更新。
    - GitHub 仓库（更新延迟）：https://github.com/cxasm/notepad--
    - Gitee 仓库：https://gitee.com/cxasm/notepad--
 
-4. **Notepads**（C#/.NET/UWP）：Windows 平台文本和代码编辑器。
+##### 仅支持 Windows 平台
+
+1. **Notepad++**（Win32/C++）：Windows 平台文本和代码编辑器。
    
-   - GitHub 仓库：https://github.com/0x7c13/Notepads
+   - 官网：https://notepad-plus-plus.org
+   - GitHub 仓库：https://github.com/notepad-plus-plus/notepad-plus-plus
+
+2. **Notepads**（C#/.NET/UWP）：Windows 平台文本和代码编辑器。
+   
    - 官网：https://www.notepadsapp.com
+   - GitHub 仓库：https://github.com/0x7c13/Notepads
 
 #### 命令行页面
+
+1. **Vim**：最著名的跨平台命令行文本编辑器，拥有广泛的插件支持。
+
+   - 官网：https://www.vim.org
+   - GitHub 仓库：https://github.com/vim/vim
+
+2. **Helix**：使用 Rust 开发的跨平台文本编辑器。
+
+   - 官网：https://helix-editor.com
+   - GitHub 仓库：https://github.com/helix-editor/helix
+
+##### 仅支持 Linux 平台
+
+1. **nano**：Linux 命令行文本编辑器，GNU 项目的一部分。
+
+   - 官网：https://nano-editor.org
+   - Git 仓库 1：https://git.savannah.gnu.org/git/nano.git
+   - Git 仓库 2：https://git.wh0rd.org/nano-editor.git
 
 ### 二. 集成开发环境
 
