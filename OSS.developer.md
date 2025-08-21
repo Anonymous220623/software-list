@@ -89,7 +89,7 @@
    - GitHub 仓库：https://github.com/x64dbg/x64dbg
    - SourceForge Snapshots：https://sourceforge.net/projects/x64dbg/files/snapshots
 
-### 四. 应用程序脱壳工具/反混淆工具
+### 四. 应用程序脱壳/反混淆工具
 
 #### .NET 应用程序
 
