@@ -9,7 +9,7 @@
 
 ### 一. 通信协议
 
-（见 [OSS.developer.md - 二. 网络通信协议实现库](OSS.developer.md#二-网络通信协议实现库)）
+（请跳转至 [OSS.developer.md - 二. 网络通信协议实现库](OSS.developer.md#二-网络通信协议实现库)）
 
 ### 二. 通信客户端/平台
 
