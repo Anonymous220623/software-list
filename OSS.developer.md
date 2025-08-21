@@ -313,7 +313,7 @@
    - Android 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer-Droid
    - 上游伪造规则存储库：https://github.com/SpaceTimee/Cealing-Host
 
-### 二. 网络/通信协议实现库
+### 二. 网络/通信协议项目
 
 1. **Tor Project**：
 
