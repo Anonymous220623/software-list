@@ -9,11 +9,7 @@
 
 ### 一. 通信协议
 
-1. **Matrix**：全世界影响力最大的分布式开放通信协议系统，亦提供一个免费的通信服务器。
-
-   - 官网：https://matrix.org
-   - GitHub 组织：https://github.com/matrix-org
-   - matrix.org 通信服务器的账户注册条件：电子邮箱地址。
+（见[OSS.developer.md - 二. 网络通信协议实现库](OSS.developer.md#二-网络通信协议实现库)）
 
 ### 二. 聊天软件/平台
 
