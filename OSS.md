@@ -45,7 +45,7 @@
      - 平台无关的加密实现库（Rust）：https://github.com/signalapp/libsignal
    - 相关信息：
      - 端到端加密：私聊/群组都支持，强制启用。
-     - 群组聊天：支持。
+     - 群组聊天：支持（需获取群组链接并征得群组管理员同意，无公开群组）。
      - 账户注册条件：手机号码。
    
 2. **Session**：注重隐私的分布式通信平台，客户端基于 Signal 客户端进行二次开发。
@@ -61,7 +61,7 @@
      - Session 服务节点搭建教程：https://docs.oxen.io/oxen-docs/using-the-oxen-blockchain/oxen-service-node-guides
    - 相关信息：
      - 端到端加密：私聊/群组都支持，强制启用。
-     - 群组聊天：支持。
+     - 群组聊天：支持（需获取群组链接并征得群组管理员同意，除 Session 官方群组外无公开群组）。
      - 账户注册条件：无条件。
    - 依赖项：
      - **libsodium**：成熟的数据加密库，被 Session 使用。
