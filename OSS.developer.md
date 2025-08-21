@@ -104,11 +104,7 @@
    - 仓库分支：
      - 提供对 vanilla ConfuserEx 全面支持的 de4dot 的分支（已存档，不再维护）：https://github.com/ViRb3/de4dot-cex
 
-### 五. 十六进制文本编辑器
-
-（等待补充）
-
-### 六. 应用程序依赖项分析工具
+### 五. 应用程序依赖项分析工具
 
 1. **Dependencies**：Windows 可执行文件依赖项分析工具。
    
@@ -188,6 +184,11 @@
    - 备注：优先访问 Gitee 仓库以获取最新更新。
    - GitHub 仓库（更新延迟）：https://github.com/cxasm/notepad--
    - Gitee 仓库：https://gitee.com/cxasm/notepad--
+
+3. **wxMEdit**：跨平台文本/十六进制编辑器，[MadEdit](http://sourceforge.net/projects/madedit) 的延续版本。
+
+   - 项目主页：https://wxmedit.github.io
+   - GitHub 仓库：https://github.com/wxMEdit/wxMEdit
 
 ##### 仅支持 Windows 平台
 
