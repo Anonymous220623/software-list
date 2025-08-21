@@ -80,6 +80,22 @@
        - GitHub 仓库：https://github.com/jedisct1/libsodium
        - Session 项目使用的 GitHub 仓库：https://github.com/session-foundation/libsodium-internal
 
+## 网络浏览相关软件
+
+### Web 浏览器
+
+1. **Firefox**：由 Mozilla 基金会维护的开源浏览器项目。
+
+   - Mozilla 基金会官网：https://www.mozilla.org
+   - Firefox 官网：https://www.firefox.com
+   - GitHub 仓库：https://github.com/mozilla-firefox/firefox
+
+2. **Chromium**：由 Google 主导的开源浏览器项目，The Chromium Project 的项目之一。
+
+   - The Chromium Project 官网：https://www.chromium.org
+   - Gitiles（Google Git）主仓库：https://chromium.googlesource.com/chromium/src.git
+   - GitHub 镜像仓库：https://github.com/chromium/chromium
+
 ## 设备控制软件
 
 1. **RustDesk**：远程控制软件，支持全平台（iOS 设备不支持被控制），提供免费的 SaaS 计划和免费自托管计划，以及收费的专业版自托管计划，可前往 [https://rustdesk.com/pricing](https://rustdesk.com/pricing) 了解详细信息。
