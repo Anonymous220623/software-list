@@ -326,7 +326,7 @@
 
    - 官网：https://matrix.org
    - GitHub 组织：https://github.com/matrix-org
-   - matrix.org 通信服务器的账户注册条件：电子邮箱地址。
+   - 备注：[matrix.org](https://matrix.org) 通信服务器的账户注册条件：电子邮箱地址。
 
 ## 版本控制相关工具
 
