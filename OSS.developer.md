@@ -380,9 +380,9 @@
 
 1. **FFmpeg**：跨平台音视频编解码库（GPL）。
    
+   - 官网：https://ffmpeg.org
    - Git 仓库：https://git.ffmpeg.org/ffmpeg.git
    - GitHub 镜像仓库：https://github.com/FFmpeg/FFmpeg
-   - 官网：https://ffmpeg.org
 
 2. **x265**：H.265 视频编解码库（GPL & 商业许可）。
    
