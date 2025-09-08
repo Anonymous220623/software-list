@@ -1,9 +1,10 @@
-# 仅支持移动端操作系统的开源软件列表
+# 仅支持移动端（操作系统）的开源软件列表
 
 ## Android 应用程序管理相关工具
 
-1. **App Manager**：高级 Android 应用程序管理器。
+1. **App Manager**：高级 Android 应用程序管理器，附带额外的系统管理功能。
    
+   - 跟踪器：无
    - 项目主页：https://muntashirakon.github.io/AppManager
    - GitHub 仓库：https://github.com/MuntashirAkon/AppManager
    - Codeberg 镜像仓库：https://codeberg.org/muntashir/AppManager
@@ -13,7 +14,15 @@
 
 2. **SAI**：Android APK/APKM 软件包安装工具。
 
+   - 跟踪器数量（版本 4.5）：4
    - GitHub 仓库：https://github.com/Aefyr/SAI
+
+## Android 系统管理工具
+
+1. **Magisk**：Android Root 权限管理软件。
+
+   - 跟踪器：无
+   - GitHub 仓库：https://github.com/topjohnwu/Magisk
 
 ## 地图导航软件
 
