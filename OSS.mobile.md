@@ -1,6 +1,8 @@
 # 仅支持移动端（操作系统）的开源软件列表
 
-## Android 应用程序管理相关工具
+## Android 系统管理工具
+
+### 应用程序管理/安装
 
 1. **App Manager**：高级 Android 应用程序管理器，附带额外的系统管理功能。
    
@@ -17,12 +19,18 @@
    - 跟踪器数量（版本 4.5）：4
    - GitHub 仓库：https://github.com/Aefyr/SAI
 
-## Android 系统管理工具
+### Root 权限管理
 
 1. **Magisk**：Android Root 权限管理软件。
 
    - 跟踪器：无
    - GitHub 仓库：https://github.com/topjohnwu/Magisk
+
+2. **KernelSU/KernelSU-Next**：Android 上基于内核的 root 方案。
+
+   - 官网：https://kernelsu.org
+   - KernelSU 的 GitHub 仓库：https://github.com/tiann/KernelSU
+   - KernelSU-Next 的 GitHub 仓库：https://github.com/KernelSU-Next/KernelSU-Next
 
 ## 地图导航软件
 
