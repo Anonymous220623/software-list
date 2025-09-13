@@ -51,7 +51,7 @@
    
    - GitHub 仓库：https://github.com/zodiacon/TotalRegistry
 
-### Syscall
+### [系统调用（Syscall）](https://en.wikipedia.org/wiki/System_call)
 
 1. **Syscall Tables**
    
