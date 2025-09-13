@@ -92,11 +92,16 @@
    - 官网：https://rainmeter.net
    - GitHub 仓库：https://github.com/rainmeter/rainmeter
 
-### Windows 系统菜单和右键菜单个性化工具
+### Windows Explorer 上下文菜单（右键菜单）自定义工具
 
 1. **SmartSystemMenu**：扩展 Windows 系统菜单的工具。
    
    - GitHub 仓库：https://github.com/AlexanderPro/SmartSystemMenu
+
+2. **Nilesoft Shell**：Windows 上下文菜单管理器。
+
+   - 官网：https://nilesoft.org
+   - GitHub 仓库：https://github.com/moudey/shell
 
 ### Windows 开始菜单/任务栏个性化工具
 
