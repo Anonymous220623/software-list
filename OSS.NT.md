@@ -8,7 +8,8 @@
 
 > [!WARNING]
 > 
-> Files 仅支持 Windows 10/11，确保 Windows UWP 应用安装程序未被卸载，且运行时环境正常。
+> 1. 此处的 **Windows 资源管理器替代**指的是替代 Windows Explorer 的**文件管理器**功能，而非 Windows 桌面功能。
+> 2. Files 仅支持 Windows 10/11，确保 Windows UWP 应用安装程序未被卸载，且运行时环境正常。
 
 1. **Files**（C#/.NET/UWP）：页面类似 Windows 11 的 Windows 文件管理器。
    
@@ -31,7 +32,7 @@
    - Winsider 官网：http://windows-internals.com
    - GitHub 仓库：https://github.com/winsiderss/systeminformer
   
-2. **TaskExplorer**（Qt/C++）：Windows 系统管理器，后端基于 System Informer（去除了 System Informer 的闭源组件）。
+2. **TaskExplorer**（Qt/C++）：Windows 系统管理器，后端基于 System Informer。
    
    - GitHub 仓库：https://github.com/DavidXanatos/TaskExplorer
 
