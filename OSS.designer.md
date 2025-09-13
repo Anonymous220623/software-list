@@ -1,5 +1,9 @@
 # Designer 开源软件列表
 
+> [!WARNING]
+>
+> 除非特别说明，否则本列表中的【跨平台】指支持 Windows、macOS 和 Linux 系统。
+
 ## 图片/视频/字幕编辑器
 
 ### 一. 图片编辑器
@@ -57,6 +61,12 @@
    - 已存档的 GitHub 仓库：https://github.com/Aegisub/Aegisub
    - 维护的 GitHub 仓库：https://github.com/TypesettingTools/Aegisub
 
+### 四. 音频编辑器
+
+1. **Audacity**：跨平台音频录制工具和编辑器。
+
+   - 官网：https://www.audacityteam.org
+   - GitHub 仓库：https://github.com/audacity/audacity
 
 ## 2D/3D 设计建模软件
 
