@@ -26,10 +26,6 @@
 
 ### 任务管理器（`taskmgr.exe`）、性能监视器（`perfmon.msc`）替代品
 
-> [!IMPORTANT]
-> 
-> System Informer 的 GitHub 仓库包含闭源链接库（涉及与 Windows 内核交互的模块，封闭源码以防止恶意软件利用）：[/KSystemInformer/bin-signed](https://github.com/winsiderss/systeminformer/tree/master/KSystemInformer/bin-signed)：
-
 1. **System Informer**：全面的 Windows 系统管理器。
 
    - Winsider 官网：http://windows-internals.com
