@@ -126,9 +126,15 @@
 
 ### Windows 窗口非客户区个性化工具
 
-1. **DWMBlurGlass**：在 Windows 10/11 上实现 Windows 7 窗口磨砂半透明效果的工具。
+1. **DWMBlurGlass**：在 Windows 10/11 上实现 Windows 7 窗口磨砂半透明效果的小工具。
 
    - GitHub 仓库：https://github.com/Maplespe/DWMBlurGlass
+
+### Windows Explorer 文件管理窗口个性化工具
+
+1. **ExplorerBlurMica**：给 Windows Explorer 窗口添加背景模糊效果或 Acrylic/Mica 效果的小工具。
+
+   - GitHub 仓库：https://github.com/Maplespe/ExplorerBlurMica
 
 ### 其他 Windows Explorer 个性化工具
 
