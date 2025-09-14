@@ -55,6 +55,8 @@
 > Android 用户建议在 F-Droid 上下载 OsmAnd 的社区编译版本 **OsmAnd~** 以最大限度地保护隐私，可在[维基百科](https://en.wikipedia.org/wiki/OsmAnd#Licensing)上了解详细信息。
 >
 > 如果您有捐赠意愿，可购买 OsmAnd+ 以支持该项目并获得最完整的功能支持。
+>
+> OsmAnd~ 没有跟踪器和地图/数据下载限制，功能接近需付费的 OsmAnd+。
 
 3. **OsmAnd**：功能全面的跨平台地图导航软件，基于 OpenStreetMap，有免费和付费计划。
 
