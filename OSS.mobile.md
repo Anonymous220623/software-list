@@ -38,6 +38,10 @@
 
 ## 地图导航软件
 
+> [!NOTE]
+>
+> 如无特别说明，以下列出的地图导航软件均需从软件提供方的服务器上按需下载离线地图数据库。
+
 1. **Organic Maps**：基于 [OpenStreetMaps](https://www.openstreetmap.org) 开放地图数据库的跨平台地图导航软件。
 
    - Android 应用程序跟踪器：无
