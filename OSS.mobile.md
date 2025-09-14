@@ -40,10 +40,12 @@
 
 1. **Organic Maps**：基于 [OpenStreetMaps](https://www.openstreetmap.org) 开放地图数据库的跨平台地图导航软件。
 
+   - 跟踪器：无
    - 官网：https://organicmaps.app
    - GitHub 仓库：https://github.com/organicmaps/organicmaps
 
 2. **CoMaps**：基于 [OpenStreetMaps](https://www.openstreetmap.org) 开放地图数据库的跨平台地图导航软件。
 
+   - 跟踪器：无
    - 官网：https://www.comaps.app
    - Codeberg 仓库：https://codeberg.org/comaps/comaps
