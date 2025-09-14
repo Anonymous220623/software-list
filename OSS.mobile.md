@@ -1,5 +1,9 @@
 # 仅支持移动端（操作系统）的开源软件列表
 
+> [!NOTE]
+>
+> 此处的“跨平台”若无特别说明均指“支持 Android 和 iOS”。
+
 ## Android 系统管理工具
 
 ### 应用程序管理/安装
@@ -34,7 +38,12 @@
 
 ## 地图导航软件
 
-1. **Organic Maps**：基于 [OpenStreetMaps](https://www.openstreetmap.org) 开放地图数据库的地图导航软件，适用于 Android 和 iOS（需按需下载离线地图数据包以供离线使用）。
+1. **Organic Maps**：基于 [OpenStreetMaps](https://www.openstreetmap.org) 开放地图数据库的跨平台地图导航软件。
 
    - 官网：https://organicmaps.app
    - GitHub 仓库：https://github.com/organicmaps/organicmaps
+
+2. **CoMaps**：基于 [OpenStreetMaps](https://www.openstreetmap.org) 开放地图数据库的跨平台地图导航软件。
+
+   - 官网：https://www.comaps.app
+   - Codeberg 仓库：https://codeberg.org/comaps/comaps
