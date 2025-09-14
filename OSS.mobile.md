@@ -63,7 +63,7 @@
 > OsmAnd~ 没有跟踪器和地图/数据下载限制，功能与需付费的 OsmAnd+ 完全相同。
 >
 > 相关论坛：
-> - https://www.reddit.com/r/OsmAnd/comments/13jh6gr/difference_between_the_various_osmand_versions
+> - https://www.reddit.com/r/OsmAnd/comments/bsvkc3/is_osmand_free_on_fdroid_and_paid_on_google_play
 
 3. **OsmAnd**：功能全面的跨平台地图导航软件，基于 OpenStreetMap，有免费和付费计划。
 
