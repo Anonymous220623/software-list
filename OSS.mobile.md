@@ -52,7 +52,7 @@
 
 > [!WARNING]
 >
-> Android 用户建议在 F-Droid 上下载 OsmAnd 的社区编译版本 **OsmAnd~** 以最大限度地保护隐私，可在[维基百科](https://en.wikipedia.org/wiki/OsmAnd#Licensing)上了解详细信息。
+> Android 用户建议在 F-Droid 上下载 OsmAnd 的社区编译版本 [**OsmAnd~**](https://f-droid.org/zh_Hans/packages/net.osmand.plus) 以最大限度地保护隐私，可在[维基百科](https://en.wikipedia.org/wiki/OsmAnd#Licensing)上了解详细信息。
 >
 > 如果您有捐赠意愿，可购买 OsmAnd+ 以支持该项目并获得最完整的功能支持。
 >
