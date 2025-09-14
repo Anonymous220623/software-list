@@ -8,7 +8,7 @@
 
 ### 应用程序管理/安装
 
-1. **App Manager**：高级 Android 应用程序管理器，附带额外的系统管理功能。
+1. **App Manager**：高级 Android 应用程序管理器。
    
    - 跟踪器：无
    - 项目主页：https://muntashirakon.github.io/AppManager
