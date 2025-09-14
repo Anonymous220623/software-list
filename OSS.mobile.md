@@ -40,25 +40,25 @@
 
 1. **Organic Maps**：基于 [OpenStreetMaps](https://www.openstreetmap.org) 开放地图数据库的跨平台地图导航软件。
 
-   - 跟踪器：无
+   - Android 应用程序跟踪器：无
    - 官网：https://organicmaps.app
    - GitHub 仓库：https://github.com/organicmaps/organicmaps
 
 2. **CoMaps**：基于 [OpenStreetMaps](https://www.openstreetmap.org) 开放地图数据库的跨平台地图导航软件。
 
-   - 跟踪器：无
+   - Android 应用程序跟踪器：无
    - 官网：https://www.comaps.app
    - Codeberg 仓库：https://codeberg.org/comaps/comaps
 
 > [!WARNING]
 >
-> 建议在 F-Droid 上下载 OsmAnd 的社区编译版本 **OsmAnd~** 以最大限度地保护隐私，可在[维基百科](https://en.wikipedia.org/wiki/OsmAnd#Licensing)上了解详细信息。
+> Android 用户建议在 F-Droid 上下载 OsmAnd 的社区编译版本 **OsmAnd~** 以最大限度地保护隐私，可在[维基百科](https://en.wikipedia.org/wiki/OsmAnd#Licensing)上了解详细信息。
 >
 > 如果您有捐赠意愿，可购买 OsmAnd+ 以支持该项目并获得最完整的功能支持。
 
 3. **OsmAnd**：功能全面的地图导航软件，有免费和付费计划。
 
-   - 跟踪器信息：
+   - Android 应用程序跟踪器信息：
         - net.osmand.plus（应用名：**OsmAnd~**，安装来源：**F-droid**）
              - 跟踪器：无
         - net.osmand.plus（应用名：OsmAnd+，安装来源：**Google Play**，软件性质：付费软件）
