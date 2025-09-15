@@ -49,7 +49,7 @@
 
 #### Android 平台应用程序/Java 字节码和软件包
 
-1. **Jadx**：Android/Java 应用程序包分析和逆向工程平台。
+1. **JADX**：Android/Java 应用程序包分析和逆向工程平台。
    
    - GitHub 仓库：https://github.com/skylot/jadx
 
@@ -66,7 +66,7 @@
    - GitHub 原仓库（已存档，不再维护）：https://github.com/dnSpy/dnSpy
    - 仍在维护 GitHub 仓库（非官方分支）：https://github.com/dnSpyEx/dnSpy
 
-2. **ilSpy**：.NET 程序集逆向工程平台。
+2. **ILSpy**：.NET 程序集逆向工程平台。
    
    - GitHub 仓库：https://github.com/icsharpcode/ILSpy
 
