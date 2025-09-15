@@ -277,9 +277,16 @@
 
 ## 网络相关工具
 
-### 一. 代理客户端
+### 一. 代理工具
 
-#### 正向代理客户端
+#### 正向代理套件（独立协议实现）
+
+1. **Outline**：提供跨平台的服务端和客户端，适合有自部署需求的用户。
+
+   - 官网：https://getoutline.org
+   - Jigsaw 的 GitHub 组织：https://github.com/Jigsaw-Code
+
+#### 正向代理客户端（基于开放、通用的网络加密协议）
 
 1. **v2rayN**：跨平台 PC 端系统代理客户端，基于 v2ray 核心。
    
@@ -306,7 +313,7 @@
    
    - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
 
-#### 反向代理客户端
+#### 反向代理工具
 
 1. **开发者边车（DevSideCar）**（JavaScript/Vue）：针对 GitHub、Stack Overflow 等软件开发相关的特定站点的反代工具。
 
