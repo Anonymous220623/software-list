@@ -305,15 +305,26 @@
    
    - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
 
-#### 反向代理/SNI 伪造客户端
+#### 反向代理客户端
 
-1. **Sheas-Cealer**：SNI 伪造工具，用于无代理突破特定网站访问限制，适用于 Chromium 内核的浏览器。
+1. **开发者边车（DevSideCar）**（JavaScript/Vue）：针对 GitHub、Stack Overflow 等软件开发相关的特定站点的反代工具。
+
+   - GitHub 仓库：https://github.com/docmirror/dev-sidecar
+
+2. **Watt Toolkit（Steam++、SteamTools）**（C#/.NET）：Steam 游戏加速器，亦提供针对游戏服务和软件开发相关的特定站点的反代功能。
+
+   - 官网：https://steampp.net
+   - GitHub 仓库：https://github.com/BeyondDimension/SteamTools
+   
+### 二. SNI 伪造工具
+
+1. **Sheas Cealer**：SNI 伪造工具，用于无代理突破特定网站访问限制，适用于 Chromium 内核的浏览器。
    
    - Windows 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer
    - Android 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer-Droid
    - 上游伪造规则存储库：https://github.com/SpaceTimee/Cealing-Host
 
-### 二. 网络/通信协议项目
+### 三. 网络/通信协议项目
 
 1. **Tor Project**：
 
