@@ -13,7 +13,7 @@
 > [!IMPORTANT]
 > 
 > 1. 除 Detect It Easy 以外，此处列出的软件包含反汇编、反编译、内存探测和分析等下述列出的几乎所有功能。
-> 2. 对于因 Ghidra 的政治中立性问题而引发担忧的用户，建议改用 Cutter 或 Angr，或使用 Binary Ninja Free/IDA Freeware/IDA Free 或 Binary Ninja Pro/IDA Pro 的破解版本。
+> 2. 对于因 Ghidra 的政治中立性问题而引发担忧的用户，建议改用 Cutter 或 Angr，或使用 Binary Ninja Free/IDA Freeware/IDA Free，或自行寻找 Binary Ninja Pro/IDA Pro 的破解版本。
 
 1. **Ghidra**：基于 Java 的软件逆向工程框架，内置丰富的功能插件。由美国国家安全局（National Security Agency，NSA）发起并维护。
    
