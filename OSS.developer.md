@@ -8,7 +8,7 @@
 
 ### 工具集
 
-1. **Metasploit Framework**：知名的渗透测试框架/工具集，由 [Rapid7](https://www.rapid7.com) 公司开发，主要使用 Ruby 开发，提供各种命令行应用程序（插件），Metasploit Pro 是基于此框架且附带图形用户页面的闭源商业版本。
+1. **Metasploit Framework**：知名的渗透测试框架/工具集，由 [Rapid7](https://www.rapid7.com) 公司开发，主要开发语言为 Ruby，提供各种命令行应用程序（插件），Metasploit Pro 是基于此框架且附带图形用户页面的闭源商业版本。
 
    - 官网：https://www.metasploit.com
    - GitHub 仓库：https://github.com/rapid7/metasploit-framework
