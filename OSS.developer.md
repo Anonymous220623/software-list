@@ -334,7 +334,7 @@
 
 ### 二. 网络/通信协议项目
 
-1. **Tor Project**：
+1. **Tor Project**：影响全球的洋葱网络协议和实现项目，由 Tor Project 基金会维护。
 
    - 官网：https://www.torproject.org
    - GitLab 实例：https://gitlab.torproject.org
