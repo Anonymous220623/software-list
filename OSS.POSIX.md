@@ -1,4 +1,4 @@
-# 仅适用于 POSIX 桌面操作系统家族（GNU/Linux、darwin(macOS)、BSD 系统家族）的开源软件列表
+# 仅适用于 POSIX 桌面操作系统家族的开源软件列表
 
 ## 磁盘/分区管理工具
 
@@ -21,5 +21,6 @@
 2. **htop**：同 btop。
    
    - GitHub 仓库：https://github.com/htop-dev/htop
+
 
 
