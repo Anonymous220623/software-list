@@ -107,7 +107,7 @@
 
 ### 五. 应用程序依赖项分析工具
 
-1. **Dependencies**：Windows 可执行文件依赖项分析工具。
+1. **Dependencies**：Windows 可执行文件依赖项分析工具，旨在替代专有且已停止维护的 Dependency Walker。
    
    - GitHub 仓库：https://github.com/lucasg/Dependencies
 
@@ -324,7 +324,7 @@
    - 官网：https://steampp.net
    - GitHub 仓库：https://github.com/BeyondDimension/SteamTools
    
-### 二. SNI 伪造工具
+#### SNI 伪造工具
 
 1. **Sheas Cealer**：SNI 伪造工具，用于无代理突破特定网站访问限制，适用于 Chromium 内核的浏览器。
    
@@ -332,7 +332,7 @@
    - Android 版本 GitHub 仓库：https://github.com/SpaceTimee/Sheas-Cealer-Droid
    - 上游伪造规则存储库：https://github.com/SpaceTimee/Cealing-Host
 
-### 三. 网络/通信协议项目
+### 二. 网络/通信协议项目
 
 1. **Tor Project**：
 
@@ -344,6 +344,20 @@
    - 官网：https://matrix.org
    - GitHub 组织：https://github.com/matrix-org
    - 备注：[matrix.org](https://matrix.org) 通信服务器的账户注册条件：电子邮箱地址。
+
+### 三. 网络嗅探分析工具
+
+1. **Wireshark**：强大的网络协议/数据分析工具。
+
+   - 官网：https://www.wireshark.org
+   - GitLab 仓库：https://gitlab.com/wireshark/wireshark
+   - GitHub 镜像仓库：https://github.com/wireshark/wireshark
+
+2. **Nmap**：网络扫描和安全审计工具，亦提供 Windows GUI 版本（Zenmap）。
+
+   - 官网：https://nmap.org
+   - SVN 实例：https://svn.nmap.org
+   - GitHub 镜像仓库组织：https://github.com/nmap
 
 ## 版本控制相关工具
 
