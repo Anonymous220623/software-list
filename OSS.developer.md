@@ -4,6 +4,15 @@
 > 
 > 此列表包含开发者/技术爱好者可能感兴趣的知名开源软件项目。
 
+## 渗透测试/漏洞搜索利用工具（集）
+
+### 工具集
+
+1. **Metasploit Framework**：知名的渗透测试框架/工具集，由 [Rapid7](https://www.rapid7.com) 公司开发，主要使用 Ruby 开发，提供各种命令行应用程序（插件），Metasploit Pro 是基于此框架且附带图形用户页面的闭源商业版本。
+
+   - 官网：https://www.metasploit.com
+   - GitHub 仓库：https://github.com/rapid7/metasploit-framework
+
 ## 逆向工程工具/平台
 
 ### 一. 逆向工程平台/工具集
