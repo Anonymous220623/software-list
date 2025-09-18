@@ -380,7 +380,7 @@
 
 ## 压缩存档管理软件
 
-1. **7-Zip**：
+1. **7-Zip**（7-Zip File Manager）：
 
    - 官网：https://www.7-zip.org
    - GitHub 仓库（不包含具体提交记录）：https://github.com/ip7z/7zip
@@ -393,7 +393,7 @@
    - GitLab 仓库：https://invent.kde.org/utilities/ark
    - GitHub 镜像仓库：https://github.com/KDE/ark
 
-3. **PeaZip**：使用 Pascal 编写的跨平台压缩文件管理工具。
+3. **PeaZip**：主要使用 Pascal 编写的跨平台压缩文件管理工具。
 
    - 项目主页：https://peazip.github.io
    - GitHub 仓库：https://github.com/peazip/PeaZip
@@ -418,5 +418,3 @@
 
    - 官网：https://motrix.app
    - GitHub 仓库：https://github.com/agalwood/Motrix
-
-## 用户页面自定义工具
