@@ -1,4 +1,4 @@
-> [!WARNING]
+> [!NOTE]
 > 
 > 以下列出的开源软件除 [Screen Play](#动态壁纸软件) 之外仅支持 Windows 平台。
 
@@ -6,7 +6,7 @@
 
 ### Windows 资源管理器（`explorer.exe`）替代品
 
-> [!WARNING]
+> [!IMPORTANT]
 > 
 > 1. 此处的 **Windows 资源管理器替代**指的是替代 Windows Explorer 的**文件管理器**功能，而非 Windows 桌面功能。
 > 2. Files 仅支持 Windows 10/11，确保 Windows UWP 应用安装程序未被卸载，且运行时环境正常。
@@ -27,7 +27,13 @@
 
 ### 任务管理器（`taskmgr.exe`）、性能监视器（`perfmon.msc`）替代品
 
-1. **System Informer**：全面的 Windows 系统管理器。
+> [!WARNING]
+>
+> **对于想要自行编译 System Informer 源代码的用户/爱好者的提醒：**
+> 
+> 由于 Windows 10 引入了 [**Windows 内核模式代码签名**](https://learn.microsoft.com/zh-cn/windows-hardware/drivers/install/kernel-mode-code-signing-policy--windows-vista-and-later-)机制以确保操作系统安全（即运行在 Windows 内核模式下的可执行文件必须经过微软官方的签名认证），故存放在 [`/KSystemInformer/bin-signed`](https://github.com/winsiderss/systeminformer/tree/master/KSystemInformer/bin-signed) 下的二进制文件包含了微软的数字签名，所以自己编译这些组件的源代码（位于 [`/KSystemInformer`](https://github.com/winsiderss/systeminformer/tree/master/KSystemInformer)）得到的可执行文件会因缺少微软的签名认证而被 Windows 系统拒绝执行（除非以调试模式引导系统）。
+
+1. **System Informer**：由 Insider Windows 团队开发的 Windows 系统管理器。
 
    - Winsider 官网：http://windows-internals.com
    - GitHub 仓库：https://github.com/winsiderss/systeminformer
