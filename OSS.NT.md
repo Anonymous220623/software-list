@@ -9,7 +9,7 @@
 > [!IMPORTANT]
 > 
 > 1. 此处的 **Windows 资源管理器替代**指的是替代 Windows Explorer 的**文件管理器**功能，而非 Windows 桌面功能。
-> 2. Files 仅支持 Windows 10/11，确保 Windows UWP 应用安装程序未被卸载，且运行时环境正常。
+> 2. Files 仅支持 Windows 10/11，且应确保 Windows UWP 应用安装程序未被卸载，且运行时环境正常。
 
 1. **Files**（C#/.NET/UWP）：页面类似 Windows 11 的 Windows 文件管理器。
    
