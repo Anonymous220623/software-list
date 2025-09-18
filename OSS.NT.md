@@ -82,7 +82,7 @@
 
 > [!WARNING]
 >
-> Screen Play 即将完成对 KDE Plasma 桌面环境的支持，之后该项目将被移动至 OSS.md。
+> 在 Screen Play 完成对 KDE Plasma 桌面环境的支持并发布第一个针对 Linux 的正式版本之后，该条目会被移动至 OSS.md。
 
 2. **Screen Play**（C++20/Qt6/QML）：适用于 Windows 和 macOS 的跨平台桌面动态壁纸软件，支持视频/GIF/QML/JS，可添加自定义桌面部件，支持 Steam 创意工坊。
    
