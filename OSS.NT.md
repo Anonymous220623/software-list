@@ -31,7 +31,7 @@
 >
 > **对于想要自行编译 System Informer 源代码的用户/爱好者的提醒：**
 > 
-> 由于 Windows 10 （版本号 >= 1607）引入了 [**Windows 内核模式代码签名**](https://learn.microsoft.com/zh-cn/windows-hardware/drivers/install/kernel-mode-code-signing-policy--windows-vista-and-later-)机制以确保操作系统安全（即运行在 Windows 内核模式下的可执行文件必须经过微软官方的签名认证），故存放在 [`/KSystemInformer/bin-signed`](https://github.com/winsiderss/systeminformer/tree/master/KSystemInformer/bin-signed) 下的二进制文件包含了微软的数字签名，所以自己编译这些组件的源代码（位于 [`/KSystemInformer`](https://github.com/winsiderss/systeminformer/tree/master/KSystemInformer)）得到的可执行文件会因缺少微软的签名认证而被 Windows 系统拒绝执行（除非以调试模式引导系统）。
+> 由于 Windows 10 （版本号 >= 1607）引入了 [**Windows 内核模式代码签名**](https://learn.microsoft.com/zh-cn/windows-hardware/drivers/install/kernel-mode-code-signing-policy--windows-vista-and-later-)机制以确保操作系统安全（即运行在 Windows 内核模式下的可执行文件必须经过微软官方的签名认证），故存放在 [`/KSystemInformer/bin-signed/`](https://github.com/winsiderss/systeminformer/tree/master/KSystemInformer/bin-signed)（[ARM64](https://github.com/winsiderss/systeminformer/tree/master/KSystemInformer/bin-signed/arm64) 或 [AMD64](https://github.com/winsiderss/systeminformer/tree/master/KSystemInformer/bin-signed/amd64)） 下的二进制文件包含了微软的数字签名，所以自己编译这些组件的源代码（位于 [`/KSystemInformer/`](https://github.com/winsiderss/systeminformer/tree/master/KSystemInformer)）得到的可执行文件会因缺少微软的签名认证而被 Windows 系统拒绝执行（除非以调试模式引导系统）。
 
 1. **System Informer**：由 Insider Windows 团队开发的 Windows 系统管理器。
 
