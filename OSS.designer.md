@@ -70,7 +70,7 @@
 
 ## 2D/3D 设计建模软件
 
-1. **Blender**：跨平台平面、立体场景设计/建模软件。
+1. **Blender**：知名跨平台平面、立体场景设计/建模软件，由 Blender 基金会开发和维护。
 
    - 官网：https://www.blender.org
    - Gitea 实例：https://projects.blender.org
