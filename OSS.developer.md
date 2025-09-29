@@ -107,7 +107,7 @@
    - GDB 项目主页：https://sourceware.org/gdb
    - GDB Git 仓库：https://sourceware.org/git/binutils-gdb.git
 
-#### 仅适用于 Windows 平台
+#### 仅支持 Windows 平台
 
 1. **x64dbg**：Windows 用户模式应用调试器，拥有图形用户界面。
    
