@@ -4,18 +4,16 @@
 > 
 > 此列表包含开发者/技术爱好者可能感兴趣的知名开源软件项目。
 
-## 渗透测试/漏洞搜索利用工具（集）
-
-### 工具集
+## 渗透测试/漏洞利用工具
 
 1. **Metasploit Framework**：知名的渗透测试框架/工具集，由 [Rapid7](https://www.rapid7.com) 公司开发，主要开发语言为 Ruby，提供各种命令行应用程序（插件），Metasploit Pro 是基于此框架且附带图形用户页面的闭源商业版本。
 
    - 官网：https://www.metasploit.com
    - GitHub 仓库：https://github.com/rapid7/metasploit-framework
 
-## 逆向工程工具/平台
+## 逆向工程相关工具
 
-### 一. 逆向工程平台/工具集
+### 一. 逆向工程平台
 
 #### Windows/MacOS/Linux 平台可执行文件
 
@@ -187,7 +185,7 @@
    - GitHub 仓库（更新延迟）：https://github.com/cxasm/notepad--
    - Gitee 仓库：https://gitee.com/cxasm/notepad--
 
-3. **wxMEdit**：跨平台文本/十六进制编辑器，[MadEdit](http://sourceforge.net/projects/madedit) 的延续版本。
+3. **wxMEdit**：跨平台文本/十六进制数据编辑器，[MadEdit](http://sourceforge.net/projects/madedit) 的延续版本。
 
    - 项目主页：https://wxmedit.github.io
    - GitHub 仓库：https://github.com/wxMEdit/wxMEdit
@@ -300,7 +298,7 @@
 
 #### 正向代理客户端（基于开放、通用的网络加密协议）
 
-1. **v2rayN**：跨平台 PC 端系统代理客户端，基于 v2ray 核心。
+1. **v2rayN**：跨平台 PC 端系统代理客户端，基于 v2ray（Project V） 核心。
    
    - 项目主页：https://v2rayn.2dust.link
    - GitHub 仓库：https://github.com/2dust/v2rayN
