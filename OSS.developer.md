@@ -91,15 +91,7 @@
    
    - GitHub 仓库：https://github.com/stefansundin/xn_resource_editor
 
-### 三. 应用程序调试/内存探查工具
-
-1. **x64dbg**：Windows 应用程序调试工具集。
-   
-   - 官网：https://x64dbg.com
-   - GitHub 仓库：https://github.com/x64dbg/x64dbg
-   - SourceForge Snapshots：https://sourceforge.net/projects/x64dbg/files/snapshots
-
-### 四. 应用程序脱壳/反混淆工具
+### 三. 应用程序脱壳/反混淆工具
 
 #### .NET 应用程序
 
@@ -114,7 +106,7 @@
    - 仓库分支：
      - 提供对 vanilla ConfuserEx 全面支持的 de4dot 的分支（已存档，不再维护）：https://github.com/ViRb3/de4dot-cex
 
-### 五. 应用程序依赖项分析工具
+### 四. 应用程序依赖项分析工具
 
 1. **Dependencies**：Windows 可执行文件依赖项分析工具，旨在替代专有且已停止维护的 Dependency Walker。
    
@@ -271,18 +263,29 @@
 
 ### 三. 调试器
 
-#### 命令行/后端
-
-1. **LLDB**：LLVM/Clang 官方命令行调试器。
+1. **LLDB**：LLVM/Clang 绑定的命令行调试器。
    
    - LLDB 项目主页：https://lldb.llvm.org
    - LLVM 项目 GitHub 仓库：https://github.com/llvm/llvm-project
    - LLDB 源码目录：`./lldb/*`
 
-2. **GDB**：GCC 官方命令行调试器。
+2. **GDB**：GCC 绑定的命令行调试器。
    
    - GDB 项目主页：https://sourceware.org/gdb
    - GDB Git 仓库：https://sourceware.org/git/binutils-gdb.git
+
+#### 仅适用于 Windows 平台
+
+1. **x64dbg**：Windows 用户模式应用调试器，拥有图形用户界面。
+   
+   - 官网：https://x64dbg.com
+   - GitHub 仓库：https://github.com/x64dbg/x64dbg
+   - SourceForge Snapshots：https://sourceforge.net/projects/x64dbg/files/snapshots
+
+2. **HyperDbg**：Windows 用户/内核模式调试器。
+
+   - 官网：https://hyperdbg.org
+   - GitHub 仓库：https://github.com/HyperDbg/HyperDbg
 
 ## 网络相关工具
 
