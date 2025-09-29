@@ -4,12 +4,121 @@
 > 
 > 此列表包含开发者/技术爱好者可能感兴趣的知名开源软件项目。
 
-## 渗透测试/漏洞利用工具
+## 应用程序开发相关工具
 
-1. **Metasploit Framework**：知名的渗透测试框架/工具集，由 [Rapid7](https://www.rapid7.com) 公司开发，主要开发语言为 Ruby，提供各种命令行应用程序（插件），Metasploit Pro 是基于此框架且附带图形用户页面的闭源商业版本。
+### 一. 文本编辑器
 
-   - 官网：https://www.metasploit.com
-   - GitHub 仓库：https://github.com/rapid7/metasploit-framework
+#### 图形用户页面
+
+1. **Notepad Next**（Qt/C++）：跨平台文本和代码编辑器，旨在替代 Notepad++ 依赖于单一 Windows 平台的特性。
+
+   - GitHub 仓库：https://github.com/dail8859/NotepadNext
+
+2. **Notepad--**（Qt/C++）：跨平台文本和代码编辑器，旨在替代 Notepad++ 依赖于单一 Windows 平台的特性。
+   
+   - 备注：优先访问 Gitee 仓库以获取最新更新。
+   - GitHub 仓库（更新延迟）：https://github.com/cxasm/notepad--
+   - Gitee 仓库：https://gitee.com/cxasm/notepad--
+
+3. **wxMEdit**：跨平台文本/十六进制数据编辑器，[MadEdit](http://sourceforge.net/projects/madedit) 的延续版本。
+
+   - 项目主页：https://wxmedit.github.io
+   - GitHub 仓库：https://github.com/wxMEdit/wxMEdit
+
+##### 仅支持 Windows 平台
+
+1. **Notepad++**（Win32/C++）：Windows 平台文本和代码编辑器。
+   
+   - 官网：https://notepad-plus-plus.org
+   - GitHub 仓库：https://github.com/notepad-plus-plus/notepad-plus-plus
+
+2. **Notepads**（C#/.NET/UWP）：Windows 平台文本和代码编辑器。
+   
+   - 官网：https://www.notepadsapp.com
+   - GitHub 仓库：https://github.com/0x7c13/Notepads
+
+#### 命令行页面
+
+1. **Vim**：最著名的跨平台命令行文本编辑器，拥有广泛的插件支持。
+
+   - 官网：https://www.vim.org
+   - GitHub 仓库：https://github.com/vim/vim
+
+2. **Helix**：使用 Rust 开发的跨平台文本编辑器。
+
+   - 官网：https://helix-editor.com
+   - GitHub 仓库：https://github.com/helix-editor/helix
+
+3. **Zep**：嵌入式、轻量级命令行文本编辑器。
+
+   - GitHub 仓库：https://github.com/Rezonality/zep
+
+##### 仅支持 Linux 平台
+
+1. **nano**：Linux 命令行文本编辑器，GNU 项目的一部分。
+
+   - 官网：https://nano-editor.org
+   - Git 仓库 1：https://git.savannah.gnu.org/git/nano.git
+   - Git 仓库 2：https://git.wh0rd.org/nano-editor.git
+
+### 二. 集成开发环境
+
+1. **Visual Studio Code**（VSCode）：微软使用 TypeScript/Electron 开发的跨平台集成开发环境，拥有广泛的插件支持。
+
+   - 官网：https://code.visualstudio.com
+   - GitHub 仓库：https://github.com/microsoft/vscode
+
+2. **VSCodium**：VSCode 的社区支持版本，删除了微软服务相关代码，但仍支持 VSCode 的插件仓库。
+
+   - 官网：https://vscodium.com
+   - GitHub 仓库（存储修改和构建脚本）：https://github.com/VSCodium/vscodium
+
+3. **Intellij Platform**（产品：[Intellij IDEA Community](https://www.jetbrains.com/idea)/[PyCharm Community Edition](https://www.jetbrains.com/pycharm)）：JetBrains 使用 Java 开发的 IDE 平台，拥有全平台支持和自定义插件集成功能。
+
+   - JetBrains 官网：https://www.jetbrains.com
+   - 项目页面：https://www.jetbrains.com/opensource/idea
+   - GitHub 仓库：https://github.com/JetBrains/intellij-community
+
+4. **Code::Blocks**：跨平台 C/C++ IDE，用户页面基于 wxWidgets。
+
+   - 官网：https://www.codeblocks.org
+   - SourceForge SVN 仓库：https://svn.code.sf.net/p/codeblocks/code/trunk
+
+> [!WARNING]
+>
+> Eclipse 基金会的 IDE 项目分散在各个代码托管平台、各个群组/组织的数百个仓库中，详细仓库列表信息等待整理。
+
+5. **Eclipse IDE**：由 Eclipse 基金会维护的多语言 IDE 项目，使用 Java 开发，提供跨平台和插件支持。
+
+   - 项目官网：https://eclipseide.org
+   - Eclipse 官网：https://www.eclipse.org
+   - 软件下载页面：https://www.eclipse.org/downloads/packages
+
+### 三. 调试器
+
+1. **LLDB**：LLVM/Clang 绑定的命令行调试器。
+   
+   - LLDB 项目主页：https://lldb.llvm.org
+   - LLVM 项目 GitHub 仓库：https://github.com/llvm/llvm-project
+   - LLDB 源码目录：`./lldb/*`
+
+2. **GDB**：GCC 绑定的命令行调试器。
+   
+   - GDB 项目主页：https://sourceware.org/gdb
+   - GDB Git 仓库：https://sourceware.org/git/binutils-gdb.git
+
+#### 仅适用于 Windows 平台
+
+1. **x64dbg**：Windows 用户模式应用调试器，拥有图形用户界面。
+   
+   - 官网：https://x64dbg.com
+   - GitHub 仓库：https://github.com/x64dbg/x64dbg
+   - SourceForge Snapshots：https://sourceforge.net/projects/x64dbg/files/snapshots
+
+2. **HyperDbg**：Windows 用户/内核模式调试器。
+
+   - 官网：https://hyperdbg.org
+   - GitHub 仓库：https://github.com/HyperDbg/HyperDbg
 
 ## 逆向工程相关工具
 
@@ -169,122 +278,6 @@
    - GitHub 仓库：https://github.com/netblue30/firejail
    - 项目主页：https://firejail.wordpress.com
 
-## 应用程序开发相关工具
-
-### 一. 文本编辑器
-
-#### 图形用户页面
-
-1. **Notepad Next**（Qt/C++）：跨平台文本和代码编辑器，旨在替代 Notepad++ 依赖于单一 Windows 平台的特性。
-
-   - GitHub 仓库：https://github.com/dail8859/NotepadNext
-
-2. **Notepad--**（Qt/C++）：跨平台文本和代码编辑器，旨在替代 Notepad++ 依赖于单一 Windows 平台的特性。
-   
-   - 备注：优先访问 Gitee 仓库以获取最新更新。
-   - GitHub 仓库（更新延迟）：https://github.com/cxasm/notepad--
-   - Gitee 仓库：https://gitee.com/cxasm/notepad--
-
-3. **wxMEdit**：跨平台文本/十六进制数据编辑器，[MadEdit](http://sourceforge.net/projects/madedit) 的延续版本。
-
-   - 项目主页：https://wxmedit.github.io
-   - GitHub 仓库：https://github.com/wxMEdit/wxMEdit
-
-##### 仅支持 Windows 平台
-
-1. **Notepad++**（Win32/C++）：Windows 平台文本和代码编辑器。
-   
-   - 官网：https://notepad-plus-plus.org
-   - GitHub 仓库：https://github.com/notepad-plus-plus/notepad-plus-plus
-
-2. **Notepads**（C#/.NET/UWP）：Windows 平台文本和代码编辑器。
-   
-   - 官网：https://www.notepadsapp.com
-   - GitHub 仓库：https://github.com/0x7c13/Notepads
-
-#### 命令行页面
-
-1. **Vim**：最著名的跨平台命令行文本编辑器，拥有广泛的插件支持。
-
-   - 官网：https://www.vim.org
-   - GitHub 仓库：https://github.com/vim/vim
-
-2. **Helix**：使用 Rust 开发的跨平台文本编辑器。
-
-   - 官网：https://helix-editor.com
-   - GitHub 仓库：https://github.com/helix-editor/helix
-
-3. **Zep**：嵌入式、轻量级命令行文本编辑器。
-
-   - GitHub 仓库：https://github.com/Rezonality/zep
-
-##### 仅支持 Linux 平台
-
-1. **nano**：Linux 命令行文本编辑器，GNU 项目的一部分。
-
-   - 官网：https://nano-editor.org
-   - Git 仓库 1：https://git.savannah.gnu.org/git/nano.git
-   - Git 仓库 2：https://git.wh0rd.org/nano-editor.git
-
-### 二. 集成开发环境
-
-1. **Visual Studio Code**（VSCode）：微软使用 TypeScript/Electron 开发的跨平台集成开发环境，拥有广泛的插件支持。
-
-   - 官网：https://code.visualstudio.com
-   - GitHub 仓库：https://github.com/microsoft/vscode
-
-2. **VSCodium**：VSCode 的社区支持版本，删除了微软服务相关代码，但仍支持 VSCode 的插件仓库。
-
-   - 官网：https://vscodium.com
-   - GitHub 仓库（存储修改和构建脚本）：https://github.com/VSCodium/vscodium
-
-3. **Intellij Platform**（产品：[Intellij IDEA Community](https://www.jetbrains.com/idea)/[PyCharm Community Edition](https://www.jetbrains.com/pycharm)）：JetBrains 使用 Java 开发的 IDE 平台，拥有全平台支持和自定义插件集成功能。
-
-   - JetBrains 官网：https://www.jetbrains.com
-   - 项目页面：https://www.jetbrains.com/opensource/idea
-   - GitHub 仓库：https://github.com/JetBrains/intellij-community
-
-4. **Code::Blocks**：跨平台 C/C++ IDE，用户页面基于 wxWidgets。
-
-   - 官网：https://www.codeblocks.org
-   - SourceForge SVN 仓库：https://svn.code.sf.net/p/codeblocks/code/trunk
-
-> [!WARNING]
->
-> Eclipse 基金会的 IDE 项目分散在各个代码托管平台、各个群组/组织的数百个仓库中，详细仓库列表信息等待整理。
-
-5. **Eclipse IDE**：由 Eclipse 基金会维护的多语言 IDE 项目，使用 Java 开发，提供跨平台和插件支持。
-
-   - 项目官网：https://eclipseide.org
-   - Eclipse 官网：https://www.eclipse.org
-   - 软件下载页面：https://www.eclipse.org/downloads/packages
-
-### 三. 调试器
-
-1. **LLDB**：LLVM/Clang 绑定的命令行调试器。
-   
-   - LLDB 项目主页：https://lldb.llvm.org
-   - LLVM 项目 GitHub 仓库：https://github.com/llvm/llvm-project
-   - LLDB 源码目录：`./lldb/*`
-
-2. **GDB**：GCC 绑定的命令行调试器。
-   
-   - GDB 项目主页：https://sourceware.org/gdb
-   - GDB Git 仓库：https://sourceware.org/git/binutils-gdb.git
-
-#### 仅适用于 Windows 平台
-
-1. **x64dbg**：Windows 用户模式应用调试器，拥有图形用户界面。
-   
-   - 官网：https://x64dbg.com
-   - GitHub 仓库：https://github.com/x64dbg/x64dbg
-   - SourceForge Snapshots：https://sourceforge.net/projects/x64dbg/files/snapshots
-
-2. **HyperDbg**：Windows 用户/内核模式调试器。
-
-   - 官网：https://hyperdbg.org
-   - GitHub 仓库：https://github.com/HyperDbg/HyperDbg
-
 ## 网络相关工具
 
 ### 一. 代理工具
@@ -368,6 +361,13 @@
    - 官网：https://nmap.org
    - SVN 实例：https://svn.nmap.org
    - GitHub 镜像仓库组织：https://github.com/nmap
+
+## 渗透测试/漏洞利用工具
+
+1. **Metasploit Framework**：知名的渗透测试框架/工具集，由 [Rapid7](https://www.rapid7.com) 公司开发，主要开发语言为 Ruby，提供各种命令行应用程序（插件），Metasploit Pro 是基于此框架且附带图形用户页面的闭源商业版本。
+
+   - 官网：https://www.metasploit.com
+   - GitHub 仓库：https://github.com/rapid7/metasploit-framework
 
 ## 版本控制相关工具
 
