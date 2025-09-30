@@ -48,7 +48,11 @@
 
 ### 系统对象查看器
 
-1. **Object Explorer**：Windows 系统对象查看器。
+1. **WinObjEx64**：（仅支持 64 位）
+
+   - GitHub 仓库：https://github.com/hfiref0x/WinObjEx64
+
+2. **Object Explorer**：
    
    - GitHub 仓库：https://github.com/zodiacon/ObjectExplorer
 
