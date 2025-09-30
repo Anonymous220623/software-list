@@ -364,7 +364,7 @@
    - GitLab 仓库：https://gitlab.com/wireshark/wireshark
    - GitHub 镜像仓库：https://github.com/wireshark/wireshark
 
-2. **Nmap**：网络扫描和安全审计工具，亦提供图形前端 Zenmap。
+2. **Nmap**：网络扫描和主机发现工具，亦提供图形前端 Zenmap。
 
    - 官网：https://nmap.org
    - SVN 实例：https://svn.nmap.org
