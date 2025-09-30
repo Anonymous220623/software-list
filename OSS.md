@@ -60,12 +60,16 @@
 
 ## 设备控制软件
 
+### 远程控制
+
 1. **RustDesk**：远程控制软件，支持全平台（iOS 设备不支持被控制），提供免费的 SaaS 计划和免费自托管计划，以及收费的专业版自托管计划，可前往 [https://rustdesk.com/pricing](https://rustdesk.com/pricing) 了解详细信息。
    
    - 官网：https://rustdesk.com
    - GitHub 仓库：https://github.com/rustdesk/rustdesk
 
-2. **Scrcpy**：可通过计算机控制 Android 设备。
+### 本地控制
+
+1. **Scrcpy**：可通过计算机控制 Android 设备。
    
    - GenyMotion 官网：https://www.genymotion.com
    - GitHub 仓库：https://github.com/Genymobile/scrcpy
