@@ -15,30 +15,19 @@
 > 3. 目前 Signal 和 Session 的服务器在中国大陆均已被屏蔽，想要使用 Signal 和 Session 的用户请自行寻找代理软件和服务。
 > 4. 此处提供的聊天软件的客户端和服务端均开源（服务端是原创的或基于现有的开源通信协议），对于仅客户端开源且存在争议的聊天软件，请跳转至 [存在争议和使用风险的开源软件列表 -> 通信相关软件](OSS.disputed.md#通信相关软件)。
 
-> [!WARNING]
->
-> libsodium 需移动到 `OSS.developer.md -> 加密算法库` 。
-
 #### 基于现有的通信协议
 
 1. **Element**：基于 Matrix 通信协议，提供全平台支持的通信客户端，社区支持广泛且更新维护频繁。
 
    - 官网：https://element.io
    - GitHub 组织：https://github.com/element-hq
-   - 相关信息：
-     - 端到端加密：私聊/群组都支持，但需手动开启，开启后不可关闭。
-     - 群组聊天：支持。
-     - 账户注册条件：取决于通信服务器。
 
 2. **Briar**：私密和安全度极高的通信客户端，强制使用 [Tor Project](https://www.torproject.org) 进行网络数据传输，所有数据均加密保存在本地，无网络元数据，用户每次进入应用都需输入密码访问账户。
 
    - 官网：https://briarproject.org
    - GitLab 实例：https://code.briarproject.org
    - Android 应用程序 GitLab 仓库：https://code.briarproject.org/briar/briar
-   - 桌面端应用程序 GitLab 仓库：https://code.briarproject.org/briar/briar-desktop
-   - 备注：
-     1. 该软件不支持 iOS 平台；
-     2. 该软件 Android 客户端已稳定，但桌面端仍在测试阶段，请从 [https://briarproject.org/download-briar-desktop](https://briarproject.org/download-briar-desktop) 下载桌面端的 Beta 版本。
+   - 桌面端应用程序 GitLab 仓库（测试阶段）：https://code.briarproject.org/briar/briar-desktop
 
 #### 独立的通信协议实现
 
@@ -46,38 +35,12 @@
 
    - 官网：https://signal.org
    - GitHub 组织：https://github.com/signalapp
-   - 仓库说明（以下是主要仓库，可前往 Signal 的 GitHub 组织查看所有仓库）：
-     - Android 客户端：https://github.com/signalapp/Signal-Android
-     - iOS 客户端：https://github.com/signalapp/Signal-iOS
-     - 桌面客户端：https://github.com/signalapp/Signal-Desktop
-     - 服务端（Java）：https://github.com/signalapp/Signal-Server
-     - 平台无关的加密实现库（Rust）：https://github.com/signalapp/libsignal
-   - 相关信息：
-     - 端到端加密：私聊/群组都支持，强制启用。
-     - 群组聊天：支持（需获取群组链接并征得群组管理员同意，无公开群组）。
-     - 账户注册条件：手机号码。
-   
+
 2. **Session**：注重隐私的分布式通信平台，客户端基于 Signal 客户端进行二次开发。
 
    - Session 软件官网：https://getsession.org
-   - Session 基金会（Session Technology Foundation）官网：https://session.foundation
+   - Session 技术基金会（Session Technology Foundation）官网：https://session.foundation
    - Session 基金会 GitHub 组织：https://github.com/session-foundation
-   - Session 文档：https://docs.getsession.org
-   - Oxen 基金会（Session 通讯平台最早的维护团队，目前已合并至 Session 基金会）官网：https://oxen.io
-   - Oxen 基金会 GitHub 组织（关于 Session 项目的仓库已不再维护，请转到 [Session 基金会的 GitHub 组织](https://github.com/session-foundation)查看积极维护的 Session 软件仓库）：https://github.com/oxen-io
-   - Oxen 文档：https://docs.oxen.io
-   - 其他链接：
-     - Session 服务节点搭建教程：https://docs.oxen.io/oxen-docs/using-the-oxen-blockchain/oxen-service-node-guides
-   - 相关信息：
-     - 端到端加密：私聊/群组都支持，强制启用。
-     - 群组聊天：支持（需获取群组链接并征得群组管理员同意，除 Session 官方群组外无公开群组）。
-     - 账户注册条件：无条件。
-   - 依赖项：
-     - **libsodium**：成熟的数据加密库，被 Session 使用。
-       - 官网：https://libsodium.org
-       - 文档：https://doc.libsodium.org
-       - GitHub 仓库：https://github.com/jedisct1/libsodium
-       - Session 项目使用的 GitHub 仓库：https://github.com/session-foundation/libsodium-internal
 
 ## 网络浏览相关软件
 
