@@ -368,7 +368,7 @@
 
    - 官网：https://nmap.org
    - SVN 实例：https://svn.nmap.org
-   - GitHub 镜像仓库组织：https://github.com/nmap
+   - GitHub 镜像仓库：https://github.com/nmap/nmap
 
 ## 渗透测试/漏洞利用工具
 
