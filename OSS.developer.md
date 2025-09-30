@@ -107,6 +107,12 @@
    - GDB 项目主页：https://sourceware.org/gdb
    - GDB Git 仓库：https://sourceware.org/git/binutils-gdb.git
 
+#### 调试器前端
+
+1. **seer**：GDB 前端。
+
+   - GitHub 仓库：https://github.com/epasveer/seer
+
 #### 仅支持 Windows 平台
 
 1. **x64dbg**：Windows 用户模式应用调试器，拥有图形用户界面。
@@ -115,7 +121,7 @@
    - GitHub 仓库：https://github.com/x64dbg/x64dbg
    - SourceForge Snapshots：https://sourceforge.net/projects/x64dbg/files/snapshots
 
-2. **HyperDbg**：Windows 用户/内核模式调试器。
+2. **HyperDbg**：针对 Intel 具有 VT-x 虚拟化功能的处理器的 Windows 用户/内核模式调试器。
 
    - 官网：https://hyperdbg.org
    - GitHub 仓库：https://github.com/HyperDbg/HyperDbg
@@ -193,10 +199,6 @@
 1. **RisohEditor**：Windows 可执行文件资源管理工具（查看/编辑可执行文件资源、资源文件编译/反编译），旨在替代 Resource Hacker（支持的平台：Linux/MacOS+Wine、Windows、ReactOS）。
    
    - GitHub 仓库：https://github.com/katahiromz/RisohEditor
-
-2. **XN Resource Editor**：类似 Resource Hacker 的早期版本，已停止维护。
-   
-   - GitHub 仓库：https://github.com/stefansundin/xn_resource_editor
 
 ### 三. 应用程序脱壳/反混淆工具
 
@@ -356,7 +358,7 @@
    - GitLab 仓库：https://gitlab.com/wireshark/wireshark
    - GitHub 镜像仓库：https://github.com/wireshark/wireshark
 
-2. **Nmap**：网络扫描和安全审计工具，亦提供 Windows GUI 版本（Zenmap）。
+2. **Nmap**：网络扫描和安全审计工具，亦提供图形前端 Zenmap。
 
    - 官网：https://nmap.org
    - SVN 实例：https://svn.nmap.org
