@@ -217,9 +217,15 @@
 
 ### 四. 应用程序依赖项分析工具
 
-1. **Dependencies**：Windows 可执行文件依赖项分析工具，旨在替代专有且已停止维护的 Dependency Walker。
+#### Windows PE 文件导入表分析工具
+
+1. **Dependencies**（C#/.NET）：
    
    - GitHub 仓库：https://github.com/lucasg/Dependencies
+
+2. **WinDepends**（C#/.NET）：（暂未发布正式版本）
+
+   - GitHub 仓库：https://github.com/hfiref0x/WinDepends
 
 ## 应用跨平台运行辅助工具和安全性测试工具
 
