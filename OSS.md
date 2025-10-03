@@ -380,3 +380,17 @@
 
    - 官网：https://motrix.app
    - GitHub 仓库：https://github.com/agalwood/Motrix
+
+## 学习辅助工具
+
+### 一. 电子词典/百科软件
+
+1. **GoldenDict-ng**：跨平台电子词典和百科软件，GoldenDict 的延续版本。
+
+   - 项目主页：https://xiaoyifang.github.io/goldendict-ng
+   - GitHub 仓库：https://github.com/xiaoyifang/goldendict-ng
+
+2. **GoldenDict**：跨平台电子词典和百科软件（维护不频繁）。
+
+   - 官网：http://goldendict.org
+   - GitHub 仓库：https://github.com/goldendict/goldendict
