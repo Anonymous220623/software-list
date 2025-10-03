@@ -95,7 +95,7 @@
 
 ### 二. 媒体播放器
 
-1. **VLC Media Player**：由 VideoLAN 非营利组织开发和维护的跨平台媒体播放器项目。
+1. **VLC Media Player**：由 VideoLAN 非营利组织维护的跨平台媒体播放器项目。
    
    - VideoLAN 组织官网：https://www.videolan.org
    - VideoLAN GitLab 实例主页：https://code.videolan.org
