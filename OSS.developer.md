@@ -315,12 +315,19 @@
 
 ##### Clash 系列软件
 
-1. **Clash Verge Rev**：跨平台 PC 端系统代理客户端。
+1. **Clash Verge Rev**：Clash GUI 跨平台客户端。
    
    - 官网：https://www.clashverge.dev
    - GitHub 仓库：https://github.com/clash-verge-rev/clash-verge-rev
-     
-2. **Clash Meta For Android**（CMFA）：Android 系统代理客户端。
+
+2. **Clash Nyanpasu**：Clash GUI 跨平台客户端。
+
+   - 官网：https://nyanpasu.elaina.moe
+   - GitHub 仓库：https://github.com/libnyanpasu/clash-nyanpasu
+
+###### 仅支持 Android
+
+1. **Clash Meta For Android**（CMFA）：Android 系统代理客户端。
    
    - GitHub 仓库：https://github.com/MetaCubeX/ClashMetaForAndroid
 
