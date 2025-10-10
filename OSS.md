@@ -381,6 +381,11 @@
    - 官网：https://motrix.app
    - GitHub 仓库：https://github.com/agalwood/Motrix
 
+3. **imFile**（Electron）：Motrix 的延续。
+
+   - 官网（已失效）：~~[https://imfile.io](https://imfile.io)~~
+   - GitHub 仓库：https://github.com/imfile-io/imfile-desktop
+
 ## 学习辅助工具
 
 ### 一. 电子词典/百科软件
