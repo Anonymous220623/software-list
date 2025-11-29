@@ -40,7 +40,8 @@
 
 > [!NOTE]
 >
-> 如无特别说明，以下列出的地图导航软件均需从软件提供方的服务器上按需下载离线地图数据库。
+> 1. 如无特别说明，以下列出的地图导航软件均需从软件提供方的服务器上按需下载离线地图数据库。
+> 2. Organic Maps 比 CoMaps 在 F-Droid 上多了一个名为“非自由资源”的 Anti-Feature，建议大家优先考虑下载 CoMaps。
 
 1. **Organic Maps**：基于 [OpenStreetMaps](https://www.openstreetmap.org) 开放地图数据库的跨平台地图导航软件。
 
