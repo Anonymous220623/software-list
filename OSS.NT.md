@@ -48,7 +48,7 @@
 
 ### 系统对象查看器
 
-1. **WinObjEx64**：（仅支持 64 位）
+1. **WinObjEx64**：WinObjEx 的 x86_64 开源延续。
 
    - GitHub 仓库：https://github.com/hfiref0x/WinObjEx64
 
@@ -160,6 +160,10 @@
 2. **ExplorerPatcher**：功能全面且覆盖 Windows 版本广的资源管理器修改工具，可替代 StarDock Start 11 和 StartAllBack/StartIsBack 的修改任务栏和开始菜单的主要功能。
    
    - GitHub 仓库：https://github.com/valinet/ExplorerPatcher
+
+3. **Optimizer**（C#）：功能全面的 Windows 个性化工具。
+
+   - GitHub 仓库：https://github.com/hellzerg/optimizer
 
 ## 三. Windows 应用程序运行辅助工具
 
