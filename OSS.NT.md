@@ -46,7 +46,19 @@
    
    - GitHub 仓库：https://github.com/zodiacon/SystemExplorer
 
-### 系统对象查看器
+### 映像部署和管理工具/Dism GUI 前端
+
+1. **DismTools**（VB/.NET）：基于 Dism 并附带额外功能的 Windows 系统管理工具。
+
+   - GitHub 仓库：https://github.com/CodingWonders/DISMTools
+
+### 注册表编辑器（`regedit.exe`）替代品
+
+1. **Total Registry**：Windows 注册表编辑器。
+   
+   - GitHub 仓库：https://github.com/zodiacon/TotalRegistry
+
+### 内核对象查看器
 
 1. **WinObjEx64**：WinObjEx 的 x86_64 开源延续。
 
@@ -56,24 +68,18 @@
    
    - GitHub 仓库：https://github.com/zodiacon/ObjectExplorer
 
-### 注册表编辑器（`regedit.exe`）替代品
-
-1. **Total Registry**：Windows 注册表编辑器。
-   
-   - GitHub 仓库：https://github.com/zodiacon/TotalRegistry
-
-### [系统调用（Syscall）](https://en.wikipedia.org/wiki/System_call)
-
-1. **Syscall Tables**
-   
-   - GitHub 仓库：https://github.com/hfiref0x/SyscallTables
-
 ### 硬链接/符号链接查看工具
 
 1. **Link Shell Extension**：Windows NTFS 文件系统链接查看器，集成至 Windows Explorer 的文件管理器和右键菜单中。
    
    - GitLab 仓库：https://gitlab.com/schinagl/link-shell-extension
    - 项目主页：https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html
+
+### [系统调用（Syscall）](https://en.wikipedia.org/wiki/System_call)
+
+1. **Syscall Tables**
+   
+   - GitHub 仓库：https://github.com/hfiref0x/SyscallTables
 
 ## 二. Windows 用户页面个性化工具
 
@@ -105,11 +111,15 @@
 
 ### Windows Explorer 上下文菜单（右键菜单）自定义工具
 
-1. **SmartSystemMenu**：扩展 Windows 系统菜单的工具。
+1. **ContextMenuManager**（C#/.NET）：Windows 右键菜单管理工具。
+
+   - GitHub 仓库：https://github.com/BluePointLilac/ContextMenuManager
+
+2. **SmartSystemMenu**：扩展 Windows 系统菜单的工具。
    
    - GitHub 仓库：https://github.com/AlexanderPro/SmartSystemMenu
 
-2. **Nilesoft Shell**：Windows 上下文菜单管理器。
+3. **Nilesoft Shell**：Windows 上下文菜单管理器。
 
    - 官网：https://nilesoft.org
    - GitHub 仓库：https://github.com/moudey/shell
