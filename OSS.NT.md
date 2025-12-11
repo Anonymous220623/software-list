@@ -171,6 +171,7 @@
 2. **ExplorerPatcher**：功能全面且覆盖 Windows 版本广的资源管理器修改工具，可替代 StarDock Start 11 和 StartAllBack/StartIsBack 的修改任务栏和开始菜单的主要功能。
    
    - GitHub 仓库：https://github.com/valinet/ExplorerPatcher
+   - 其他 GitHub 仓库：https://github.com/Amrsatrio/ExplorerPatcher
 
 3. **Optimizer**（C#）：功能全面的 Windows 个性化工具。
 
