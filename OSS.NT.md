@@ -114,6 +114,7 @@
 1. **ContextMenuManager**（C#/.NET）：Windows 右键菜单管理工具。
 
    - GitHub 仓库：https://github.com/BluePointLilac/ContextMenuManager
+   - 延续版本 GitHub 仓库：https://github.com/Jack251970/ContextMenuManager
 
 2. **SmartSystemMenu**：扩展 Windows 系统菜单的工具。
    
